@@ -1,0 +1,24 @@
+Audit query,Category,Medcode,Read code,Read V2 5B code,Read term
+9,Influenza immunisation,105077,65E2000,65E20,Seasonal influenza vaccin given by other healthcare provider
+9,Influenza immunisation,107413,65E2100,65E21,First intranasal seasonal flu vacc gvn by othr hlthcare prov
+9,Influenza immunisation,107730,65E2200,65E22,Secnd intranasal seasonal flu vacc gvn by othr hlthcare prov
+9,Influenza immunisation,104688,65ED.00,65ED.,Seasonal influenza vaccination
+9,Influenza immunisation,105195,65ED000,65ED0,Seasonal influenza vaccination given by pharmacist
+9,Influenza immunisation,107297,65ED100,65ED1,Administration of first intranasal seasonal influenza vacc
+9,Influenza immunisation,107573,65ED200,65ED2,Seasonal influenza vaccination given while hospital inpt
+9,Influenza immunisation,107352,65ED300,65ED3,Administration of second intranasal seasonal influenza vacc
+9,Influenza immunisation,110854,65ED400,65ED4,Administration of first inactivated seasonal influenza vacc
+9,Influenza immunisation,112172,65ED500,65ED5,Administration of second inactivated seasonal influenza vacc
+9,Influenza immunisation exceptions,12088,14LJ.00,14LJ.,H/O: influenza vaccine allergy
+9,Influenza immunisation exceptions,12267,68NE.00,68NE.,No consent - influenza imm.
+9,Influenza immunisation exceptions,106987,68NE000,68NE0,No consent for seasonal influenza vaccination
+9,Influenza immunisation exceptions,10684,8I2F.00,8I2F.,Influenza vaccination contraindicated
+9,Influenza immunisation exceptions,104399,8I2F000,8I2F0,Seasonal influenza vaccination contraindicated
+9,Influenza immunisation exceptions,10674,9OX5.00,9OX5.,Influenza vaccination declined
+9,Influenza immunisation exceptions,104318,9OX5100,9OX51,Seasonal influenza vaccination declined
+9,Influenza immunisation exceptions,107151,9OX5200,9OX52,First intranasal influenza vaccination declined
+9,Influenza immunisation exceptions,107152,9OX5300,9OX53,Second intranasal influenza vaccination declined
+9,Influenza immunisation exceptions,107345,9OX5400,9OX54,First intranasal seasonal influenza vaccination declined
+9,Influenza immunisation exceptions,107346,9OX5600,9OX56,Second intranasal seasonal influenza vaccination declined
+9,Influenza immunisation exceptions,13025,U60K400,U60K4,[X]Influenza vaccine causing adverse effects therapeutic use
+9,Influenza immunisation exceptions,30772,ZV14F00,ZV14F,[V]Personal history of influenza vaccine allergy

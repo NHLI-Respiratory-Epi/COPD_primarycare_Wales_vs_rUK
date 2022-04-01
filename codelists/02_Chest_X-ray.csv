@@ -1,0 +1,21 @@
+Audit query,Category,Medcode,Read code,Read V2 5B code,Read term
+2,Chest X-ray,511,535..00,535..,Standard chest X-ray
+2,Chest X-ray,2018,535..11,535..,Chest X-ray - routine
+2,Chest X-ray,21333,5351.00,5351.,Standard chest X-ray requested
+2,Chest X-ray,14004,5352.00,5352.,Standard chest X-ray normal
+2,Chest X-ray,190,5352.11,5352.,Chest X-ray normal
+2,Chest X-ray,664,5353.00,5353.,Standard chest X-ray abnormal
+2,Chest X-ray,27016,535Z.00,535Z.,Standard chest X-ray NOS
+2,Chest X-ray,13980,536..00,536..,Soft tissue X-ray chest
+2,Chest X-ray,16309,5361.00,5361.,Soft tiss.X-ray chest normal
+2,Chest X-ray,15352,5362.00,5362.,Soft tiss.X-ray chest abnormal
+2,Chest X-ray,59483,5364.00,5364.,Soft tiss.X-ray lung/bronchus
+2,Chest X-ray,13988,5364.12,5364.,Lung soft tis. X-ray
+2,Chest X-ray,45615,536Z.00,536Z.,Soft tissue X-ray chest NOS
+2,Chest X-ray,19822,5637.00,5637.,Tomography - lungs
+2,Chest X-ray,100962,5678000,56780,CT (computed tomography) of chest and abdomen
+2,Chest X-ray,101066,5678011,56780,CT of thorax and abdomen
+2,Chest X-ray,100939,5678100,56781,"CT (computed tomography) of chest, abdomen and pelvis"
+2,Chest X-ray,101000,5678111,56781,"CT of thorax, abdomen and pelvis"
+2,Chest X-ray,6612,68C1.00,68C1.,Screening chest X-ray
+2,Chest X-ray,6134,68C1.11,68C1.,CXR - screening

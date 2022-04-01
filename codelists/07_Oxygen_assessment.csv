@@ -1,0 +1,29 @@
+Audit query,Category,Medcode,Read code,Read V2 5B code,Read term
+7,Oxygen assessment,101046,389A.00,389A.,Assessment for home oxygen therapy
+7,Oxygen assessment,100154,66Yn.00,66Yn.,Oxygen therapy initial assessment
+7,Oxygen assessment,100132,66Yo.00,66Yo.,Oxygen therapy follow up assessment
+7,Oxygen assessment,103773,6AJ..00,6AJ..,Home oxygen therapy review
+7,Oxygen assessment,57837,745E100,745E1,Long term oxygen assessment
+7,Oxygen assessment,65037,745E200,745E2,Ambulatory oxygen assessment
+7,Oxygen assessment,46088,8HHx.00,8HHx.,Referred for assessment of need for oxygen therapy
+7,Oxygen assessment,102622,8Hke.00,8Hke.,Referral to home oxygen service
+7,Oxygen assessment,54015,8I6b.00,8I6b.,Referral for long-term oxygen therapy assessmt not indicated
+7,Oxygen saturation,14254,44Y9.00,44Y9.,Blood oxygen saturation (calculated)
+7,Oxygen saturation,19841,44YA.00,44YA.,Blood oxygen saturation
+7,Oxygen saturation,105364,44YA000,44YA0,Oxygen saturation at periphery
+7,Oxygen saturation,105215,44YA011,44YA0,SpO2 - Oxygen saturation at periphery
+7,Oxygen saturation,106609,44YA100,44YA1,Peripheral blood oxygen saturation on room air at rest
+7,Oxygen saturation,107066,44YA200,44YA2,Peripheral blood oxygen saturation on room air on exertion
+7,Oxygen saturation,106857,44YA300,44YA3,Peripheral blood oxygen saturation supplmentl oxygen at rest
+7,Oxygen saturation,107513,44YA400,44YA4,Peripheral bld ox saturation on supplemental ox on exertion
+7,Oxygen saturation,108981,44YA500,44YA5,Baseline SpO2 (oxygen saturation at periphery)
+7,Oxygen saturation,100223,44YF.00,44YF.,"Blood gases, capillary measurement"
+7,Oxygen saturation,102320,44YF.11,44YF.,Capillary oxygen saturation
+7,Oxygen therapy,47121,745E.00,745E.,Oxygen therapy support
+7,Oxygen therapy,36719,877..00,877..,Oxygen enrichment therapy
+7,Oxygen therapy,6877,877..11,877..,Oxygen therapy
+7,Oxygen therapy,9598,8774.00,8774.,Oxygenator therapy
+7,Oxygen therapy,21699,8775.00,8775.,High concentration oxygen therapy
+7,Oxygen therapy,32889,8776.00,8776.,LTOT - Long-term oxygen therapy
+7,Oxygen therapy,51415,8777.00,8777.,SBOT - Short-burst oxygen therapy
+7,Oxygen therapy,52661,8778.00,8778.,Ambulatory oxygen therapy

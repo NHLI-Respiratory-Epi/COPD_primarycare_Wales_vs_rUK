@@ -1,0 +1,12 @@
+Audit query,Category,Medcode,Read code,Read V2 5B code,Read term
+11,Pulmonary rehabilitation,30647,8FA..00,8FA..,Pulmonary rehabilitation
+11,Pulmonary rehabilitation,58151,8FA0.00,8FA0.,Assessment for pulmonary rehabilitation completed
+11,Pulmonary rehabilitation,46844,8FA1.00,8FA1.,Pulmonary rehabilitation programme commenced
+11,Pulmonary rehabilitation,10845,8FA2.00,8FA2.,Pulmonary rehabilitation programme completed
+11,Pulmonary rehabilitation,40735,8H7u.00,8H7u.,Referral to pulmonary rehabilitation
+11,Pulmonary rehabilitation,106611,8I86.00,8I86.,Did not complete pulmonary rehabilitation programme
+11,Pulmonary rehabilitation,108220,9NSL.00,9NSL.,Pulmonary rehabilitation offered
+11,Pulmonary rehabilitation exception,110041,8I97.00,8I97.,Pulmonary rehabilitation programme not available
+11,Pulmonary rehabilitation exception,94952,8IA9.00,8IA9.,Pulmonary rehabilitation declined
+11,Pulmonary rehabilitation exception,99948,9kf0.00,9kf0.,COPD patient unsuitable for pulmonary rehab - enh serv admin
+11,Pulmonary rehabilitation exception,103864,9kf0.11,9kf0.,COPD patient unsuitable for pulmonary rehabilitation

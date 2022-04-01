@@ -1,0 +1,10 @@
+Audit query,Category,Medcode,Read code,Read V2 5B code,Read term
+8,Inhaler technique,6254,6636.00,6636.,Inhaler technique shown
+8,Inhaler technique,10711,6637.00,6637.,Inhaler technique observed
+8,Inhaler technique,8484,663H.00,663H.,Inhaler technique - good
+8,Inhaler technique,11758,663I.00,663I.,Inhaler technique - poor
+8,Inhaler technique,103693,663o.00,663o.,Declined to perform inhaler technique
+8,Inhaler technique,13118,66Y4.00,66Y4.,Inhaler technique - moderate
+8,Inhaler technique,104450,66Yv.00,66Yv.,Inhaler technique not checked
+8,Inhaler technique,107336,66Yy.00,66Yy.,Review of inhaler technique using inhaler checking device
+8,Inhaler technique,101596,8OA1.00,8OA1.,Provision of written information on inhaler technique

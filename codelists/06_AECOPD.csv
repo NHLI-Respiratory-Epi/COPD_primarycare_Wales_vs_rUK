@@ -1,0 +1,17 @@
+Audit query,Category,Medcode,Read code,Read V2 5B code,Read term
+6,Exacerbations,28743,66Yf.00,66Yf.,Number of COPD exacerbations in past year
+6,Exacerbations,1446,H312200,H3122,Acute exacerbation of chronic obstructive airways disease
+6,Exacerbations,21061,H3y0.00,H3y0.,Chronic obstruct pulmonary dis with acute lower resp infectn
+6,Exacerbations,7884,H3y1.00,H3y1.,"Chron obstruct pulmonary dis wth acute exacerbation, unspec"
+6,LRTI,312,H060.00,H060.,Acute bronchitis
+6,LRTI,5978,H060.11,H060.,Acute wheezy bronchitis
+6,LRTI,6124,H062.00,H062.,Acute lower respiratory tract infection
+6,LRTI,2581,H06z000,H06z0,Chest infection NOS
+6,LRTI,68,H06z011,H06z0,Chest infection
+6,LRTI,3358,H06z100,H06z1,Lower resp tract infection
+6,LRTI,293,H06z111,H06z1,Respiratory tract infection
+6,LRTI,37447,H06z112,H06z1,Acute lower respiratory tract infection
+6,LRTI,4899,H06z200,H06z2,Recurrent chest infection
+6,LRTI,66397,Hyu1.00,Hyu1.,[X]Other acute lower respiratory infections
+6,LRTI,73100,Hyu1000,Hyu10,[X]Acute bronchitis due to other specified organisms
+6,LRTI,99214,Hyu1100,Hyu11,[X]Acute bronchiolitis due to other specified organisms

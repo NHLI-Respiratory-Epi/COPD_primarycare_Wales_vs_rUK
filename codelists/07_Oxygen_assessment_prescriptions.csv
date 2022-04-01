@@ -1,0 +1,102 @@
+Audit query,Category,Medication,Prodcode,Gemscript code,Product Name,Drug Substance,BNF Code
+7,Oxygen therapy,,23337,!0089801,OXYGEN CYLINDER F SIZE 1280 LITRES,,00000000
+7,Oxygen therapy,,49379,09920020,Oxygen,Oxygen,03060000
+7,Oxygen therapy,,60928,09921020,Oxygen composite cylinders size F with integral headset (Medigas Ltd),Oxygen,03065000
+7,Oxygen therapy,,49566,09922020,Oxygen composite cylinders size DF with integral headset (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,51001,09926020,Medical Oxygen cylinders size F (Linde Gas UK Ltd),Oxygen,03065000
+7,Oxygen therapy,,51450,09927020,Oxygen cylinders size AF (Linde Gas UK Ltd),Oxygen,03065000
+7,Oxygen therapy,,64137,09928020,Medical Oxygen cylinders size C (Linde Gas UK Ltd),Oxygen,03065000
+7,Oxygen therapy,,50993,09936020,Medical Oxygen cylinders size D (Linde Gas UK Ltd),Oxygen,03065000
+7,Oxygen therapy,,53462,09937020,Medical Oxygen cylinders size AD 200 (Linde Gas UK Ltd),Oxygen,03065000
+7,Oxygen therapy,,57708,09943020,Oxygen cylinders size CD 300 with integral headset (Linde Gas UK Ltd),Oxygen,03065000
+7,Oxygen therapy,,71103,44361020,Oxygen Giving Spec 01A set,,03065400
+7,Oxygen therapy,,50893,44362020,BOC Domiflow Spec 01A oxygen set 888830 (BOC),,03065400
+7,Oxygen therapy,,50093,44363020,Oxylitre Spec 01A oxygen set M210 (Oxylitre),,03065400
+7,Oxygen therapy,,54045,44364020,Oxylitre Spec 01A oxygen set M410 (Oxylitre),,03065400
+7,Oxygen therapy,,70262,44365020,Puritan Bennett Spec 01A oxygen set 778435 (Puritan Bennett),,03065400
+7,Oxygen therapy,,63489,44367020,Therapy Equipment Dialreg Spec 01A oxygen set 5120 (Therapy),,03065400
+7,Oxygen therapy,,50136,44369020,Air Apparatus and Valve Spec 01B headset D24 (Protector),,03065400
+7,Oxygen therapy,,50097,44370020,Oxygen concentrator,,03065100
+7,Oxygen therapy,,49382,45120020,Oxygen connection tubing 150cm,,03065300
+7,Oxygen therapy,,62923,45123020,Oxygen connection tubing 150cm (Inter),,03065300
+7,Oxygen therapy,,50094,45130020,Oxygen connection tubing 1.8m,,03065300
+7,Oxygen therapy,,48927,45132020,Nasal cannula,,03065300
+7,Oxygen therapy,,4512,51044020,Ventimask Mk IV 28% mask 66gram (Flexicare Medical Ltd),,71410100
+7,Oxygen therapy,,9773,55297020,Venticaire mask 39gram (Flexicare Medical Ltd),,71410100
+7,Oxygen therapy,,11757,55324020,Intersurgical 010 28% mask 44gram (Intersurgical Ltd),,71410100
+7,Oxygen therapy,,10962,55327020,Intersurgical 005 mask 40gram (Intersurgical Ltd),,71410100
+7,Oxygen therapy,,3347,55330020,Oxygen BP size f gas 1360 litres,Oxygen,03065000
+7,Oxygen therapy,,11429,66315020,Intersurgical Nasal cannula 1161 (Intersurgical Ltd),,03065300
+7,Oxygen therapy,,9942,66319020,Oxygen connection Tubing 150cm,,03065300
+7,Oxygen therapy,,7890,66543020,Mc oxygen mask,,03065500
+7,Oxygen therapy,,3346,69432020,BOC Oxygen set 330228 (BOC Ltd),,03065400
+7,Oxygen therapy,,31558,69435020,Medishield Oxygen set MDS 240 (Ohmeda),,03065400
+7,Oxygen therapy,,9621,69438020,Oxylitre spec 01A Oxygen set M210 (Oxylitre Ltd),,03065400
+7,Oxygen therapy,,13011,69440020,Oxygen giving spec 01b oxygen set d24,,03065400
+7,Oxygen therapy,,33485,69444020,Ohmeda 2/4 Oxygen set 1550033 (Ohmeda),,03065400
+7,Oxygen therapy,,17468,69447020,Boc Domiflow Oxygen set 888830 Spec 01A (BOC Ltd),,03065400
+7,Oxygen therapy,,55868,69450020,Puritan bennett spec 01a Oxygen set 778435 (Puritan Bennett Ltd),,03065400
+7,Oxygen therapy,,4683,69454020,Oxygen cylinder stand 1360 litres size f,,03065300
+7,Oxygen therapy,,2510,69561020,Oxygen BP Gas 1280 litres,Oxygen,03065000
+7,Oxygen therapy,,8757,69564020,Oxygen BP Gas 3200 litres,Oxygen,03065000
+7,Oxygen therapy,,8183,69567020,Oxygen BP Gas 640 litres,Oxygen,03065000
+7,Oxygen therapy,,8074,69571020,Oxygen cylinder stand 1360 litres size af,,03065300
+7,Oxygen therapy,,8505,69574020,Oxygen BP Gas 6400 litres,Oxygen,03065000
+7,Oxygen therapy,,4412,69577020,Oxygen BP size g gas 3400 litres,Oxygen,03065000
+7,Oxygen therapy,,1924,69581020,Oxygen Concentrator,,03065100
+7,Oxygen therapy,,16869,70994020,Sabre medical Oxygen set Spec 01A (Sabre International),,03065400
+7,Oxygen therapy,,4791,73818020,Oxygen BP size c gas 170 litres,Oxygen,03065000
+7,Oxygen therapy,,4538,73822020,Oxygen BP size pd gas 300 litres,Oxygen,03065000
+7,Oxygen therapy,,6420,73825020,Oxygen BP size d gas 340 litres,Oxygen,03065000
+7,Oxygen therapy,,7031,73829020,Oxygen BP size e gas 680 litres,Oxygen,03065000
+7,Oxygen therapy,,1972,75865020,Oxygen BP size af lightweight gas 1360 litres,Oxygen,03065000
+7,Oxygen therapy,,5001,76658020,Oxygen giving spec 01a set,,03065400
+7,Oxygen therapy,,32058,80336020,Therapy equipment dialreg Spec 01A Oxygen set 5120 (Therapy Equipment Ltd),,03065400
+7,Oxygen therapy,,5780,82058020,Oxygen cylinders size AF (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,5584,82061020,Oxygen cylinders size PD (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,6419,82063020,Oxygen cylinders size F (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,23082,82172020,Oxylitre spec 01A Oxygen set M410 (Oxylitre Ltd),,03065400
+7,Oxygen therapy,,9895,82834020,Oxygen BP size df with integral headset gas 1360 litres,Oxygen,03065000
+7,Oxygen therapy,,6423,82838020,Oxygen BP with integral headset 1360 litre Inhalation gas (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,10043,82840020,Oxygen composite cylinders size B10C with integral headset (Air Products Plc),Oxygen,03065000
+7,Oxygen therapy,,7239,82842020,Oxygen cylinders size B10S (Air Products Plc),Oxygen,03065000
+7,Oxygen therapy,,21402,82844020,Oxygen cylinders size PD (Air Products Plc),Oxygen,03065000
+7,Oxygen therapy,,15214,82846020,Oxygen BP size PD 300 litre Inhalation gas (Medigas Ltd),Oxygen,03065000
+7,Oxygen therapy,,16124,82848020,Oxygen cylinders (Medigas Ltd),Oxygen,03065000
+7,Oxygen therapy,,7138,82965020,Oxygen 28% constant performance masks,,71410100
+7,Oxygen therapy,,10054,82967020,Oxygen variable performance masks,,71410100
+7,Oxygen therapy,,5773,84302020,Oxygen BP size dd gas 460 litres,Oxygen,03065000
+7,Oxygen therapy,,5976,84303020,Oxygen BP size DD 460 litre Inhalation gas (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,12910,84633020,Venticaire Venturi 28% mask 39gram (Flexicare Medical Ltd),,71410100
+7,Oxygen therapy,,6556,85919020,Oxygen cylinders size C (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,23905,85927020,Oxygen cylinders size D (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,7042,85930020,Oxygen cylinders size E (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,9889,85933020,Oxygen cylinders size G (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,21779,85936020,Air apparatus & valve spec 01b Headset D24 (Protector Technologies Group),,03065400
+7,Oxygen therapy,,10005,85938020,Oxygen Concentrator (BOC Ltd),,03065100
+7,Oxygen therapy,,9775,85940020,Oxygen Concentrator (De Vilbiss Health Care Ltd),,03065100
+7,Oxygen therapy,,18558,85942020,Oxygen Concentrator (Air Products Plc),,03065100
+7,Oxygen therapy,,10154,86044020,Oxygen Connection tubing 150cm (BOC Ltd),,03065300
+7,Oxygen therapy,,15278,86046020,Oxygen Connection tubing 150cm (Flexicare Medical Ltd),,03065300
+7,Oxygen therapy,,21407,86050020,Oxygen Connection tubing 150cm (Intersurgical Ltd),,03065300
+7,Oxygen therapy,,21560,86053020,Oxygen Connection tubing 150cm (Medigas Ltd),,03065300
+7,Oxygen therapy,,30097,86056020,Oxygen Connection tubing 150cm (Ohmeda),,03065300
+7,Oxygen therapy,,22934,86059020,Oxygen Connection tubing 150cm (Oxylitre Ltd),,03065300
+7,Oxygen therapy,,25806,86060020,Oxygen Connection tubing 150cm (Protector Technologies Group),,03065300
+7,Oxygen therapy,,25803,86062020,Oxygen Connection tubing 150cm (Mallinckrodt),,03065300
+7,Oxygen therapy,,9870,86063020,Oxygen Connection tubing 150cm (Therapy Equipment Ltd),,03065300
+7,Oxygen therapy,,13206,86228020,Oxygen BP with integral headset gas 300 litres,Oxygen,03065000
+7,Oxygen therapy,,6976,86230020,Oxygen BP with integral headset gas 430 litres,Oxygen,03065000
+7,Oxygen therapy,,15979,86231020,Oxygen BP with integral headset 300 litre Inhalation gas (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,15281,86233020,Oxygen cylinders size PA2 with integral headset (Air Products Plc),Oxygen,03065000
+7,Oxygen therapy,,11659,86687020,Oxygen BP size dd with integral headset gas 460 litres,Oxygen,03065000
+7,Oxygen therapy,,6848,86689020,Oxygen cylinders size DD with integral headset 2 and 4litres/minute flow rate (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,6619,91928020,Oxygen BP size cd gas 460 litres,Oxygen,03065000
+7,Oxygen therapy,,6768,91930020,Oxygen BP size CD 460 litre Inhalation gas (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,10053,92395020,Oxygen connection Cubing 1.8m,,03065300
+7,Oxygen therapy,,17005,92504020,Oxygen BP size cd with integral headset gas 460 litres,Oxygen,03065000
+7,Oxygen therapy,,16523,92506020,Oxygen cylinders size CD with integral headset 0-15litres/minute flow rate (BOC Ltd),Oxygen,03065000
+7,Oxygen therapy,,17644,94832020,Oxygen BP with integral headset gas 2122 litres,Oxygen,03065000
+7,Oxygen therapy,,21331,94990020,Oxygen composite cylinders with integral headset (Air Products Plc),Oxygen,03065000
+7,Oxygen therapy,,21330,95323020,Oxygen composite cylinders size IF2 with integral headset (Medigas Ltd),Oxygen,03065000
+7,Oxygen therapy,,35566,97214020,Oxygen BP with set gas 1360 litres,Oxygen,03065000

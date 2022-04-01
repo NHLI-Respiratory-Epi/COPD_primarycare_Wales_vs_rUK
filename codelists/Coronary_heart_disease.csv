@@ -1,0 +1,166 @@
+Category,Medcode,Read code,Read V2 5B code,Read term
+Coronary heart disease,6336,14A5.00,14A5.,H/O: angina pectoris
+Coronary heart disease,57062,14AJ.00,14AJ.,H/O: Angina in last year
+Coronary heart disease,374,182..00,182..,Chest pain
+Coronary heart disease,7346,1822.00,1822.,Central chest pain
+Coronary heart disease,18134,182A.00,182A.,Chest pain on exertion
+Coronary heart disease,10370,182Z.00,182Z.,Chest pain NOS
+Coronary heart disease,103655,187..00,187..,Frequency of angina
+Coronary heart disease,1628,3213100,32131,Exercise ECG abnormal
+Coronary heart disease,19827,3213111,32131,Positive exercise ECG test
+Coronary heart disease,26973,3222.00,3222.,ECG:shows myocardial ischaemia
+Coronary heart disease,35287,322Z.00,322Z.,ECG: myocardial ischaemia NOS
+Coronary heart disease,42104,32E4.00,32E4.,ECG: S-T depression
+Coronary heart disease,39584,3889.00,3889.,Euroscore for angina
+Coronary heart disease,52637,388E.00,388E.,Canadian Cardiovascular Society classification of angina
+Coronary heart disease,57962,388F.00,388F.,Cardiovascular Limitations and Symptoms Profile angina score
+Coronary heart disease,1021,5543.00,5543.,Coronary arteriograph.abnormal
+Coronary heart disease,58135,5C11.00,5C11.,Radionuclide heart study abnormal
+Coronary heart disease,107967,661M000,661M0,Angina self-management plan agreed
+Coronary heart disease,109391,661N000,661N0,Angina self-management plan review
+Coronary heart disease,13185,662K.00,662K.,Angina control
+Coronary heart disease,19542,662K000,662K0,Angina control - good
+Coronary heart disease,15373,662K100,662K1,Angina control - poor
+Coronary heart disease,14782,662K200,662K2,Angina control - improving
+Coronary heart disease,29300,662K300,662K3,Angina control - worsening
+Coronary heart disease,15349,662Kz00,662Kz,Angina control NOS
+Coronary heart disease,5904,792..00,792..,Coronary artery operations
+Coronary heart disease,737,792..11,792..,Coronary artery bypass graft operations
+Coronary heart disease,18249,7920.00,7920.,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,8312,7920.11,7920.,Saphenous vein graft bypass of coronary artery
+Coronary heart disease,8679,7920000,79200,Saphenous vein graft replacement of one coronary artery
+Coronary heart disease,7634,7920100,79201,Saphenous vein graft replacement of two coronary arteries
+Coronary heart disease,7442,7920200,79202,Saphenous vein graft replacement of three coronary arteries
+Coronary heart disease,11610,7920300,79203,Saphenous vein graft replacement of four+ coronary arteries
+Coronary heart disease,7137,7920y00,7920y,Saphenous vein graft replacement of coronary artery OS
+Coronary heart disease,51515,7920z00,7920z,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,9414,7921.00,7921.,Other autograft replacement of coronary artery
+Coronary heart disease,7134,7921.11,7921.,Other autograft bypass of coronary artery
+Coronary heart disease,44561,7921000,79210,Autograft replacement of one coronary artery NEC
+Coronary heart disease,19413,7921100,79211,Autograft replacement of two coronary arteries NEC
+Coronary heart disease,10209,7921200,79212,Autograft replacement of three coronary arteries NEC
+Coronary heart disease,42708,7921300,79213,Autograft replacement of four of more coronary arteries NEC
+Coronary heart disease,61310,7921y00,7921y,Other autograft replacement of coronary artery OS
+Coronary heart disease,7609,7921z00,7921z,Other autograft replacement of coronary artery NOS
+Coronary heart disease,31556,7922.00,7922.,Allograft replacement of coronary artery
+Coronary heart disease,32651,7922.11,7922.,Allograft bypass of coronary artery
+Coronary heart disease,70111,7922000,79220,Allograft replacement of one coronary artery
+Coronary heart disease,57241,7922100,79221,Allograft replacement of two coronary arteries
+Coronary heart disease,45886,7922200,79222,Allograft replacement of three coronary arteries
+Coronary heart disease,45370,7922300,79223,Allograft replacement of four or more coronary arteries
+Coronary heart disease,59423,7922y00,7922y,Other specified allograft replacement of coronary artery
+Coronary heart disease,48767,7922z00,7922z,Allograft replacement of coronary artery NOS
+Coronary heart disease,19402,7923.00,7923.,Prosthetic replacement of coronary artery
+Coronary heart disease,36011,7923.11,7923.,Prosthetic bypass of coronary artery
+Coronary heart disease,92419,7923000,79230,Prosthetic replacement of one coronary artery
+Coronary heart disease,66664,7923100,79231,Prosthetic replacement of two coronary arteries
+Coronary heart disease,66236,7923200,79232,Prosthetic replacement of three coronary arteries
+Coronary heart disease,67761,7923300,79233,Prosthetic replacement of four or more coronary arteries
+Coronary heart disease,19193,7923z00,7923z,Prosthetic replacement of coronary artery NOS
+Coronary heart disease,33461,7924.00,7924.,Revision of bypass for coronary artery
+Coronary heart disease,52938,7924000,79240,Revision of bypass for one coronary artery
+Coronary heart disease,67554,7924100,79241,Revision of bypass for two coronary arteries
+Coronary heart disease,31540,7924200,79242,Revision of bypass for three coronary arteries
+Coronary heart disease,97953,7924y00,7924y,Other specified revision of bypass for coronary artery
+Coronary heart disease,57634,7924z00,7924z,Revision of bypass for coronary artery NOS
+Coronary heart disease,37682,7925.00,7925.,Connection of mammary artery to coronary artery
+Coronary heart disease,28837,7925.11,7925.,Creation of bypass from mammary artery to coronary artery
+Coronary heart disease,33718,7925000,79250,Double anastomosis of mammary arteries to coronary arteries
+Coronary heart disease,48822,7925011,79250,LIMA sequential anastomosis
+Coronary heart disease,92233,7925012,79250,RIMA sequential anastomosis
+Coronary heart disease,31519,7925100,79251,Double implant of mammary arteries into coronary arteries
+Coronary heart disease,51507,7925300,79253,Single anastomosis of mammary artery to coronary artery NEC
+Coronary heart disease,22647,7925311,79253,LIMA single anastomosis
+Coronary heart disease,68123,7925312,79253,RIMA single anastomosis
+Coronary heart disease,68139,7925400,79254,Single implantation of mammary artery into coronary artery
+Coronary heart disease,37719,7925y00,7925y,Connection of mammary artery to coronary artery OS
+Coronary heart disease,56990,7925z00,7925z,Connection of mammary artery to coronary artery NOS
+Coronary heart disease,96804,7926.00,7926.,Connection of other thoracic artery to coronary artery
+Coronary heart disease,62608,7926000,79260,Double anastom thoracic arteries to coronary arteries NEC
+Coronary heart disease,67591,7926200,79262,Single anastomosis of thoracic artery to coronary artery NEC
+Coronary heart disease,60753,7926300,79263,Single implantation thoracic artery into coronary artery NEC
+Coronary heart disease,72780,7926z00,7926z,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,5744,7927500,79275,Open angioplasty of coronary artery
+Coronary heart disease,2901,7928.00,7928.,Transluminal balloon angioplasty of coronary artery
+Coronary heart disease,5703,7928.11,7928.,Percutaneous balloon coronary angioplasty
+Coronary heart disease,18670,7928000,79280,Percut transluminal balloon angioplasty one coronary artery
+Coronary heart disease,33735,7928100,79281,Percut translum balloon angioplasty mult coronary arteries
+Coronary heart disease,42462,7928200,79282,Percut translum balloon angioplasty bypass graft coronary a
+Coronary heart disease,86071,7928300,79283,Percut translum cutting balloon angioplasty coronary artery
+Coronary heart disease,41547,7928y00,7928y,Transluminal balloon angioplasty of coronary artery OS
+Coronary heart disease,732,7928z00,7928z,Transluminal balloon angioplasty of coronary artery NOS
+Coronary heart disease,22828,7929000,79290,Percutaneous transluminal laser coronary angioplasty
+Coronary heart disease,19046,7929300,79293,Rotary blade coronary angioplasty
+Coronary heart disease,8942,7929400,79294,Insertion of coronary artery stent
+Coronary heart disease,42304,7929500,79295,Insertion of drug-eluting coronary artery stent
+Coronary heart disease,93618,7929600,79296,Percutaneous transluminal atherectomy of coronary artery
+Coronary heart disease,22020,792B000,792B0,Endarterectomy of coronary artery NEC
+Coronary heart disease,55598,792C.00,792C.,Other replacement of coronary artery
+Coronary heart disease,55092,792C000,792C0,Replacement of coronary arteries using multiple methods
+Coronary heart disease,93828,792Cy00,792Cy,Other specified replacement of coronary artery
+Coronary heart disease,70755,792Cz00,792Cz,Replacement of coronary artery NOS
+Coronary heart disease,34963,792D.00,792D.,Other bypass of coronary artery
+Coronary heart disease,3159,792Dy00,792Dy,Other specified other bypass of coronary artery
+Coronary heart disease,33471,792Dz00,792Dz,Other bypass of coronary artery NOS
+Coronary heart disease,43939,793G.00,793G.,Perc translumin balloon angioplasty stenting coronary artery
+Coronary heart disease,60067,793G000,793G0,Perc translum ball angio insert 1-2 drug elut stents cor art
+Coronary heart disease,87849,793G100,793G1,Perc tran ball angio ins 3 or more drug elut stents cor art
+Coronary heart disease,85947,793G200,793G2,Perc translum balloon angioplasty insert 1-2 stents cor art
+Coronary heart disease,92927,793G300,793G3,Percutaneous cor balloon angiop 3 more stents cor art NEC
+Coronary heart disease,96537,793Gy00,793Gy,OS perc translumina balloon angioplast stenting coronary art
+Coronary heart disease,61208,793Gz00,793Gz,Perc translum balloon angioplasty stenting coronary art NOS
+Coronary heart disease,733,7A54000,7A540,Percutaneous transluminal angioplasty of artery NEC
+Coronary heart disease,38813,7A54500,7A545,Rotary blade angioplasty
+Coronary heart disease,70185,7A54800,7A548,Percutaneous transluminal atherectomy
+Coronary heart disease,86773,7A56400,7A564,Percutaneous transluminal balloon angioplasty of artery
+Coronary heart disease,20903,7A6G100,7A6G1,Peroperative angioplasty
+Coronary heart disease,45960,8B27.00,8B27.,Antianginal therapy
+Coronary heart disease,8264,8HTG.00,8HTG.,Referred to acute chest pain clinic
+Coronary heart disease,12509,8HTJ.00,8HTJ.,Referral to rapid access chest pain clinic
+Coronary heart disease,108056,8IEY.00,8IEY.,Referral to Angina Plan self-management programme declined
+Coronary heart disease,107574,8T04.00,8T04.,Referral to Angina Plan self-management programme
+Coronary heart disease,9714,9N0f.00,9N0f.,Seen in rapid access chest pain clinic
+Coronary heart disease,36523,G311.00,G311.,Preinfarction syndrome
+Coronary heart disease,4656,G311.11,G311.,Crescendo angina
+Coronary heart disease,39655,G311.12,G311.,Impending infarction
+Coronary heart disease,1431,G311.13,G311.,Unstable angina
+Coronary heart disease,19655,G311.14,G311.,Angina at rest
+Coronary heart disease,7347,G311100,G3111,Unstable angina
+Coronary heart disease,17307,G311200,G3112,Angina at rest
+Coronary heart disease,34328,G311300,G3113,Refractory angina
+Coronary heart disease,18118,G311400,G3114,Worsening angina
+Coronary heart disease,11983,G311500,G3115,Acute coronary syndrome
+Coronary heart disease,54251,G311z00,G311z,Preinfarction syndrome NOS
+Coronary heart disease,39449,G312.00,G312.,Coronary thrombosis not resulting in myocardial infarction
+Coronary heart disease,9276,G31y000,G31y0,Acute coronary insufficiency
+Coronary heart disease,1430,G33..00,G33..,Angina pectoris
+Coronary heart disease,20095,G330.00,G330.,Angina decubitus
+Coronary heart disease,18125,G330000,G3300,Nocturnal angina
+Coronary heart disease,29902,G330z00,G330z,Angina decubitus NOS
+Coronary heart disease,12986,G331.00,G331.,Prinzmetal's angina
+Coronary heart disease,11048,G331.11,G331.,Variant angina pectoris
+Coronary heart disease,36854,G332.00,G332.,Coronary artery spasm
+Coronary heart disease,25842,G33z.00,G33z.,Angina pectoris NOS
+Coronary heart disease,1414,G33z300,G33z3,Angina on effort
+Coronary heart disease,32450,G33z400,G33z4,Ischaemic chest pain
+Coronary heart disease,9555,G33z500,G33z5,Post infarct angina
+Coronary heart disease,26863,G33z600,G33z6,New onset angina
+Coronary heart disease,12804,G33z700,G33z7,Stable angina
+Coronary heart disease,28554,G33zz00,G33zz,Angina pectoris NOS
+Coronary heart disease,24540,G34y000,G34y0,Chronic coronary insufficiency
+Coronary heart disease,39546,Gyu3000,Gyu30,[X]Other forms of angina pectoris
+Coronary heart disease,2584,R065.00,R065.,[D]Chest pain
+Coronary heart disease,544,R065000,R0650,"[D]Chest pain, unspecified"
+Coronary heart disease,29490,R065011,R0650,[D] Retrosternal chest pain
+Coronary heart disease,21082,R065C00,R065C,[D]Retrosternal chest pain
+Coronary heart disease,50477,R065D00,R065D,[D]Central chest pain
+Coronary heart disease,3796,R065z00,R065z,[D]Chest pain NOS
+Coronary heart disease,12734,SP07600,SP076,Coronary artery bypass graft occlusion
+Coronary heart disease,59350,ZR37.00,ZR37.,Canadian Cardiovascular Society classification of angina
+Coronary heart disease,55673,ZR3P.00,ZR3P.,CLASP angina score
+Coronary heart disease,57910,ZR3P.11,ZR3P.,CLASP angina score
+Coronary heart disease,98295,ZRB1.00,ZRB1.,Euroscore for angina
+Coronary heart disease,18913,ZV45700,ZV457,[V]Presence of aortocoronary bypass graft
+Coronary heart disease,18643,ZV45800,ZV458,[V]Presence of coronary angioplasty implant and graft
+Coronary heart disease,5030,ZV45K00,ZV45K,[V]Presence of coronary artery bypass graft
+Coronary heart disease,5674,ZV45K11,ZV45K,[V]Presence of coronary artery bypass graft - CABG

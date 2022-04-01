@@ -1,0 +1,77 @@
+Audit query,Category,Medcode,Read code,Read V2 5B code,Read term
+5,Smoking status - Current smoker,54,137..00,137..,Tobacco consumption
+5,Smoking status - Current smoker,12942,137..11,137..,Smoker - amount smoked
+5,Smoking status - Current smoker,12958,1372.00,1372.,Trivial smoker - < 1 cig/day
+5,Smoking status - Current smoker,12941,1372.11,1372.,Occasional smoker
+5,Smoking status - Current smoker,12944,1373.00,1373.,Light smoker - 1-9 cigs/day
+5,Smoking status - Current smoker,1878,1374.00,1374.,Moderate smoker - 10-19 cigs/d
+5,Smoking status - Current smoker,3568,1375.00,1375.,Heavy smoker - 20-39 cigs/day
+5,Smoking status - Current smoker,1822,1376.00,1376.,Very heavy smoker - 40+cigs/d
+5,Smoking status - Current smoker,12964,137C.00,137C.,Keeps trying to stop smoking
+5,Smoking status - Current smoker,46654,137D.00,137D.,Admitted tobacco cons untrue ?
+5,Smoking status - Current smoker,12240,137G.00,137G.,Trying to give up smoking
+5,Smoking status - Current smoker,12947,137H.00,137H.,Pipe smoker
+5,Smoking status - Current smoker,12943,137J.00,137J.,Cigar smoker
+5,Smoking status - Current smoker,12945,137M.00,137M.,Rolls own cigarettes
+5,Smoking status - Current smoker,93,137P.00,137P.,Cigarette smoker
+5,Smoking status - Current smoker,1823,137P.11,137P.,Smoker
+5,Smoking status - Current smoker,12952,137Q.00,137Q.,Smoking started
+5,Smoking status - Current smoker,12951,137Q.11,137Q.,Smoking restarted
+5,Smoking status - Current smoker,10558,137R.00,137R.,Current smoker
+5,Smoking status - Current smoker,12966,137V.00,137V.,Smoking reduced
+5,Smoking status - Current smoker,12965,137X.00,137X.,Cigarette consumption
+5,Smoking status - Current smoker,12963,137Y.00,137Y.,Cigar consumption
+5,Smoking status - Current smoker,12960,137Z.00,137Z.,Tobacco consumption NOS
+5,Smoking status - Current smoker,12967,137a.00,137a.,Pipe tobacco consumption
+5,Smoking status - Current smoker,31114,137b.00,137b.,Ready to stop smoking
+5,Smoking status - Current smoker,30423,137c.00,137c.,Thinking about stopping smoking
+5,Smoking status - Current smoker,30762,137d.00,137d.,Not interested in stopping smoking
+5,Smoking status - Current smoker,41979,137e.00,137e.,Smoking restarted
+5,Smoking status - Current smoker,46321,137f.00,137f.,Reason for restarting smoking
+5,Smoking status - Current smoker,46300,137g.00,137g.,Cigarette pack-years
+5,Smoking status - Current smoker,62686,137h.00,137h.,Minutes from waking to first tobacco consumption
+5,Smoking status - Current smoker,101338,137m.00,137m.,Failed attempt to stop smoking
+5,Smoking status - Current smoker,105501,137o.00,137o.,Waterpipe tobacco consumption
+5,Smoking status - Current smoker,26096,13cA.00,13cA.,Smokes drugs
+5,Smoking status - Current smoker,11713,388B.00,388B.,Pack years
+5,Smoking status - Current smoker,2111,6791.00,6791.,Health ed. - smoking
+5,Smoking status - Current smoker,10184,67A3.00,67A3.,Pregnancy smoking advice
+5,Smoking status - Current smoker,18926,67H1.00,67H1.,Lifestyle advice regarding smoking
+5,Smoking status - Current smoker,90522,745Hz00,745Hz,Smoking cessation therapy NOS
+5,Smoking status - Current smoker,41042,8CAg.00,8CAg.,Smoking cessation advice provided by community pharmacist
+5,Smoking status - Current smoker,10742,8HTK.00,8HTK.,Referral to stop-smoking clinic
+5,Smoking status - Current smoker,98154,8HkQ.00,8HkQ.,Referral to NHS stop smoking service
+5,Smoking status - Current smoker,100099,8IAj.00,8IAj.,Smoking cessation advice declined
+5,Smoking status - Current smoker,40418,9OO2.00,9OO2.,Refuses stop smoking monitor
+5,Smoking status - Current smoker,53101,9OO7.00,9OO7.,Stop smoking monitor verb.inv.
+5,Smoking status - Current smoker,98347,9ko..00,9ko..,Current smoker annual review - enhanced services admin
+5,Smoking status - Current smoker,104310,9ko..11,9ko..,Current smoker annual review
+5,Smoking status - Current smoker,32687,E251.00,E251.,Tobacco dependence
+5,Smoking status - Current smoker,95610,E251000,E2510,"Tobacco dependence, unspecified"
+5,Smoking status - Current smoker,70746,E251100,E2511,"Tobacco dependence, continuous"
+5,Smoking status - Current smoker,68658,E251z00,E251z,Tobacco dependence NOS
+5,Smoking status - Current smoker,101519,Eu17300,Eu173,[X]Mental and behav dis due to use tobacco: withdrawal state
+5,Smoking status - Current smoker,43433,SMC..00,SMC..,Toxic effect of tobacco and nicotine
+5,Smoking status - Current smoker,12954,ZV4K000,ZV4K0,[V]Tobacco use
+5,Smoking status - Current smoker,35055,ZV6D800,ZV6D8,[V]Tobacco abuse counselling
+5,Smoking status - Ex-smoker,12961,1377.00,1377.,Ex-trivial smoker (<1/day)
+5,Smoking status - Ex-smoker,12957,1378.00,1378.,Ex-light smoker (1-9/day)
+5,Smoking status - Ex-smoker,12955,1379.00,1379.,Ex-moderate smoker (10-19/day)
+5,Smoking status - Ex-smoker,12956,137A.00,137A.,Ex-heavy smoker (20-39/day)
+5,Smoking status - Ex-smoker,12959,137B.00,137B.,Ex-very heavy smoker (40+/day)
+5,Smoking status - Ex-smoker,12946,137F.00,137F.,Ex-smoker - amount unknown
+5,Smoking status - Ex-smoker,776,137K.00,137K.,Stopped smoking
+5,Smoking status - Ex-smoker,99838,137K000,137K0,Recently stopped smoking
+5,Smoking status - Ex-smoker,60,137L.00,137L.,Current non-smoker
+5,Smoking status - Ex-smoker,26470,137N.00,137N.,Ex pipe smoker
+5,Smoking status - Ex-smoker,19488,137O.00,137O.,Ex cigar smoker
+5,Smoking status - Ex-smoker,90,137S.00,137S.,Ex smoker
+5,Smoking status - Ex-smoker,12878,137T.00,137T.,Date ceased smoking
+5,Smoking status - Ex-smoker,97210,137j.00,137j.,Ex-cigarette smoker
+5,Smoking status - Ex-smoker,100495,137l.00,137l.,Ex roll-up cigarette smoker
+5,Smoking status - Ex-smoker,98447,9km..00,9km..,Ex-smoker annual review - enhanced services administration
+5,Smoking status - Ex-smoker,100963,9km..11,9km..,Ex-smoker annual review
+5,Smoking status - Ex-smoker,72706,E251300,E2513,Tobacco dependence in remission
+5,Smoking status - Ex-smoker,72700,ZV11600,ZV116,[V]Personal history of tobacco abuse
+5,Smoking status - Never smoker,33,1371.00,1371.,Never smoked tobacco
+5,Smoking status - Never smoker,11788,1371.11,1371.,Non-smoker

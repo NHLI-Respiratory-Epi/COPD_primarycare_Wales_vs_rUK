@@ -1,0 +1,41 @@
+Category,Medcode,Read code,Read V2 5B code,Read term
+Lung cancer,13243,B22..00,B22..,"Malignant neoplasm of trachea, bronchus and lung"
+Lung cancer,12870,B221.00,B221.,Malignant neoplasm of main bronchus
+Lung cancer,17391,B221000,B2210,Malignant neoplasm of carina of bronchus
+Lung cancer,33444,B221100,B2211,Malignant neoplasm of hilus of lung
+Lung cancer,21698,B221z00,B221z,Malignant neoplasm of main bronchus NOS
+Lung cancer,10358,B222.00,B222.,"Malignant neoplasm of upper lobe, bronchus or lung"
+Lung cancer,20170,B222.11,B222.,Pancoast's syndrome
+Lung cancer,31700,B222000,B2220,Malignant neoplasm of upper lobe bronchus
+Lung cancer,25886,B222100,B2221,Malignant neoplasm of upper lobe of lung
+Lung cancer,44169,B222z00,B222z,"Malignant neoplasm of upper lobe, bronchus or lung NOS"
+Lung cancer,31268,B223.00,B223.,"Malignant neoplasm of middle lobe, bronchus or lung"
+Lung cancer,41523,B223000,B2230,Malignant neoplasm of middle lobe bronchus
+Lung cancer,39923,B223100,B2231,Malignant neoplasm of middle lobe of lung
+Lung cancer,54134,B223z00,B223z,"Malignant neoplasm of middle lobe, bronchus or lung NOS"
+Lung cancer,31188,B224.00,B224.,"Malignant neoplasm of lower lobe, bronchus or lung"
+Lung cancer,18678,B224000,B2240,Malignant neoplasm of lower lobe bronchus
+Lung cancer,12582,B224100,B2241,Malignant neoplasm of lower lobe of lung
+Lung cancer,42566,B224z00,B224z,"Malignant neoplasm of lower lobe, bronchus or lung NOS"
+Lung cancer,36371,B225.00,B225.,Malignant neoplasm of overlapping lesion of bronchus & lung
+Lung cancer,38961,B22y.00,B22y.,Malignant neoplasm of other sites of bronchus or lung
+Lung cancer,3903,B22z.00,B22z.,Malignant neoplasm of bronchus or lung NOS
+Lung cancer,2587,B22z.11,B22z.,Lung cancer
+Lung cancer,9156,BB1K.00,BB1K.,[M]Oat cell carcinoma
+Lung cancer,67970,BB1L.00,BB1L.,"[M]Small cell carcinoma, fusiform cell type"
+Lung cancer,30988,BB1M.00,BB1M.,"[M]Small cell carcinoma, intermediate cell"
+Lung cancer,21217,BB1N.00,BB1N.,[M]Small cell-large cell carcinoma
+Lung cancer,33775,BB5J.00,BB5J.,[M]Adenoid cystic carcinoma
+Lung cancer,34879,BB5J.11,BB5J.,[M]Cylindroid adenocarcinoma
+Lung cancer,60756,BB5J.12,BB5J.,[M]Cylindroid bronchial adenoma
+Lung cancer,5265,BB5J.13,BB5J.,[M]Cylindroma NOS
+Lung cancer,34110,BB5R100,BB5R1,"[M]Carcinoid tumour, malignant"
+Lung cancer,23081,BB5R111,BB5R1,[M]Carcinoid bronchial adenoma
+Lung cancer,34015,BB5S200,BB5S2,[M]Bronchiolo-alveolar adenocarcinoma
+Lung cancer,36530,BB5S211,BB5S2,[M]Alveolar cell carcinoma
+Lung cancer,16723,BB5S212,BB5S2,[M]Bronchiolar carcinoma
+Lung cancer,57802,BB5S400,BB5S4,[M]Alveolar adenocarcinoma
+Lung cancer,67934,BBLA.00,BBLA.,"[M]Carcinosarcoma, embryonal type"
+Lung cancer,61082,BBLA.11,BBLA.,[M]Pneumoblastoma
+Lung cancer,48348,BBLM.00,BBLM.,[M]Pulmonary blastoma
+Lung cancer,40595,Byu2000,Byu20,"[X]Malignant neoplasm of bronchus or lung, unspecified"

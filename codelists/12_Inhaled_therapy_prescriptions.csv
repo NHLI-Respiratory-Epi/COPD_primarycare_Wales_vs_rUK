@@ -1,0 +1,511 @@
+Audit query,Category,Medication,Prodcode,Gemscript code,Product Name,Drug Substance,BNF Code
+12,Inhaled therapy,ICS,20763,!0576601,BECLOFORTE,,00000000
+12,Inhaled therapy,ICS,22225,!0578301,BECLOMETHASONE /SALBUTAMOL,,00000000
+12,Inhaled therapy,ICS,19563,!0584101,BECOTIDE FOR NEBULISER,,00000000
+12,Inhaled therapy,ICS,24219,!0584103,BECOTIDE ROTACAPS,,00000000
+12,Inhaled therapy,ICS,19736,!0584104,BECOTIDE SUSP FOR NEBULISATION,,00000000
+12,Inhaled therapy,ICS,20707,!0584401,BECOTIDE 100,,00000000
+12,Inhaled therapy,ICS,27525,!0584601,BECOTIDE 50,,00000000
+12,Inhaled therapy,ICS,24660,!0686401,BETAMETHASONE VALERATE,,00000000
+12,Inhaled therapy,ICS,27915,!2659617,FLUTICASONE PROP DISK REFILL,,00000000
+12,Inhaled therapy,ICS,26665,!5938601,PULMICORT COMPLETE,,00000000
+12,Inhaled therapy,ICS,20812,!5938605,PULMICORT REFILL,,00000000
+12,Inhaled therapy,ICS,27583,!5938606,PULMICORT,,00000000
+12,Inhaled therapy,ICS,23675,!5938702,PULMICORT L.S. REFIL,,00000000
+12,Inhaled therapy,ICS,36253,!8503874,BECLOMETHASONE EXTRAFINE PARTICLE CFC FR,,00000000
+12,Inhaled therapy,ICS,17726,!8503875,QVAR CFC FREE,,00000000
+12,Inhaled therapy,ICS,17691,!8503876,QVAR CFC FREE,,00000000
+12,Inhaled therapy,ICS,17800,!8503879,BECLOMETHASONE EXTRAFINE PARTICLE B/A,,00000000
+12,Inhaled therapy,ICS,17695,!8503881,QVAR AUTOHALER,,00000000
+12,Inhaled therapy,ICS,17702,!8503882,QVAR AUTOHALER,,00000000
+12,Inhaled therapy,ICS,32664,!8504284,BECLAZONE 200,,00000000
+12,Inhaled therapy,ICS,56462,02818020,Becodisks 400microgram (Waymade Healthcare Plc),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,67265,02826020,Becodisks 200microgram (Lexon (UK) Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,56471,02827020,Becodisks 200microgram (Mawdsley-Brooks & Company Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,57589,02831020,Becloforte 250micrograms/dose inhaler (Dowelhurst Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,62341,02839020,Becotide 50 inhaler (Dowelhurst Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,67234,02845020,Becotide 100 inhaler (Waymade Healthcare Plc),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,67322,02850020,Pulmicort 100 Turbohaler (Waymade Healthcare Plc),Budesonide,03020000
+12,Inhaled therapy,ICS,71427,02852020,Budesonide 100micrograms/dose Turbohaler (Dowelhurst Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,56498,02858020,Pulmicort 200 Turbohaler (Waymade Healthcare Plc),Budesonide,03020000
+12,Inhaled therapy,ICS,60937,02859020,Pulmicort 200 Turbohaler (Dowelhurst Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,71345,02860020,Budesonide 200micrograms/dose Turbohaler (Dowelhurst Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,71338,02861020,Pulmicort 200 Turbohaler (DE Pharmaceuticals),Budesonide,03020000
+12,Inhaled therapy,ICS,71368,02863020,Pulmicort 200 Turbohaler (Lexon (UK) Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,67315,02866020,Budesonide 400micrograms/dose Turbohaler (Waymade Healthcare Plc),Budesonide,03020000
+12,Inhaled therapy,ICS,67239,02867020,Pulmicort 400 Turbohaler (Waymade Healthcare Plc),Budesonide,03020000
+12,Inhaled therapy,ICS,70749,02869020,Budesonide 400micrograms/dose Turbohaler (Dowelhurst Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,71347,02871020,Pulmicort 400 Turbohaler (Sigma Pharmaceuticals Plc),Budesonide,03020000
+12,Inhaled therapy,ICS,49711,02876020,Pulmicort 200micrograms/dose inhaler (AstraZeneca UK Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,56475,02895020,Flixotide 50micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,67253,02896020,Flixotide 50micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,57579,02897020,Flixotide 50micrograms/dose Accuhaler (DE Pharmaceuticals),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,56477,02898020,Flixotide 100micrograms/dose Accuhaler (Waymade Healthcare Plc),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,71341,02903020,Flixotide 100micrograms/dose Accuhaler (Necessity Supplies Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,56484,02904020,Flixotide 250micrograms/dose Accuhaler (Waymade Healthcare Plc),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,71109,02906020,Flixotide 250micrograms/dose Accuhaler (DE Pharmaceuticals),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,57525,02909020,Flixotide 250micrograms/dose Accuhaler (Stephar (U.K.) Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,72292,02910020,Flixotide 250micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,71380,02911020,Flixotide 250micrograms/dose Accuhaler (Necessity Supplies Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,56499,02912020,Flixotide 500micrograms/dose Accuhaler (Waymade Healthcare Plc),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,71366,02914020,Flixotide 500micrograms/dose Accuhaler (DE Pharmaceuticals),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,67319,02919020,Flixotide 0.5mg/2ml Nebules (Waymade Healthcare Plc),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,57555,02930020,Flixotide 125micrograms/dose Evohaler (Dowelhurst Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,56474,02932020,Flixotide 125micrograms/dose Evohaler (DE Pharmaceuticals),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,67237,02934020,Flixotide 125micrograms/dose Evohaler (Lexon (UK) Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,51815,02938020,Flixotide 250micrograms/dose Evohaler (Waymade Healthcare Plc),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,49772,02943020,Fluticasone 250micrograms/dose Evohaler (Sigma Pharmaceuticals Plc),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,53057,02951020,Flixotide 50micrograms/dose Evohaler (Lexon (UK) Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,3988,03114007,FLIXOTIDE DISKHALER-COMMUNITY PACK 100 MCG,,00000000
+12,Inhaled therapy,ICS,3753,03115007,FLIXOTIDE DISKHALER-COMMUNITY PACK 250 MCG,,00000000
+12,Inhaled therapy,ICS,8450,03958007,FLIXOTIDE DISKHALER-COMMUNITY PACK 50 MCG,,00000000
+12,Inhaled therapy,ICS,3442,04471007,PULMICORT COMPLETE 200 MCG INH,,00000000
+12,Inhaled therapy,ICS,8251,04472007,PULMICORT REFIL 50 MG INH,,00000000
+12,Inhaled therapy,ICS,3188,04473007,PULMICORT COMPLETE 50 MCG INH,,00000000
+12,Inhaled therapy,ICS,2124,05675007,PULMICORT REFIL 200 MCG INH,,00000000
+12,Inhaled therapy,ICS,4306,06378007,BECLOMETHASONE DIPROPRIONATE CART 100 MCG,,00000000
+12,Inhaled therapy,ICS,7576,06379007,BECLOMETHASONE DIPROPRIONATE CART 200 MCG,,00000000
+12,Inhaled therapy,ICS,51415,10720020,Qvar 50 inhaler (Mawdsley-Brooks & Company Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,54207,10721020,Qvar 50 inhaler (DE Pharmaceuticals),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,56493,10722020,Qvar 50micrograms/dose Easi-Breathe inhaler (Sigma Pharmaceuticals Plc),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,50287,10725020,Qvar 100 inhaler (DE Pharmaceuticals),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,51681,10726020,Qvar 100 inhaler (Sigma Pharmaceuticals Plc),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,51234,10727020,Qvar 100 inhaler (Waymade Healthcare Plc),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,71337,10728020,Qvar 100 inhaler (Mawdsley-Brooks & Company Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,54399,10729020,Qvar 100 Autohaler (Sigma Pharmaceuticals Plc),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,52806,10732020,Qvar 100 Autohaler (Lexon (UK) Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,48709,10734020,Qvar 100micrograms/dose Easi-Breathe inhaler (Sigma Pharmaceuticals Plc),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,53480,10735020,Qvar 100 Autohaler (Stephar (U.K.) Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,51480,10736020,Qvar 100 Autohaler (DE Pharmaceuticals),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,50129,10737020,Qvar 100micrograms/dose Easi-Breathe inhaler (DE Pharmaceuticals),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,50701,12554020,Becotide Rotahaler (GlaxoSmithKline UK Ltd),,00000000
+12,Inhaled therapy,ICS,50037,13400020,Pulmicort 0.5mg Respules (Waymade Healthcare Plc),Budesonide,03020000
+12,Inhaled therapy,ICS,52732,13412020,Pulmicort 0.5mg Respules (Necessity Supplies Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,61975,13413020,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Almus Pharmaceuticals Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,67261,13422020,Pulmicort 1mg Respules (Sigma Pharmaceuticals Plc),Budesonide,03020000
+12,Inhaled therapy,ICS,61664,26859021,Clenil Modulite 250micrograms/dose inhaler (Waymade Healthcare Plc),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,62518,27040021,Beclometasone 100micrograms/dose inhaler CFC free (Ennogen Healthcare Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,49367,38602020,Clenil Modulite 50micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,48340,38603020,Clenil Modulite 100micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,49412,38762020,Clenil Modulite 200micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,71356,38763020,Clenil Modulite 250micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,3743,48110020,Filair 50 inhaler (Meda Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,3927,48111020,Filair 100 inhaler (Meda Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,1236,48309020,Becloforte 250micrograms/dose inhaler (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,8111,48310020,Becloforte vm 250microgram/actuation VM pack (Allen & Hanburys Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,1406,48324020,Becotide 50 inhaler (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,3065,48413020,Bextasol Inhalation powder (Allen & Hanburys Ltd),Betamethasone Valerate,03020000
+12,Inhaled therapy,ICS,2092,52569020,Budesonide 200micrograms/dose dry powder inhaler,Budesonide,03020000
+12,Inhaled therapy,ICS,1642,52570020,Budesonide 400micrograms/dose dry powder inhaler,Budesonide,03020000
+12,Inhaled therapy,ICS,7788,52571020,Budesonide 100micrograms/dose dry powder inhaler,Budesonide,03020000
+12,Inhaled therapy,ICS,454,53685020,Pulmicort 200microgram Inhaler (AstraZeneca UK Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,2125,53686020,Pulmicort 200microgram Refill canister (AstraZeneca UK Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,1680,53690020,Pulmicort LS 50micrograms/dose inhaler (AstraZeneca UK Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,4545,53691020,Pulmicort LS 50microgram Refill canister (AstraZeneca UK Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,3947,53710020,Becotide 100microgram Rotacaps (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,1537,53711020,Becotide 200microgram Rotacaps (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,3075,53712020,Becotide 400microgram Rotacaps (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,1269,53718020,Becotide 50microgram/ml Nebuliser liquid (Allen & Hanburys Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,1801,53748020,Ventide inhaler (GlaxoSmithKline UK Ltd),Salbutamol/Beclometasone dipropionate,00000000
+12,Inhaled therapy,ICS,2159,54705020,AeroBec 50 Autohaler (Meda Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,4499,54706020,Aerobec 250microgram/actuation Pressurised inhalation (Meda Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,1861,54707020,AeroBec 100 Autohaler (Meda Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,3993,54871020,Filair Forte 250micrograms/dose inhaler (Meda Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,2992,56475020,Beclazone 50 inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,1100,56476020,Beclazone 100 inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,1551,56477020,Beclazone 250 inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,99,57212020,Becotide 100 inhaler (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,11478,57281020,Fluticasone 2mg/2ml nebuliser liquid unit dose vials,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,17465,57282020,Fluticasone 500micrograms/2ml nebuliser liquid unit dose vials,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,16305,57311020,Flixotide 2mg/2ml Nebules (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,5551,57312020,Flixotide 0.5mg/2ml Nebules (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,3437,57375020,Becotide rotahaler type 4 insufflator Inhalation powder (Allen and Hanburys Ltd),,03010502
+12,Inhaled therapy,ICS,3363,57934020,Becloforte 400microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,2892,57935020,Becloforte 400microgram disks (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,29325,58817020,Beclometasone 250micrograms/dose inhaler (Mylan),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,31774,58818020,Beclometasone 50micrograms/dose inhaler (Mylan),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,21482,58819020,Beclometasone 100micrograms/dose inhaler (Mylan),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,32874,59872020,Beclometasone 50microgram/actuation Inhalation powder (Actavis UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,28640,59873020,Beclometasone 100microgram/actuation Inhalation powder (Actavis UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,34315,59874020,Beclometasone 250microgram/actuation Inhalation powder (Actavis UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,34919,60176020,Beclometasone 50micrograms/dose inhaler (A A H Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,25204,60177020,Beclometasone 100micrograms/dose inhaler (A A H Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,33258,60178020,Beclometasone 250micrograms/dose inhaler (A A H Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,71467,60958021,Beclometasone 50micrograms/dose inhaler CFC free (J M McGill Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,30238,61523020,Beclometasone 50microgram/actuation Pressurised inhalation (Approved Prescription Services Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,27679,61524020,Beclometasone 100microgram/actuation Pressurised inhalation (Approved Prescription Services Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,28073,61525020,Beclometasone 250microgram/actuation Pressurised inhalation (Approved Prescription Services Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,34428,63531020,Beclometasone 50microgram/actuation Inhalation powder (Neo Laboratories Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,33849,63536020,Beclometasone 100microgram/actuation Inhalation powder (Neo Laboratories Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,34859,63539020,Beclometasone 250microgram/actuation Inhalation powder (Neo Laboratories Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,46157,63918020,Beclometasone 200 Cyclocaps (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,41269,63923020,Beclometasone 400 Cyclocaps (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,3556,64090020,Beclometasone 50micrograms with salbutamol 100micrograms/inhalation inhaler,Beclometasone Dipropionate/Salbutamol,03010101/03020000
+12,Inhaled therapy,ICS,19376,64091020,Beclometasone 200micrograms with Salbutamol 400micrograms inhalation capsules,Beclometasone Dipropionate/Salbutamol,03010101/03020000
+12,Inhaled therapy,ICS,19121,64092020,Beclometasone 100micrograms with Salbutamol 200micrograms inhalation capsules,Beclometasone Dipropionate/Salbutamol,03010101/03020000
+12,Inhaled therapy,ICS,7724,64163020,Betamethasone valerate 100micrograms/actuation inhaler,Betamethasone Valerate,03020000
+12,Inhaled therapy,ICS,909,64256020,Budesonide 200micrograms/dose inhaler,Budesonide,00000000
+12,Inhaled therapy,ICS,959,64257020,Budesonide 50micrograms/dose inhaler,Budesonide,00000000
+12,Inhaled therapy,ICS,8433,64258020,Budesonide 100micrograms/actuation inhaler,Budesonide,03020000
+12,Inhaled therapy,ICS,34794,65723020,Beclometasone 200micrograms/dose inhaler (A A H Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,4801,65880020,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials,Budesonide,03020000
+12,Inhaled therapy,ICS,4942,65881020,Budesonide 1mg/2ml nebuliser liquid unit dose vials,Budesonide,03020000
+12,Inhaled therapy,ICS,1959,65884020,Pulmicort 0.5mg Respules (AstraZeneca UK Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,1956,65885020,Pulmicort 1mg Respules (AstraZeneca UK Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,34739,67073020,Beclometasone 50micrograms/dose inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,26063,67076020,Beclometasone 100micrograms/dose inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,30210,67080020,Beclometasone 250micrograms/dose inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,1258,67266020,Becotide 200 inhaler (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,11307,67874020,Salbutamol 100micrograms/dose / Beclometasone 50micrograms/dose inhaler,Salbutamol/Beclometasone dipropionate,00000000
+12,Inhaled therapy,ICS,14561,67875020,Salbutamol 400microgram / Beclometasone 200microgram inhalation powder capsules,Beclometasone dipropionate/Salbutamol sulfate,00000000
+12,Inhaled therapy,ICS,18456,67876020,Salbutamol 200microgram / Beclometasone 100microgram inhalation powder capsules,Beclometasone dipropionate/Salbutamol sulfate,00000000
+12,Inhaled therapy,ICS,16625,68202020,Ventide Rotacaps (GlaxoSmithKline UK Ltd),Beclometasone dipropionate/Salbutamol sulfate,00000000
+12,Inhaled therapy,ICS,18484,68203020,Ventide Paediatric Rotacaps (GlaxoSmithKline UK Ltd),Beclometasone dipropionate/Salbutamol sulfate,00000000
+12,Inhaled therapy,ICS,2229,68209020,Becodisks 100microgram Disc (Allen & Hanburys Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,883,68210020,Becodisks 200microgram Disc (Allen & Hanburys Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,1951,68211020,Becodisks 400microgram Disc (Allen & Hanburys Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,1242,69244020,Beclometasone 250micrograms/dose inhaler,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,3018,69245020,Beclometasone 50micrograms/dose inhaler,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,38,69246020,Beclometasone 100micrograms/dose inhaler,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,4759,69249020,Beclometasone 100microgram inhalation powder capsules,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,9233,69250020,Beclometasone 200microgram inhalation powder capsules,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,7653,69251020,Beclometasone 400microgram inhalation powder capsules,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,7964,69254020,Beclometasone 50micrograms/ml nebuliser suspension,Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,1259,69255020,Beclometasone 200micrograms/dose inhaler,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,41412,69256020,Beclometasone 400micrograms/actuation inhaler,Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,4365,69622020,Beclometasone 100micrograms disc,Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,2893,69623020,Beclometasone 200micrograms disc,Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,2148,69624020,Beclometasone 400microgram disc,Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,13781,70345020,Ventide Rotahaler (GlaxoSmithKline UK Ltd),,00000000
+12,Inhaled therapy,ICS,9356,70352020,Becotide rotahaler insufflator Inhalation powder (Allen and Hanburys Ltd),,03010502
+12,Inhaled therapy,ICS,65448,72752020,Budesonide 1mg/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,956,73578020,Pulmicort 200 Turbohaler (AstraZeneca UK Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,908,73579020,Pulmicort 400 Turbohaler (AstraZeneca UK Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,960,73580020,Pulmicort 100 Turbohaler (AstraZeneca UK Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,14700,73583020,Budesonide 400micrograms/actuation inhaler,Budesonide,03020000
+12,Inhaled therapy,ICS,3570,73584020,Budesonide 200micrograms/actuation refill canister,Budesonide,03020000
+12,Inhaled therapy,ICS,947,73585020,Budesonide 50micrograms/actuation refill canister,Budesonide,03020000
+12,Inhaled therapy,ICS,2160,74421020,Beclometasone 50micrograms/dose breath actuated inhaler,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,1734,74422020,Beclometasone 100micrograms/dose breath actuated inhaler,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,2600,74423020,Beclometasone 250micrograms/dose breath actuated inhaler,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,8635,74453020,Flixotide 50microgram Disc (Allen & Hanburys Ltd),Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,3989,74454020,Flixotide 100microgram Disc (Allen & Hanburys Ltd),Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,1424,74455020,Flixotide 250microgram Disc (Allen & Hanburys Ltd),Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,7602,74458020,Fluticasone 50microgram Disc,Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,4131,74459020,Fluticasone 100microgram Disc,Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,7638,74460020,Fluticasone 250microgram Disc,Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,3289,74985020,Flixotide 25micrograms/dose inhaler (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,1518,74986020,Flixotide 50microgram/actuation Inhalation powder (Allen & Hanburys Ltd),Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,1676,74987020,Flixotide 125microgram/actuation Inhalation powder (Allen & Hanburys Ltd),Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,2723,74990020,Fluticasone 25micrograms/dose inhaler,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,4688,74991020,Fluticasone 50microgram/actuation Pressurised inhalation,Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,4132,74992020,Fluticasone 125microgram/actuation Pressurised inhalation,Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,2951,75179020,Fluticasone 250microgram/actuation Pressurised inhalation,Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,9164,75180020,Fluticasone propionate 50micrograms/dose dry powder inhaler,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,5885,75181020,Fluticasone propionate 100micrograms/dose dry powder inhaler,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,7891,75184020,Fluticasone 500microgram Disc,Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,1426,75187020,Flixotide 500microgram Disc (Allen & Hanburys Ltd),Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,1412,75190020,Flixotide 250microgram/actuation Inhalation powder (Allen & Hanburys Ltd),Fluticasone Propionate,03020000
+12,Inhaled therapy,ICS,5580,75191020,Flixotide accuhaler 50 50microgram/inhalation Inhalation powder (Allen & Hanburys Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,4926,75192020,Flixotide accuhaler 100 100microgram/inhalation Inhalation powder (Allen & Hanburys Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,70015,75209020,Beclometasone 100micrograms/dose inhaler (Almus Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,63585,75217020,Beclometasone 50micrograms/dose inhaler (Almus Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,5975,76450020,Fluticasone 125micrograms/dose inhaler CFC free,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,5822,76451020,Fluticasone 250micrograms/dose inhaler CFC free,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,5223,76452020,Fluticasone 50micrograms/dose inhaler CFC free,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,5804,76999020,Beclometasone 250micrograms/dose dry powder inhaler,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,5521,77000020,Beclometasone 200micrograms/dose dry powder inhaler,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,11497,77001020,Beclometasone 400micrograms/dose dry powder inhaler,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,5718,78907020,Flixotide 125micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,5683,78908020,Flixotide 250micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,5309,78909020,Flixotide 50micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,1725,79400020,Beclazone 50 Easi-Breathe inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,895,79401020,Beclazone 100 Easi-Breathe inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,1243,79402020,Beclazone 250 Easi-Breathe inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,3119,79444020,Becloforte integra 250microgram/actuation Inhaler with compact spacer (Glaxo Laboratories Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,19401,79501020,Beclometasone 250micrograms/actuation inhaler and compact spacer,Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,5992,79502020,Beclometasone 50micrograms/dose dry powder inhaler,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,5522,79503020,Beclometasone 100micrograms/dose dry powder inhaler,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,911,79577020,Flixotide accuhaler 250 250microgram/inhalation Inhalation powder (Allen & Hanburys Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,2440,79578020,Flixotide accuhaler 500 500microgram/inhalation Inhalation powder (Allen & Hanburys Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,7948,79604020,Fluticasone propionate 250micrograms/dose dry powder inhaler,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,2282,79605020,Fluticasone propionate 500micrograms/dose dry powder inhaler,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,14757,80127020,Pulvinal Beclometasone Dipropionate 100micrograms/dose dry powder inhaler (Chiesi Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,13037,80128020,Pulvinal Beclometasone Dipropionate 200micrograms/dose dry powder inhaler (Chiesi Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,14736,80129020,Pulvinal Beclometasone Dipropionate 400micrograms/dose dry powder inhaler (Chiesi Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,17590,80362020,Asmanex 400micrograms/dose Twisthaler (Merck Sharp & Dohme Ltd),Mometasone furoate,03020000
+12,Inhaled therapy,ICS,16018,80792020,Mometasone 200micrograms/dose dry powder inhaler,Mometasone furoate,03020000
+12,Inhaled therapy,ICS,1885,81155020,Beclazone 200 inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,11198,81505020,Beclometasons 50 micrograms/actuation vortex inhaler,Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,15706,81506020,Beclometasone 100 micrograms/actuation vortex inhaler,Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,9571,81507020,Beclometasone 250micrograms/actuation vortex inhaler,Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,18394,81509020,Bdp 50microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,19031,81510020,Bdp 100microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,14524,81511020,Bdp 250microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,9599,82719020,Beclazone 50microgram/actuation Inhalation powder (Actavis UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,13815,82720020,Beclazone 100microgram/actuation Inhalation powder (Actavis UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,4803,82721020,Beclazone 250microgram/actuation Inhalation powder (Actavis UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,28761,84018020,Spacehaler BDP 50microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,24898,84019020,Spacehaler BDP 100microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,20825,84020020,Spacehaler BDP 250microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,10254,84120020,Mometasone 400micrograms/dose dry powder inhaler,Mometasone furoate,03020000
+12,Inhaled therapy,ICS,10321,84348020,Budesonide 400microgram inhalation powder capsules,Budesonide,00000000
+12,Inhaled therapy,ICS,1727,84967020,Becotide easi-breathe 50microgram/actuation Pressurised inhalation (Allen & Hanburys Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,896,84968020,Becotide easi-breathe 100microgram/actuation Pressurised inhalation (Allen & Hanburys Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,1552,84970020,Becloforte easi-breathe 250microgram/actuation Pressurised inhalation (Allen & Hanburys Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,16433,85228020,Asmanex 200micrograms/dose Twisthaler (Merck Sharp & Dohme Ltd),Mometasone furoate,03020000
+12,Inhaled therapy,ICS,19389,85795020,Asmabec 50microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,9477,85796020,Asmabec 100microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,14590,85797020,Asmabec 250microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,9577,85879020,Asmabec 50 Clickhaler (Focus Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,4601,85880020,Asmabec 100 Clickhaler (Focus Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,14567,85881020,Asmabec 250 Clickhaler (Focus Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,18537,86508020,Budesonide 200microgram inhalation powder capsules,Budesonide,00000000
+12,Inhaled therapy,ICS,10090,86870020,Beclometasone 50micrograms/actuation extrafine particle cfc free inhaler,Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,3150,86871020,Beclometasone 100micrograms/actuation extrafine particle cfc free inhaler,Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,3546,86873020,Qvar 50 inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,2335,86874020,Qvar 100 inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,11732,86878020,Beclometasone 50micrograms/dose breath actuated inhaler CFC free,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,9921,86879020,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,3220,86883020,Qvar 50 Autohaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,4413,86884020,Qvar 100 Autohaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,16054,87972020,Budesonide 200micrograms/actuation breath actuated powder inhaler,Budesonide,03020000
+12,Inhaled therapy,ICS,23741,87974020,Novolizer budesonide 200microgram/actuation Pressurised inhalation (Meda Pharmaceuticals Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,14294,88500020,Qvar 50micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,18848,88502020,Qvar 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,7356,88708020,Ciclesonide 80micrograms/dose inhaler CFC free,Ciclesonide,03020000
+12,Inhaled therapy,ICS,10102,88716020,Ciclesonide 160micrograms/dose inhaler CFC free,Ciclesonide,03020000
+12,Inhaled therapy,ICS,21224,88720020,Alvesco 80 inhaler (AstraZeneca UK Ltd),Ciclesonide,03020000
+12,Inhaled therapy,ICS,6839,88722020,Alvesco 160 inhaler (AstraZeneca UK Ltd),Ciclesonide,03020000
+12,Inhaled therapy,ICS,17654,89688020,Easyhaler Beclometasone 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,17670,90421020,Easyhaler Budesonide 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,27188,90423020,Easyhaler Budesonide 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,30649,90425020,Easyhaler Budesonide 400micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,16584,91153020,Beclometasone 50micrograms/dose inhaler CFC free,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,15326,91155020,Beclometasone 100micrograms/dose inhaler CFC free,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,14321,91157020,Beclometasone 200micrograms/dose inhaler CFC free,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,21005,91159020,Beclometasone 250micrograms/dose inhaler CFC free,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,16158,91161020,Clenil Modulite 50micrograms/dose inhaler (Chiesi Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,13290,91163020,Clenil Modulite 100micrograms/dose inhaler (Chiesi Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,16151,91165020,Clenil Modulite 200micrograms/dose inhaler (Chiesi Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,16148,91167020,Clenil Modulite 250micrograms/dose inhaler (Chiesi Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,35510,92711020,Budesonide 200micrograms/dose dry powder inhalation cartridge with device,Budesonide,03020000
+12,Inhaled therapy,ICS,35602,92719020,Budesonide 200micrograms/dose dry powder inhalation cartridge,Budesonide,03020000
+12,Inhaled therapy,ICS,35631,92727020,Budelin Novolizer 200micrograms/dose inhalation powder (Meda Pharmaceuticals Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,35724,92729020,Budelin Novolizer 200micrograms/dose inhalation powder refill (Meda Pharmaceuticals Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,35580,93039020,Beclometasone 100microgram inhalation powder blisters with device,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,35652,93041020,Beclometasone 100microgram inhalation powder blisters,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,35106,93043020,Becodisks 100microgram with Diskhaler (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,35408,93045020,Becodisks 100microgram (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,35293,93047020,Beclometasone 200microgram inhalation powder blisters with device,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,35113,93049020,Beclometasone 200microgram inhalation powder blisters,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,35430,93051020,Becodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,35071,93053020,Becodisks 200microgram (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,35107,93055020,Beclometasone 400microgram inhalation powder blisters with device,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,35288,93057020,Beclometasone 400microgram inhalation powder blisters,Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,35118,93059020,Becodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,35299,93063020,Becodisks 400microgram (GlaxoSmithKline UK Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,36021,93257020,Fluticasone propionate 50microgram inhalation powder blisters with device,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,37447,93259020,Fluticasone propionate 50microgram inhalation powder blisters,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,36290,93263020,Flixotide 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,35986,93265020,Flixotide 50microgram disks (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,35638,93273020,Fluticasone propionate 100microgram inhalation powder blisters with device,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,35772,93275020,Fluticasone propionate 100microgram inhalation powder blisters,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,35225,93279020,Flixotide 100microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,36090,93281020,Flixotide 100microgram disks (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,36401,93285020,Fluticasone propionate 250microgram inhalation powder blisters with device,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,35905,93287020,Fluticasone propionate 250microgram inhalation powder blisters,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,35461,93289020,Flixotide 250microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,35611,93291020,Flixotide 250microgram disks (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,35700,93293020,Fluticasone propionate 500microgram inhalation powder blisters with device,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,36462,93295020,Fluticasone propionate 500microgram inhalation powder blisters,Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,35392,93297020,Flixotide 500microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,35374,93299020,Flixotide 500microgram disks (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,39200,95879020,AeroBec Forte 250 Autohaler (Meda Pharmaceuticals Ltd),Beclometasone dipropionate,03020000
+12,Inhaled therapy,ICS,39102,96155020,Budesonide 100micrograms/dose inhaler CFC free,Budesonide,00000000
+12,Inhaled therapy,ICS,39879,96157020,Budesonide 200micrograms/dose inhaler CFC free,Budesonide,00000000
+12,Inhaled therapy,ICS,39099,96231020,Pulmicort 100micrograms/dose inhaler CFC free (AstraZeneca UK Ltd),Budesonide,00000000
+12,Inhaled therapy,ICS,40057,96233020,Pulmicort 200micrograms/dose inhaler CFC free (AstraZeneca UK Ltd),Budesonide,03020000
+12,Inhaled therapy,ICS,42985,98216020,Flixotide 50micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,42928,98218020,Flixotide 100micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,42994,98222020,Flixotide 250micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,43074,98224020,Flixotide 500micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),Fluticasone propionate,03020000
+12,Inhaled therapy,ICS,47943,99655020,Beclazone easi-breathe (roi) 100microgram/actuation Pressurised inhalation (Ivax Pharmaceuticals Ireland),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,ICS,67735,99657020,Beclazone easi-breathe (roi) 250microgram/actuation Pressurised inhalation (Ivax Pharmaceuticals Ireland),Beclometasone Dipropionate,03020000
+12,Inhaled therapy,LABA,47638,00402021,Neovent 25micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,71394,02699020,Serevent 50microgram disks with Diskhaler (Dowelhurst Ltd),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,67823,02700020,Salmeterol 50microgram Diskhaler (Dowelhurst Ltd),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,57544,02702020,Serevent 50micrograms/dose Accuhaler (Waymade Healthcare Plc),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,56478,02704020,Serevent 50micrograms/dose Accuhaler (DE Pharmaceuticals),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,68260,02707020,Serevent 50micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,57558,02718020,Oxis 6 Turbohaler (Lexon (UK) Ltd),Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,56482,02721020,Oxis 12 Turbohaler (Waymade Healthcare Plc),Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,66547,02723020,Oxis 12 Turbohaler (DE Pharmaceuticals),Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,57694,16929021,Vertine 25micrograms/dose inhaler CFC free (Teva UK Ltd),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,50051,21883020,Serevent 25micrograms/dose Evohaler (Waymade Healthcare Plc),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,71597,21885020,Serevent 25micrograms/dose Evohaler (Sigma Pharmaceuticals Plc),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,67800,21886020,Serevent 25micrograms/dose Evohaler (Lexon (UK) Ltd),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,62662,27144021,Olodaterol 2.5micrograms/dose solution for inhalation cartridge with device CFC free,Olodaterol hydrochloride,03010101
+12,Inhaled therapy,LABA,65431,27145021,Striverdi Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Boehringer Ingelheim Ltd),Olodaterol hydrochloride,03010101
+12,Inhaled therapy,LABA,67238,32398020,Foradil 12microgram inhalation powder capsules with device (Sigma Pharmaceuticals Plc),Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,54742,41990020,Salmeterol 25micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,68483,70822021,Soltel 25micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,465,74013020,Salmeterol 25micrograms/dose inhaler,Salmeterol xinafoate,00000000
+12,Inhaled therapy,LABA,3297,74014020,Salmeterol 50micrograms disc,Salmeterol Xinafoate,03010101
+12,Inhaled therapy,LABA,719,74015020,Salmeterol 50micrograms/dose dry powder inhaler,Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,549,74018020,Serevent 25micrograms/dose inhaler (GlaxoSmithKline UK Ltd),Salmeterol xinafoate,00000000
+12,Inhaled therapy,LABA,910,74019020,Serevent diskhaler 50microgram Inhalation powder (Glaxo Wellcome UK Ltd),Salmeterol Xinafoate,03010101
+12,Inhaled therapy,LABA,2224,74020020,Serevent 50micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,10968,80411020,Foradil 12microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,6526,80413020,Formoterol 12microgram inhalation powder capsules with device,Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,9711,85742020,Formoterol 6micrograms/dose dry powder inhaler,Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,7133,85743020,Formoterol 12micrograms/dose dry powder inhaler,Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,1975,85747020,Oxis 6 Turbohaler (AstraZeneca UK Ltd),Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,1974,85749020,Oxis 12 Turbohaler (AstraZeneca UK Ltd),Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,14306,89764020,Formoterol 12micrograms/dose inhaler CFC free,Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,25784,89766020,Atimos Modulite 12micrograms/dose inhaler (Chiesi Ltd),Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,7270,90173020,Salmeterol 25micrograms/dose inhaler CFC free,Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,7268,90175020,Serevent 25micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,35725,92823020,Formoterol Easyhaler 12micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),Formoterol fumarate dihydrate,03010101
+12,Inhaled therapy,LABA,35542,92971020,Salmeterol 50microgram inhalation powder blisters with device,Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,35503,92977020,Salmeterol 50microgram inhalation powder blisters,Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,35165,92979020,Serevent 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,35825,92985020,Serevent 50microgram disks (GlaxoSmithKline UK Ltd),Salmeterol xinafoate,03010101
+12,Inhaled therapy,LABA,43738,98481020,Indacaterol 150microgram inhalation powder capsules with device,Indacaterol maleate,03010101
+12,Inhaled therapy,LABA,45610,98485020,Indacaterol 300microgram inhalation powder capsules with device,Indacaterol maleate,03010101
+12,Inhaled therapy,LABA,43893,98562020,Onbrez Breezhaler 150microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),Indacaterol maleate,03010101
+12,Inhaled therapy,LABA,44064,98564020,Onbrez Breezhaler 300microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),Indacaterol maleate,03010101
+12,Inhaled therapy,LABA+ICS,51570,00046020,Symbicort 200/6 Turbohaler (DE Pharmaceuticals),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,53491,00047020,Symbicort 200/6 Turbohaler (Sigma Pharmaceuticals Plc),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,51759,00048020,Symbicort 200/6 Turbohaler (Mawdsley-Brooks & Company Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,68034,00049020,Symbicort 200/6 Turbohaler (Necessity Supplies Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,71371,00050020,Symbicort 100/6 Turbohaler (Waymade Healthcare Plc),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,49114,00053020,Symbicort 100/6 Turbohaler (Sigma Pharmaceuticals Plc),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,50945,00054020,Symbicort 100/6 Turbohaler (Mawdsley-Brooks & Company Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,71409,02729020,Seretide 50 Evohaler (Waymade Healthcare Plc),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,68453,02731020,Seretide 125 Evohaler (Waymade Healthcare Plc),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,51027,02732020,Seretide 125 Evohaler (DE Pharmaceuticals),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,51151,02734020,Seretide 125 Evohaler (Lexon (UK) Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,65117,02735020,Seretide 125 Evohaler (Mawdsley-Brooks & Company Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,49000,02737020,Seretide 250 Evohaler (Waymade Healthcare Plc),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,48739,02739020,Seretide 250 Evohaler (DE Pharmaceuticals),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,63252,02741020,Seretide 250 Evohaler (Lexon (UK) Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,50886,02742020,Seretide 250 Evohaler (Stephar (U.K.) Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,51909,02744020,Seretide 250 Evohaler (Necessity Supplies Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,53283,02745020,Seretide 100 Accuhaler (Waymade Healthcare Plc),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,62126,02747020,Seretide 100 Accuhaler (DE Pharmaceuticals),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,61280,02753020,Seretide 250 Accuhaler (Waymade Healthcare Plc),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,53230,02755020,Seretide 250 Accuhaler (DE Pharmaceuticals),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,50560,02756020,Seretide 250 Accuhaler (Sigma Pharmaceuticals Plc),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,63945,02757020,Seretide 250 Accuhaler (Lexon (UK) Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,51394,02760020,Seretide 500 Accuhaler (Waymade Healthcare Plc),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,55677,02763020,Seretide 500 Accuhaler (Lexon (UK) Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,51861,02764020,Seretide 500 Accuhaler (Mawdsley-Brooks & Company Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,68495,02765020,Seretide 500 Accuhaler (Necessity Supplies Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,51593,02766020,Seretide 500 Accuhaler (DE Pharmaceuticals),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,53237,14017020,Symbicort 400/12 Turbohaler (DE Pharmaceuticals),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,50739,14019020,Symbicort 400/12 Turbohaler (Mawdsley-Brooks & Company Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,71354,14020020,Symbicort 400/12 Turbohaler (Necessity Supplies Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,59899,21595021,Fluticasone furoate 184micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,Fluticasone furoate/Vilanterol,03010400/03020000
+12,Inhaled therapy,LABA+ICS,59573,21596021,Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),Fluticasone furoate/Vilanterol,03010400/03020000
+12,Inhaled therapy,LABA+ICS,59439,21597021,Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,Fluticasone furoate/Vilanterol,03010400/03020000
+12,Inhaled therapy,LABA+ICS,59327,21598021,Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),Fluticasone furoate/Vilanterol,03010400/03020000
+12,Inhaled therapy,LABA+ICS,61782,27233021,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Teva UK Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,61666,27378021,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Teva UK Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,62030,29629021,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,Formoterol fumarate dihydrate/Beclometasone dipropionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,61644,29630021,Fostair NEXThaler 100micrograms/dose / 6micrograms/dose dry powder inhaler (Chiesi Ltd),Formoterol fumarate dihydrate/Beclometasone dipropionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,51209,44172020,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,Formoterol fumarate dihydrate/Fluticasone propionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,50036,44173020,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd),Formoterol fumarate dihydrate/Fluticasone propionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,49868,44174020,Fluticasone 250micrograms/dose / Formoterol 10micrograms/dose inhaler CFC free,Fluticasone propionate/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,48666,44175020,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Napp Pharmaceuticals Ltd),Fluticasone propionate/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,51270,44176020,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,Fluticasone propionate/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,50689,44177020,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd),Fluticasone propionate/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,64372,52203021,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler (Mylan),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,64373,52204021,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Mylan),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,64638,52509021,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Waymade Healthcare Plc),Formoterol fumarate dihydrate/Fluticasone propionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,66448,52510021,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Waymade Healthcare Plc),Fluticasone propionate/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,68175,52511021,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (Waymade Healthcare Plc),Fluticasone propionate/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,66453,53988021,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Waymade Healthcare Plc),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,65677,60257021,AirFluSal Forspiro 50micrograms/dose / 500micrograms/dose dry powder inhaler (Sandoz Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,67055,60669021,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,67101,60670021,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler (A A H Pharmaceuticals Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,65758,60893021,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,Formoterol fumarate dihydrate/Beclometasone dipropionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,65596,60894021,Fostair 200micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd),Formoterol fumarate dihydrate/Beclometasone dipropionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,65894,60895021,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,Beclometasone dipropionate/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,65658,60896021,Fostair NEXThaler 200micrograms/dose / 6micrograms/dose dry powder inhaler (Chiesi Ltd),Beclometasone dipropionate/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,5172,69006020,Seretide 250 Evohaler (GlaxoSmithKline UK Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,67958,69956021,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,67677,69957021,Symbicort 200micrograms/dose / 6micrograms/dose pressurised inhaler (AstraZeneca UK Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,12994,71255020,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,11588,71256020,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,11618,71257020,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,68983,71438021,Aerivio Spiromax 50micrograms/dose / 500micrograms/dose dry powder inhaler (Teva UK Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,69436,73865021,Sereflo 25micrograms/dose / 125micrograms/dose inhaler (Kent Pharmaceuticals Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,69538,73866021,Sereflo 25micrograms/dose / 250micrograms/dose inhaler (Kent Pharmaceuticals Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,70250,75111021,AirFluSal 25micrograms/dose / 125micrograms/dose inhaler (Sandoz Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,69827,75112021,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler (Sandoz Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,6746,76616020,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,3666,77232020,Seretide 500 Accuhaler (GlaxoSmithKline UK Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,72564,77918021,Aloflute 25micrograms/dose / 125micrograms/dose inhaler (Mylan),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,71284,78502021,Fobumix Easyhaler 320micrograms/dose / 9micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,71915,78958021,Fobumix Easyhaler 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,72400,78959021,Fobumix Easyhaler 80micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,5161,79114020,Seretide 125 Evohaler (GlaxoSmithKline UK Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,6780,79213020,Symbicort 400/12 Turbohaler (AstraZeneca UK Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,638,79544020,Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,7013,81547020,Symbicort 100/6 Turbohaler (AstraZeneca UK Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,6325,81548020,Symbicort 200/6 Turbohaler (AstraZeneca UK Ltd),Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,6938,85656020,Salmeterol 50micrograms with fluticasone 100micrograms dry powder inhaler,Salmeterol Xinafoate/Fluticasone Propionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,5942,85657020,Salmeterol 50micrograms with fluticasone 250micrograms CFC free inhaler,Salmeterol Xinafoate/Fluticasone Propionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,5558,85658020,Salmeterol 50micrograms with fluticasone 500micrograms CFC free inhaler,Salmeterol Xinafoate/Fluticasone Propionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,13273,85660020,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,13040,85661020,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,11410,85662020,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,665,85668020,Seretide 100 Accuhaler (GlaxoSmithKline UK Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,10218,86175020,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,6796,86176020,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,Budesonide/Formoterol fumarate dihydrate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,6616,86896020,Salmeterol 25micrograms with fluticasone 50micrograms CFC free inhaler,Salmeterol Xinafoate/Fluticasone Propionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,6569,86897020,Salmeterol 25micrograms with fluticasone 125micrograms CFC free inhaler,Salmeterol Xinafoate/Fluticasone Propionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,5864,86898020,Salmeterol 25micrograms with fluticasone 250micrograms CFC free inhaler,Salmeterol Xinafoate/Fluticasone Propionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,5143,86900020,Seretide 50 Evohaler (GlaxoSmithKline UK Ltd),Fluticasone propionate/Salmeterol xinafoate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,37470,94305020,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,Formoterol fumarate dihydrate/Beclometasone dipropionate,03010101/03020000
+12,Inhaled therapy,LABA+ICS,37432,94307020,Fostair 100micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd),Formoterol fumarate dihydrate/Beclometasone dipropionate,03010101/03020000
+12,Inhaled therapy,LAMA,50292,21579020,Spiriva 18microgram inhalation powder capsules (Sigma Pharmaceuticals Plc),Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,51967,21580020,Spiriva 18microgram inhalation powder capsules (Mawdsley-Brooks & Company Ltd),Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,50103,21582020,Spiriva 18microgram inhalation powder capsules with HandiHaler (Waymade Healthcare Plc),Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,50577,21583020,Spiriva 18microgram inhalation powder capsules with HandiHaler (DE Pharmaceuticals),Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,59638,21584020,Spiriva 18microgram inhalation powder capsules with HandiHaler (Sigma Pharmaceuticals Plc),Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,61582,26397021,Spiriva Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Waymade Healthcare Plc),Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,62109,40573021,Umeclidinium bromide 65micrograms/dose dry powder inhaler,Umeclidinium bromide,03010200
+12,Inhaled therapy,LAMA,61879,40574021,Incruse Ellipta 55micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),Umeclidinium bromide,03010200
+12,Inhaled therapy,LAMA,49227,44134020,Aclidinium bromide 375micrograms/dose dry powder inhaler,Aclidinium bromide,03010200
+12,Inhaled therapy,LAMA,49228,44135020,Eklira 322micrograms/dose Genuair (AstraZeneca UK Ltd),Aclidinium bromide,03010200
+12,Inhaled therapy,LAMA,64232,44715021,Tiotropium bromide 2.5micrograms/dose solution for inhalation cartridge with device CFC free (AM Distributions (Yorkshire) Ltd),Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,63992,44771021,Eklira 322micrograms/dose Genuair (Waymade Healthcare Plc),Aclidinium bromide,03010200
+12,Inhaled therapy,LAMA,53761,46187020,Glycopyrronium bromide 55microgram inhalation powder capsules with device,Glycopyrronium bromide,03010200
+12,Inhaled therapy,LAMA,53982,46188020,Seebri Breezhaler 44microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),Glycopyrronium bromide,03010200
+12,Inhaled therapy,LAMA,72031,60575021,Glycopyrronium bromide 55microgram inhalation powder capsules with device (Ennogen Healthcare Ltd),Glycopyrronium bromide,03010200
+12,Inhaled therapy,LAMA,67531,62058021,Glycopyrronium bromide 55microgram inhalation powder capsules with device (J M McGill Ltd),Glycopyrronium bromide,03010200
+12,Inhaled therapy,LAMA,68530,71062021,Tiotropium bromide 10microgram inhalation powder capsules with device,Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,68729,71063021,Braltus 10microgram inhalation powder capsules with Zonda inhaler (Teva UK Ltd),Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,746,73050020,Tiotropium 18 microgram Capsule,Tiotropium Bromide,03010200
+12,Inhaled therapy,LAMA,6050,84108020,Spiriva 18 microgram Capsule (Boehringer Ingelheim Ltd),Tiotropium Bromide,03010200
+12,Inhaled therapy,LAMA,35014,92693020,Tiotropium bromide 18microgram inhalation powder capsules with device,Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,35011,92695020,Tiotropium bromide 18microgram inhalation powder capsules,Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,34995,92697020,Spiriva 18microgram inhalation powder capsules with HandiHaler (Boehringer Ingelheim Ltd),Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,35000,92699020,Spiriva 18microgram inhalation powder capsules (Boehringer Ingelheim Ltd),Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,36864,94071020,Tiotropium bromide 2.5micrograms/dose solution for inhalation cartridge with device CFC free,Tiotropium bromide,03010200
+12,Inhaled therapy,LAMA,36869,94073020,Spiriva Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Boehringer Ingelheim Ltd),Tiotropium bromide,03010200
+12,Inhaled therapy,LABA+LAMA,61490,26985021,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,Vilanterol trifenatate/Umeclidinium bromide,03010400
+12,Inhaled therapy,LABA+LAMA,61176,26986021,Anoro Ellipta 55micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),Vilanterol trifenatate/Umeclidinium bromide,03010400
+12,Inhaled therapy,LABA+LAMA,62739,43075021,Indacaterol 85micrograms/dose / Glycopyrronium bromide 54micrograms/dose inhalation powder capsules with device,Indacaterol maleate/Glycopyrronium bromide,03010400
+12,Inhaled therapy,LABA+LAMA,62667,43076021,Ultibro Breezhaler 85microgram/43microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),Indacaterol maleate/Glycopyrronium bromide,03010400
+12,Inhaled therapy,LABA+LAMA,62838,44184021,Aclidinium bromide 396micrograms/dose / Formoterol 11.8micrograms/dose dry powder inhaler,Aclidinium bromide/Formoterol fumarate dihydrate,03010400
+12,Inhaled therapy,LABA+LAMA,62535,44185021,Duaklir 340micrograms/dose / 12micrograms/dose Genuair (AstraZeneca UK Ltd),Aclidinium bromide/Formoterol fumarate dihydrate,03010400
+12,Inhaled therapy,LABA+LAMA,64509,53187021,Tiotropium bromide 2.5micrograms/dose / Olodaterol 2.5micrograms/dose solution for inhalation cartridge with device CFC free,Olodaterol hydrochloride/Tiotropium bromide,03010400
+12,Inhaled therapy,LABA+LAMA,64523,53188021,Spiolto Respimat 2.5micrograms/dose / 2.5micrograms/dose solution for inhalation cartridge with device (Boehringer Ingelheim Ltd),Olodaterol hydrochloride/Tiotropium bromide,03010400
+12,Inhaled therapy,LABA+LAMA,69556,68799021,Aclidinium bromide 396micrograms/dose / Formoterol 11.8micrograms/dose dry powder inhaler (Colorama Pharmaceuticals Ltd),Aclidinium bromide/Formoterol fumarate dihydrate,03010400
+12,Inhaled therapy,LABA+LAMA+ICS,71260,78143021,Generic Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler,Formoterol fumarate dihydrate/Beclometasone dipropionate/Glycopyrronium bromide,03010101/03010200/03020000
+12,Inhaled therapy,LABA+LAMA+ICS,70711,78144021,Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler (Chiesi Ltd),Formoterol fumarate dihydrate/Beclometasone dipropionate/Glycopyrronium bromide,03010101/03010200/03020000
+12,Inhaled therapy,LABA+LAMA+ICS,72310,79135021,Generic Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler,Vilanterol trifenatate/Umeclidinium bromide/Fluticasone furoate,03010200/03010400/03020000
+12,Inhaled therapy,LABA+LAMA+ICS,71763,79136021,Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),Vilanterol trifenatate/Umeclidinium bromide/Fluticasone furoate,03010200/03010400/03020000

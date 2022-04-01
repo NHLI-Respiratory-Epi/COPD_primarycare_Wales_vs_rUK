@@ -1,0 +1,53 @@
+Audit query,Category,Medication,Prodcode,Gemscript code,Product Name,Drug Substance,BNF Code
+9,Influenza immunisation,,23251,!2660102,FLUVIRIN PRE-FILLED SYRINGE,,00000000
+9,Influenza immunisation,,44759,!3450102,INFLUENZA PRE-FILLED SYRINGE,,00000000
+9,Influenza immunisation,,19684,!3452101,INFLUVAC DISPOSABLE SYRINGE,,00000000
+9,Influenza immunisation,,24676,!4301102,MFV-JECT PRE-FILLED SYRINGE,,00000000
+9,Influenza immunisation,,51289,00782021,Influenza vaccine (live attenuated) nasal suspension 0.2ml unit dose,Influenza virus live attenuated,00000000
+9,Influenza immunisation,,47932,00784021,Fluenz vaccine nasal suspension 0.2ml unit dose (AstraZeneca UK Ltd),Influenza virus live attenuated,00000000
+9,Influenza immunisation,,7951,04970007,FLUVIRIN AQUEOUS ML VAC,,00000000
+9,Influenza immunisation,,48658,09659020,"Influenza vaccine (split virion, inactivated) suspension for injection 0.5ml pre-filled syringes (Sanofi Pasteur)",Influenza virus split virion,14040200
+9,Influenza immunisation,,61898,09660020,"Influenza vaccine (split virion, inactivated) suspension for injection 0.5ml pre-filled syringes (A A H Pharmaceuticals Ltd)",Influenza virus split virion,14040200
+9,Influenza immunisation,,48740,09661020,"Influenza vaccine (surface antigen, inactivated) suspension for injection 0.5ml pre-filled syringes",Influenza virus surface antigens,14040200
+9,Influenza immunisation,,63690,09662020,Inflexal V suspension for injection 0.5ml pre-filled syringes (sanofi pasteur MSD Ltd),Influenza virus surface antigens,00000000
+9,Influenza immunisation,,51087,09664020,Optaflu vaccine suspension for injection 0.5ml pre-filled syringes (Seqirus Vaccines Ltd),Influenza virus surface antigens,14040200
+9,Influenza immunisation,,57401,16804021,Influvac Desu vaccine suspension for injection 0.5ml pre-filled syringes (Abbott Healthcare Products Ltd),Influenza virus surface antigens,14040200
+9,Influenza immunisation,,57917,17228021,Fluarix Tetra vaccine suspension for injection 0.5ml pre-filled syringes (GlaxoSmithKline UK Ltd),Influenza virus split virion,14040200
+9,Influenza immunisation,,61580,21610020,"Influenza vaccine (split virion, inactivated) suspension for injection 0.25ml pre-filled syringes",Influenza virus split virion,00000000
+9,Influenza immunisation,,49716,28167020,"Influenza vaccine (surface antigen, inactivated, virosome) suspension for injection 0.5ml pre-filled syringes",Influenza virus surface antigens virosome,14040200
+9,Influenza immunisation,,61792,31222021,Fluenz Tetra vaccine nasal suspension 0.2ml unit dose (AstraZeneca UK Ltd),Influenza virus live attenuated,14040200
+9,Influenza immunisation,,57140,38939020,Influenza vaccine (live attenuated) nasal suspension 0.2ml unit dose,Influenza virus live attenuated,14040200
+9,Influenza immunisation,,57678,38940020,Fluenz vaccine nasal suspension 0.2ml unit dose (AstraZeneca UK Ltd),Influenza virus live attenuated,14040200
+9,Influenza immunisation,,54677,40609020,Preflucel vaccine suspension for injection 0.5ml pre-filled syringes (Baxter Healthcare Ltd),Influenza virus split virion,00000000
+9,Influenza immunisation,,2552,49937020,Influvac Sub-unit vaccine suspension for injection 0.5ml pre-filled syringes (Mylan),Influenza virus surface antigens,14040200
+9,Influenza immunisation,,18612,53678020,Mastaflu vaccine suspension for injection 0.5ml pre-filled syringes (Masta Ltd),Influenza virus surface antigens,00000000
+9,Influenza immunisation,,13595,56721020,Fluzone Vaccination (Aventis Pasteur MSD),Influenza virus split virion,14040200
+9,Influenza immunisation,,1329,58659020,Fluvirin vaccine suspension for injection 0.5ml pre-filled syringes (Novartis Vaccines and Diagnostics Ltd),Influenza virus surface antigens,14040200
+9,Influenza immunisation,,65205,60574021,FluMist Quadrivalent vaccine nasal suspension 0.2ml unit dose (AstraZeneca UK Ltd),Influenza virus live attenuated,14040200
+9,Influenza immunisation,,38421,61759020,Influenza inactivated split virion Vaccination (Evans Vaccines Ltd),Influenza virus split virion,14040200
+9,Influenza immunisation,,30198,63259020,Influenza inactivated split virion Vaccination (sanofi pasteur MSD Ltd),Influenza virus split virion,14040200
+9,Influenza immunisation,,32391,63511020,"Influenza vaccine (surface antigen, inactivated) suspension for injection 0.5ml pre-filled syringes (Novartis Vaccines and Diagnostics Ltd)",Influenza virus surface antigens,14040200
+9,Influenza immunisation,,922,69026020,Influenza inactivated surface antigen Vaccination,Influenza Virus Surface Antigen Inactivated,14040200
+9,Influenza immunisation,,2601,70811020,Mfv-ject Vaccination (Aventis Pasteur MSD),Influenza virus split virion,14040200
+9,Influenza immunisation,,48085,71508020,Influenza inactivated split virion Vaccination (Chiron UK Ltd),Influenza virus split virion,14040200
+9,Influenza immunisation,,45661,74711020,"Influenza vaccine (split virion, inactivated) suspension for injection 0.5ml pre-filled syringes (Pfizer Ltd)",Influenza virus split virion,14040200
+9,Influenza immunisation,,2139,75758020,Fluarix vaccine suspension for injection 0.5ml pre-filled syringes (GlaxoSmithKline UK Ltd),Influenza virus split virion,14040200
+9,Influenza immunisation,,70618,77934021,"Quadrivalent vaccine (split virion, inactivated) suspension for injection 0.5ml pre-filled syringes (Sanofi Pasteur)",Influenza virus split virion,14040200
+9,Influenza immunisation,,9710,80246020,Agrippal vaccine suspension for injection 0.5ml pre-filled syringes (Seqirus Vaccines Ltd),Influenza virus surface antigens,14040200
+9,Influenza immunisation,,398,83401020,Influenza inactivated split virion Vaccination (Aventis Pasteur MSD),Influenza virus split virion,14040200
+9,Influenza immunisation,,639,83407020,"Influenza vaccine (split virion, inactivated) suspension for injection 0.5ml pre-filled syringes",Influenza virus split virion,14040200
+9,Influenza immunisation,,834,84411020,Begrivac vaccine suspension for injection 0.5ml pre-filled syringes (Novartis Vaccines and Diagnostics Ltd),Influenza virus split virion,14040200
+9,Influenza immunisation,,10030,85259020,Inflexal V vaccine suspension for injection 0.5ml pre-filled syringes (Janssen-Cilag Ltd),Influenza virus surface antigens virosome,14040200
+9,Influenza immunisation,,30156,88390020,Invivac vaccine suspension for injection 0.5ml pre-filled syringes (Abbott Healthcare Products Ltd),Influenza virus surface antigens virosome,00000000
+9,Influenza immunisation,,11824,89634020,Enzira vaccine suspension for injection 0.5ml pre-filled syringes (Pfizer Ltd),Influenza virus split virion,14040200
+9,Influenza immunisation,,24779,89740020,Influenza inactivated split virion Paediatric vaccination,Influenza Virus Containing Analogous Antigens:,14040200
+9,Influenza immunisation,,16585,91326020,Viroflu vaccine suspension for injection 0.5ml pre-filled syringes (Janssen-Cilag Ltd),Influenza virus surface antigens virosome,14040200
+9,Influenza immunisation,,27407,91342020,Imuvac vaccine suspension for injection 0.5ml pre-filled syringes (Mylan),Influenza virus surface antigens,14040200
+9,Influenza immunisation,,40876,97121020,"Influenza vaccine (split virion, inactivated) 9microgram strain suspension for injection 0.1ml pre-filled syringes",Influenza virus split virion,14040200
+9,Influenza immunisation,,40760,97123020,"Influenza vaccine (split virion, inactivated) 15microgram strain suspension for injection 0.1ml pre-filled syringes",Influenza virus split virion,14040200
+9,Influenza immunisation,,43827,97125020,Intanza 9microgram strain vaccine suspension for injection 0.1ml pre-filled syringes (sanofi pasteur MSD Ltd),Influenza virus split virion,14040200
+9,Influenza immunisation,,43825,97127020,Intanza 15microgram strain vaccine suspension for injection 0.1ml pre-filled syringes (sanofi pasteur MSD Ltd),Influenza virus split virion,14040200
+9,Influenza immunisation,,41168,97604020,"Influenza H1N1 vaccine (split virion, inactivated, adjuvanted) emulsion and suspension for emulsion for injection",Influenza virus split virion (H1N1 strain) inactivated,14040200
+9,Influenza immunisation,,41150,97606020,Pandemrix vaccine emulsion and suspension for emulsion for injection (GlaxoSmithKline UK Ltd),Influenza virus split virion (H1N1 strain) inactivated,14040200
+9,Influenza immunisation,,41240,97632020,"Influenza H1N1 vaccine (whole virion, Vero cell derived, inactivated) suspension for injection",Influenza Virus Vaccine,14040200
+9,Influenza immunisation,,41925,97634020,"Celvapan (H1N1) vaccine (whole virion, Vero cell derived, inactivated) suspension for injection (Baxter Healthcare Ltd)",Influenza Virus Vaccine,14040200

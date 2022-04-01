@@ -1,0 +1,128 @@
+Category,Medcode,Read code,Read V2 5B code,Read term
+Asthma,5867,173A.00,173A.,Exercise induced asthma
+Asthma,22752,173c.00,173c.,Occupational asthma
+Asthma,73522,173d.00,173d.,Work aggravated asthma
+Asthma,41017,1780.00,1780.,Aspirin induced asthma
+Asthma,102341,1781.00,1781.,Asthma trigger - pollen
+Asthma,103955,1782.00,1782.,Asthma trigger - tobacco smoke
+Asthma,102952,1783.00,1783.,Asthma trigger - warm air
+Asthma,103952,1784.00,1784.,Asthma trigger - emotion
+Asthma,103945,1785.00,1785.,Asthma trigger - damp
+Asthma,103321,1786.00,1786.,Asthma trigger - animals
+Asthma,102301,1787.00,1787.,Asthma trigger - seasonal
+Asthma,103813,1788.00,1788.,Asthma trigger - cold air
+Asthma,102449,1789.00,1789.,Asthma trigger - respiratory infection
+Asthma,103944,178A.00,178A.,Asthma trigger - airborne dust
+Asthma,102871,178B.00,178B.,Asthma trigger - exercise
+Asthma,11370,1O2..00,1O2..,Asthma confirmed
+Asthma,93736,388t.00,388t.,Royal College of Physicians asthma assessment
+Asthma,93738,388t.11,388t.,RCP (Royal College of Physicians) three questions
+Asthma,103631,388t000,388t0,Royal College Physician asthma assessment 3 question score
+Asthma,98185,38DL.00,38DL.,Asthma control test
+Asthma,100397,38DT.00,38DT.,Asthma control questionnaire
+Asthma,102209,38DV.00,38DV.,Mini asthma quality of life questionnaire
+Asthma,105674,661M100,661M1,Asthma self-management plan agreed
+Asthma,105420,661N100,661N1,Asthma self-management plan review
+Asthma,7416,663N.00,663N.,Asthma disturbing sleep
+Asthma,30815,663N000,663N0,Asthma causing night waking
+Asthma,38146,663N100,663N1,Asthma disturbs sleep weekly
+Asthma,13175,663N200,663N2,Asthma disturbs sleep frequently
+Asthma,38143,663O000,663O0,Asthma never disturbs sleep
+Asthma,7191,663P.00,663P.,Asthma limiting activities
+Asthma,102713,663P000,663P0,Asthma limits activities 1 to 2 times per month
+Asthma,102888,663P100,663P1,Asthma limits activities 1 to 2 times per week
+Asthma,103998,663P200,663P2,Asthma limits activities most days
+Asthma,7378,663U.00,663U.,Asthma management plan given
+Asthma,13064,663V.00,663V.,Asthma severity
+Asthma,3458,663V000,663V0,Occasional asthma
+Asthma,3018,663V100,663V1,Mild asthma
+Asthma,13065,663V200,663V2,Moderate asthma
+Asthma,3366,663V300,663V3,Severe asthma
+Asthma,24479,663d.00,663d.,Emergency asthma admission since last appointment
+Asthma,25181,663e.00,663e.,Asthma restricts exercise
+Asthma,26861,663e000,663e0,Asthma sometimes restricts exercise
+Asthma,26506,663e100,663e1,Asthma severely restricts exercise
+Asthma,26504,663f.00,663f.,Asthma never restricts exercise
+Asthma,10487,663j.00,663j.,Asthma - currently active
+Asthma,47337,663m.00,663m.,Asthma accident and emergency attendance since last visit
+Asthma,19520,663n.00,663n.,Asthma treatment compliance satisfactory
+Asthma,19519,663p.00,663p.,Asthma treatment compliance unsatisfactory
+Asthma,42824,663q.00,663q.,Asthma daytime symptoms
+Asthma,39570,663r.00,663r.,Asthma causes night symptoms 1 to 2 times per month
+Asthma,26501,663s.00,663s.,Asthma never causes daytime symptoms
+Asthma,31225,663t.00,663t.,Asthma causes daytime symptoms 1 to 2 times per month
+Asthma,24884,663u.00,663u.,Asthma causes daytime symptoms 1 to 2 times per week
+Asthma,26503,663v.00,663v.,Asthma causes daytime symptoms most days
+Asthma,38144,663w.00,663w.,Asthma limits walking up hills or stairs
+Asthma,38145,663x.00,663x.,Asthma limits walking on the flat
+Asthma,9018,663y.00,663y.,Number of asthma exacerbations in past year
+Asthma,9552,66Y5.00,66Y5.,Change in asthma management plan
+Asthma,9663,66Y9.00,66Y9.,Step up change in asthma management plan
+Asthma,18223,66YA.00,66YA.,Step down change in asthma management plan
+Asthma,41020,66YC.00,66YC.,Absent from work or school due to asthma
+Asthma,10043,66YJ.00,66YJ.,Asthma annual review
+Asthma,13176,66YK.00,66YK.,Asthma follow-up
+Asthma,31167,66YP.00,66YP.,Asthma night-time symptoms
+Asthma,19167,66YQ.00,66YQ.,Asthma monitoring by nurse
+Asthma,30458,66YR.00,66YR.,Asthma monitoring by doctor
+Asthma,102170,66Yp.00,66Yp.,Asthma review using Roy Colleg of Physicians three questions
+Asthma,102400,66Yq.00,66Yq.,Asthma causes night time symptoms 1 to 2 times per week
+Asthma,102395,66Yr.00,66Yr.,Asthma causes symptoms most nights
+Asthma,103612,66Ys.00,66Ys.,Asthma never causes night symptoms
+Asthma,107167,66Yu.00,66Yu.,Number days absent from school due to asthma in past 6 month
+Asthma,100107,679J000,679J0,Health education - asthma self management
+Asthma,100740,679J100,679J1,Health education - structured asthma discussion
+Asthma,103318,679J200,679J2,Health education - structured patient focused asthma discuss
+Asthma,24506,8791.00,8791.,Further asthma - drug prevent.
+Asthma,16785,8794.00,8794.,Asthma control step 1
+Asthma,16667,8795.00,8795.,Asthma control step 2
+Asthma,18224,8796.00,8796.,Asthma control step 3
+Asthma,20886,8797.00,8797.,Asthma control step 4
+Asthma,20860,8798.00,8798.,Asthma control step 5
+Asthma,10274,8B3j.00,8B3j.,Asthma medication review
+Asthma,99793,8CMA000,8CMA0,Patient has a written asthma personal action plan
+Asthma,25791,8CR0.00,8CR0.,Asthma clinical management plan
+Asthma,7058,8H2P.00,8H2P.,"Emergency admission, asthma"
+Asthma,100509,9NNX.00,9NNX.,Under care of asthma specialist nurse
+Asthma,46529,9OJ1.00,9OJ1.,Attends asthma monitoring
+Asthma,19539,9OJA.00,9OJA.,Asthma monitoring check done
+Asthma,8355,9OJA.11,9OJA.,Asthma monitored
+Asthma,5798,H312000,H3120,Chronic asthmatic bronchitis
+Asthma,5909,H312011,H3120,Chronic wheezy bronchitis
+Asthma,78,H33..00,H33..,Asthma
+Asthma,1555,H33..11,H33..,Bronchial asthma
+Asthma,7146,H330.00,H330.,Extrinsic (atopic) asthma
+Asthma,2290,H330.11,H330.,Allergic asthma
+Asthma,1208,H330.12,H330.,Childhood asthma
+Asthma,15248,H330.13,H330.,Hay fever with asthma
+Asthma,7731,H330.14,H330.,Pollen asthma
+Asthma,14777,H330000,H3300,Extrinsic asthma without status asthmaticus
+Asthma,5627,H330011,H3300,Hay fever with asthma
+Asthma,27926,H330100,H3301,Extrinsic asthma with status asthmaticus
+Asthma,6707,H330111,H3301,Extrinsic asthma with asthma attack
+Asthma,45782,H330z00,H330z,Extrinsic asthma NOS
+Asthma,5267,H331.00,H331.,Intrinsic asthma
+Asthma,3665,H331.11,H331.,Late onset asthma
+Asthma,29325,H331000,H3310,Intrinsic asthma without status asthmaticus
+Asthma,58196,H331100,H3311,Intrinsic asthma with status asthmaticus
+Asthma,18323,H331111,H3311,Intrinsic asthma with asthma attack
+Asthma,45073,H331z00,H331z,Intrinsic asthma NOS
+Asthma,185,H333.00,H333.,Acute exacerbation of asthma
+Asthma,40823,H334.00,H334.,Brittle asthma
+Asthma,106805,H335.00,H335.,Chronic asthma with fixed airflow obstruction
+Asthma,4442,H33z.00,H33z.,Asthma unspecified
+Asthma,32727,H33z.11,H33z.,Hyperreactive airways disease
+Asthma,4892,H33z000,H33z0,Status asthmaticus NOS
+Asthma,233,H33z011,H33z0,Severe asthma attack
+Asthma,232,H33z100,H33z1,Asthma attack
+Asthma,8335,H33z111,H33z1,Asthma attack NOS
+Asthma,12987,H33z200,H33z2,Late-onset asthma
+Asthma,16070,H33zz00,H33zz,Asthma NOS
+Asthma,4606,H33zz11,H33zz,Exercise induced asthma
+Asthma,21232,H33zz12,H33zz,Allergic asthma NEC
+Asthma,18207,H33zz13,H33zz,Allergic bronchitis NEC
+Asthma,93353,H35y600,H35y6,Sequoiosis (red-cedar asthma)
+Asthma,39478,H35y700,H35y7,Wood asthma
+Asthma,47684,H47y000,H47y0,Detergent asthma
+Asthma resolved,10996,2126200,21262,Asthma resolved
+Asthma resolved,11839,212G.00,212G.,Asthma resolved

@@ -1,0 +1,11 @@
+Audit query,Category,Medcode,Read code,Read V2 5B code,Read term
+1,Spirometry - FEV1/FVC,23285,3399.00,3399.,FEV1/FVC ratio abnormal
+1,Spirometry - FEV1/FVC,14456,339M.00,339M.,FEV1/FVC ratio
+1,Spirometry - FEV1/FVC,102575,339O100,339O1,Forced expired volume in one second/vital capacity ratio
+1,Spirometry - FEV1/FVC,8512,339R.00,339R.,FEV1/FVC percent
+1,Spirometry - FEV1/FVC,11078,339T.00,339T.,FEV1/FVC > 70% of predicted
+1,Spirometry - FEV1/FVC,25083,339U.00,339U.,FEV1/FVC < 70% of predicted
+1,Spirometry - FEV1/FVC,58632,339j.00,339j.,FEV1/FVC ratio pre steroids
+1,Spirometry - FEV1/FVC,58633,339k.00,339k.,FEV1/FVC ratio post steroids
+1,Spirometry - FEV1/FVC,27141,339l.00,339l.,FEV1/FVC ratio before bronchodilator
+1,Spirometry - FEV1/FVC (post-bronchodilator),19832,339m.00,339m.,FEV1/FVC ratio after bronchodilator

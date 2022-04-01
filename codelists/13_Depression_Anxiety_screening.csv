@@ -1,0 +1,9 @@
+Audit query,Category,Medcode,Read code,Read V2 5B code,Read term
+13,Depression screening,4740,6891.00,6891.,Depression screen
+13,Depression screening,103903,6891000,68910,Assessment using Whooley depression screen
+13,Depression screening,12450,6896.00,6896.,Depression screening using questions
+13,Depression screening,4876,ZV79000,ZV790,[V]Screening for depression
+13,Depression screening declined,109182,8IH3100,8IH31,Depression screening declined
+13,Anxiety screening,108194,6897.00,6897.,Anxiety screening
+13,Anxiety screening,108245,6897000,68970,Anxiety screening using questions
+13,Anxiety screening declined,109490,8IH3000,8IH30,Anxiety screening declined

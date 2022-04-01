@@ -1,0 +1,26 @@
+Audit query,Category,Medcode,Read code,Read V2 5B code,Read term
+10,Smoking cessation,34126,13p0.00,13p0.,Negotiated date for cessation of smoking
+10,Smoking cessation,38112,13p5.00,13p5.,Smoking cessation programme start date
+10,Smoking cessation,101764,13p5000,13p50,Practice based smoking cessation programme start date
+10,Smoking cessation,98137,67H6.00,67H6.,Brief intervention for smoking cessation
+10,Smoking cessation,74907,745H.00,745H.,Smoking cessation therapy
+10,Smoking cessation,91708,745Hy00,745Hy,Other specified smoking cessation therapy
+10,Smoking cessation,7622,8CAL.00,8CAL.,Smoking cessation advice
+10,Smoking cessation,18573,8H7i.00,8H7i.,Referral to smoking cessation advisor
+10,Smoking cessation,104230,8IEK.00,8IEK.,Smoking cessation programme declined
+10,Smoking cessation,104185,8IEM.00,8IEM.,Smoking cessation drug therapy declined
+10,Smoking cessation,106391,8IEo.00,8IEo.,Referral to smoking cessation service declined
+10,Smoking cessation,106359,8T08.00,8T08.,Referral to smoking cessation service
+10,Smoking cessation,11356,9N2k.00,9N2k.,Seen by smoking cessation advisor
+10,Smoking cessation,102361,9NS0200,9NS02,Referral for smoking cessation service offered
+10,Smoking cessation,101385,9Ndf.00,9Ndf.,Consent given for follow-up by smoking cessation team
+10,Smoking cessation,101851,9Ndg.00,9Ndg.,Declined consent for follow-up by smoking cessation team
+10,Smoking cessation drug,81440,745H000,745H0,Nicotine replacement therapy using nicotine patches
+10,Smoking cessation drug,85975,745H100,745H1,Nicotine replacement therapy using nicotine gum
+10,Smoking cessation drug,85247,745H200,745H2,Nicotine replacement therapy using nicotine inhalator
+10,Smoking cessation drug,89464,745H300,745H3,Nicotine replacement therapy using nicotine lozenges
+10,Smoking cessation drug,94958,745H400,745H4,Smoking cessation drug therapy
+10,Smoking cessation drug,9833,8B2B.00,8B2B.,Nicotine replacement therapy
+10,Smoking cessation drug,109716,8B2B000,8B2B0,Issue of nicotine replacement therapy voucher
+10,Smoking cessation drug,32572,8B3Y.00,8B3Y.,Over the counter nicotine replacement therapy
+10,Smoking cessation drug,25106,8B3f.00,8B3f.,Nicotine replacement therapy provided free

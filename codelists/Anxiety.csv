@@ -1,0 +1,67 @@
+Category,Medcode,Read code,Read V2 5B code,Read term
+Anxiety,101422,16ZB100,16ZB1,Feeling low or worried
+Anxiety,3328,1B1..00,1B1..,General nervous symptoms
+Anxiety,29608,1B12.00,1B12.,'Nerves' - nervousness
+Anxiety,3586,1B12.11,1B12.,'Nerves'
+Anxiety,514,1B12.12,1B12.,Tension - nervous
+Anxiety,131,1B13.00,1B13.,Anxiousness
+Anxiety,5902,1B13.11,1B13.,Anxiousness - symptom
+Anxiety,93401,1B13.12,1B13.,Anxious
+Anxiety,40431,1B1P000,1B1P0,Cries easily
+Anxiety,11890,1B1V.00,1B1V.,C/O - panic attack
+Anxiety,20089,1B1Z.00,1B1Z.,General nervous symptom NOS
+Anxiety,2524,1BK..00,1BK..,Worried
+Anxiety,38155,2255.00,2255.,O/E - afraid
+Anxiety,13124,2258.00,2258.,O/E - anxious
+Anxiety,8725,2259.00,2259.,O/E - nervous
+Anxiety,19000,225J.00,225J.,O/E - panic attack
+Anxiety,26331,225K.00,225K.,O/E - fearful mood
+Anxiety,28925,8HHp.00,8HHp.,Referral for guided self-help for anxiety
+Anxiety,636,E200.00,E200.,Anxiety states
+Anxiety,6939,E200000,E2000,Anxiety state unspecified
+Anxiety,4069,E200100,E2001,Panic disorder
+Anxiety,462,E200111,E2001,Panic attack
+Anxiety,4659,E200200,E2002,Generalised anxiety disorder
+Anxiety,655,E200300,E2003,Anxiety with depression
+Anxiety,1758,E200400,E2004,Chronic anxiety
+Anxiety,4634,E200500,E2005,Recurrent anxiety
+Anxiety,4534,E200z00,E200z,Anxiety state NOS
+Anxiety,3076,E202100,E2021,Agoraphobia with panic attacks
+Anxiety,12838,E202200,E2022,Agoraphobia without mention of panic attacks
+Anxiety,10390,E202D00,E202D,Fear of death
+Anxiety,3361,E205.00,E205.,Neurasthenia - nervous debility
+Anxiety,1582,E205.11,E205.,Nervous exhaustion
+Anxiety,7235,E205.12,E205.,Tired all the time
+Anxiety,14780,E20z.00,E20z.,Neurotic disorder NOS
+Anxiety,791,E20z.11,E20z.,Nervous breakdown
+Anxiety,11940,E280.00,E280.,Acute panic state due to acute stress reaction
+Anxiety,6221,E292000,E2920,Separation anxiety disorder
+Anxiety,56924,E292400,E2924,Adjustment reaction with anxious mood
+Anxiety,2571,Eu40000,Eu400,[X]Agoraphobia
+Anxiety,16729,Eu40011,Eu400,[X]Agoraphobia without history of panic disorder
+Anxiety,14890,Eu40012,Eu400,[X]Panic disorder with agoraphobia
+Anxiety,34064,Eu40z00,Eu40z,"[X]Phobic anxiety disorder, unspecified"
+Anxiety,7222,Eu40z11,Eu40z,[X]Phobia NOS
+Anxiety,67898,Eu40z12,Eu40z,[X]Phobic state NOS
+Anxiety,5385,Eu41.00,Eu41.,[X]Other anxiety disorders
+Anxiety,8205,Eu41000,Eu410,[X]Panic disorder [episodic paroxysmal anxiety]
+Anxiety,6408,Eu41011,Eu410,[X]Panic attack
+Anxiety,4081,Eu41012,Eu410,[X]Panic state
+Anxiety,10344,Eu41100,Eu411,[X]Generalized anxiety disorder
+Anxiety,962,Eu41111,Eu411,[X]Anxiety neurosis
+Anxiety,35825,Eu41112,Eu411,[X]Anxiety reaction
+Anxiety,50191,Eu41113,Eu411,[X]Anxiety state
+Anxiety,11913,Eu41200,Eu412,[X]Mixed anxiety and depressive disorder
+Anxiety,7749,Eu41211,Eu412,[X]Mild anxiety depression
+Anxiety,44321,Eu41300,Eu413,[X]Other mixed anxiety disorders
+Anxiety,24066,Eu41y00,Eu41y,[X]Other specified anxiety disorders
+Anxiety,28167,Eu41y11,Eu41y,[X]Anxiety hysteria
+Anxiety,23838,Eu41z00,Eu41z,"[X]Anxiety disorder, unspecified"
+Anxiety,25638,Eu41z11,Eu41z,[X]Anxiety NOS
+Anxiety,44305,Eu51500,Eu515,[X]Nightmares
+Anxiety,17687,Eu51511,Eu515,[X]Dream anxiety disorder
+Anxiety,8424,Eu60600,Eu606,[X]Anxious [avoidant] personality disorder
+Anxiety,2509,R2y2.00,R2y2.,[D]Nervousness
+Anxiety,17853,R2y2.11,R2y2.,[D]Nerves
+Anxiety,10723,R2y2.12,R2y2.,[D]Nervous tension
+Anxiety resolved,111294,2126J00,2126J,Anxiety Resolved

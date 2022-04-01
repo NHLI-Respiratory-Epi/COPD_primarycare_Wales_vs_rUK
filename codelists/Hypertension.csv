@@ -1,0 +1,99 @@
+Category,Medcode,Read code,Read V2 5B code,Read term
+Hypertension,3468,662..00,662..,Cardiac disease monitoring
+Hypertension,1537,662..11,662..,Heart disease monitoring
+Hypertension,4444,662..12,662..,Hypertension monitoring
+Hypertension,16565,6627.00,6627.,Good hypertension control
+Hypertension,27511,6628.00,6628.,Poor hypertension control
+Hypertension,30776,6629.00,6629.,Hypertension:follow-up default
+Hypertension,21826,662F.00,662F.,Hypertension treatm. started
+Hypertension,13188,662G.00,662G.,Hypertensive treatm.changed
+Hypertension,12948,662H.00,662H.,Hypertension treatm.stopped
+Hypertension,3425,662O.00,662O.,On treatment for hypertension
+Hypertension,13186,662P.00,662P.,Hypertension monitoring
+Hypertension,18590,662b.00,662b.,Moderate hypertension control
+Hypertension,18482,662c.00,662c.,Hypertension six month review
+Hypertension,19070,662d.00,662d.,Hypertension annual review
+Hypertension,95359,662r.00,662r.,Trial withdrawal of antihypertensive therapy
+Hypertension,85944,7Q01.00,7Q01.,High cost hypertension drugs
+Hypertension,18057,8B26.00,8B26.,Antihypertensive therapy
+Hypertension,11056,8BL0.00,8BL0.,Patient on maximal tolerated antihypertensive therapy
+Hypertension,12680,8CR4.00,8CR4.,Hypertension clinical management plan
+Hypertension,22333,8I3N.00,8I3N.,Hypertension treatment refused
+Hypertension,4344,9N03.00,9N03.,Seen in hypertension clinic
+Hypertension,27634,9N1y200,9N1y2,Seen in hypertension clinic
+Hypertension,5215,9OI..00,9OI..,Hypertension monitoring admin.
+Hypertension,27525,9OI..11,9OI..,Hypertension clinic admin.
+Hypertension,45149,9OI1.00,9OI1.,Attends hypertension monitor.
+Hypertension,43220,9OI2.00,9OI2.,Refuses hypertension monitor.
+Hypertension,28828,9OI3.00,9OI3.,Hyperten.monitor offer default
+Hypertension,31117,9OI4.00,9OI4.,Hypertens.monitor.1st letter
+Hypertension,31127,9OI5.00,9OI5.,Hypertens.monitor 2nd letter
+Hypertension,31175,9OI6.00,9OI6.,Hypertens.monitor 3rd letter
+Hypertension,41634,9OI7.00,9OI7.,Hypertens.monitor verbal inv.
+Hypertension,28874,9OI8.00,9OI8.,Hypertens.monitor phone invite
+Hypertension,36305,9OIA.00,9OIA.,Hypertension monitor.chck done
+Hypertension,24127,9OIA.11,9OIA.,Hypertension monitored
+Hypertension,34192,9OIZ.00,9OIZ.,Hypertens.monitoring admin.NOS
+Hypertension,34108,9h3..00,9h3..,Exception reporting: hypertension quality indicators
+Hypertension,10961,9h31.00,9h31.,Excepted from hypertension qual indicators: Patient unsuit
+Hypertension,10976,9h32.00,9h32.,Excepted from hypertension qual indicators: Informed dissent
+Hypertension,37086,F404200,F4042,Blind hypertensive eye
+Hypertension,44338,F404211,F4042,Glaucoma - absolute
+Hypertension,6702,F421300,F4213,Hypertensive retinopathy
+Hypertension,204,G2...00,G2...,Hypertensive disease
+Hypertension,8732,G2...11,G2...,BP - hypertensive disease
+Hypertension,799,G20..00,G20..,Essential hypertension
+Hypertension,351,G20..11,G20..,High blood pressure
+Hypertension,107704,G20..12,G20..,Primary hypertension
+Hypertension,15377,G200.00,G200.,Malignant essential hypertension
+Hypertension,1894,G201.00,G201.,Benign essential hypertension
+Hypertension,4372,G202.00,G202.,Systolic hypertension
+Hypertension,83473,G203.00,G203.,Diastolic hypertension
+Hypertension,10818,G20z.00,G20z.,Essential hypertension NOS
+Hypertension,3712,G20z.11,G20z.,Hypertension NOS
+Hypertension,16292,G21..00,G21..,Hypertensive heart disease
+Hypertension,50157,G210.00,G210.,Malignant hypertensive heart disease
+Hypertension,95334,G210000,G2100,Malignant hypertensive heart disease without CCF
+Hypertension,72668,G210100,G2101,Malignant hypertensive heart disease with CCF
+Hypertension,52427,G211.00,G211.,Benign hypertensive heart disease
+Hypertension,61660,G211000,G2110,Benign hypertensive heart disease without CCF
+Hypertension,52127,G211100,G2111,Benign hypertensive heart disease with CCF
+Hypertension,31464,G21z.00,G21z.,Hypertensive heart disease NOS
+Hypertension,61166,G21z000,G21z0,Hypertensive heart disease NOS without CCF
+Hypertension,8857,G21z011,G21z0,Cardiomegaly - hypertensive
+Hypertension,62718,G21z100,G21z1,Hypertensive heart disease NOS with CCF
+Hypertension,16173,G21zz00,G21zz,Hypertensive heart disease NOS
+Hypertension,4668,G22..00,G22..,Hypertensive renal disease
+Hypertension,17434,G22..11,G22..,Nephrosclerosis
+Hypertension,39649,G220.00,G220.,Malignant hypertensive renal disease
+Hypertension,43935,G221.00,G221.,Benign hypertensive renal disease
+Hypertension,32423,G222.00,G222.,Hypertensive renal disease with renal failure
+Hypertension,15106,G22z.00,G22z.,Hypertensive renal disease NOS
+Hypertension,29310,G22z.11,G22z.,Renal hypertension
+Hypertension,63466,G23..00,G23..,Hypertensive heart and renal disease
+Hypertension,67232,G230.00,G230.,Malignant hypertensive heart and renal disease
+Hypertension,63000,G231.00,G231.,Benign hypertensive heart and renal disease
+Hypertension,21837,G232.00,G232.,Hypertensive heart&renal dis wth (congestive) heart failure
+Hypertension,28684,G233.00,G233.,Hypertensive heart and renal disease with renal failure
+Hypertension,57987,G234.00,G234.,Hyperten heart&renal dis+both(congestv)heart and renal fail
+Hypertension,68659,G23z.00,G23z.,Hypertensive heart and renal disease NOS
+Hypertension,7329,G24..00,G24..,Secondary hypertension
+Hypertension,31755,G240.00,G240.,Secondary malignant hypertension
+Hypertension,59383,G240000,G2400,Secondary malignant renovascular hypertension
+Hypertension,73293,G240z00,G240z,Secondary malignant hypertension NOS
+Hypertension,57288,G241.00,G241.,Secondary benign hypertension
+Hypertension,25371,G241000,G2410,Secondary benign renovascular hypertension
+Hypertension,51635,G241z00,G241z,Secondary benign hypertension NOS
+Hypertension,34744,G244.00,G244.,Hypertension secondary to endocrine disorders
+Hypertension,16059,G24z.00,G24z.,Secondary hypertension NOS
+Hypertension,31387,G24z000,G24z0,Secondary renovascular hypertension NOS
+Hypertension,31341,G24z100,G24z1,Hypertension secondary to drug
+Hypertension,42229,G24zz00,G24zz,Secondary hypertension NOS
+Hypertension,18765,G2y..00,G2y..,Other specified hypertensive disease
+Hypertension,7057,G2z..00,G2z..,Hypertensive disease NOS
+Hypertension,3979,G672.00,G672.,Hypertensive encephalopathy
+Hypertension,31816,G672.11,G672.,Hypertensive crisis
+Hypertension,69753,Gyu2.00,Gyu2.,[X]Hypertensive diseases
+Hypertension,97533,Gyu2100,Gyu21,[X]Hypertension secondary to other renal disorders
+Hypertension resolved,3269,2126100,21261,Hypertension resolved
+Hypertension resolved,19342,212K.00,212K.,Hypertension resolved

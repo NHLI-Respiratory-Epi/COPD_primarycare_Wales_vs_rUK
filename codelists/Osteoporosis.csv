@@ -1,0 +1,88 @@
+Category,Medcode,Read code,Read V2 5B code,Read term
+Osteoporosis,99817,14GB.00,14GB.,History of osteoporosis
+Osteoporosis,51891,585O.00,585O.,Quantitative ultrasound scan of heel - result osteoporotic
+Osteoporosis,13987,58E4.00,58E4.,Forearm DXA scan result osteoporotic
+Osteoporosis,10354,58E5.00,58E5.,Forearm DXA scan result osteopenic
+Osteoporosis,46510,58EA.00,58EA.,Heel DXA scan result osteoporotic
+Osteoporosis,18298,58EB.00,58EB.,Heel DXA scan result osteopenic
+Osteoporosis,42354,58EG.00,58EG.,Hip DXA scan result osteoporotic
+Osteoporosis,39217,58EM.00,58EM.,Lumbar DXA scan result osteoporotic
+Osteoporosis,96342,58EV.00,58EV.,Femoral neck DEXA scan result osteoporotic
+Osteoporosis,96204,58EW.00,58EW.,Femoral neck DEXA scan result osteopenic
+Osteoporosis,11603,66a..00,66a..,Osteoporosis monitoring
+Osteoporosis,10293,66a0.00,66a0.,Initial osteoporosis assessment
+Osteoporosis,10359,66a1.00,66a1.,Follow-up osteoporosis assessment
+Osteoporosis,37646,66a2.00,66a2.,Osteoporosis treatment started
+Osteoporosis,36644,66a3.00,66a3.,Osteoporosis treatment stopped
+Osteoporosis,34129,66a4.00,66a4.,Osteoporosis treatment changed
+Osteoporosis,48962,66a5.00,66a5.,Osteoporosis - no treatment
+Osteoporosis,26876,66a6.00,66a6.,Osteoporosis - dietary advice
+Osteoporosis,38903,66a7.00,66a7.,Osteoporosis - dietary assessment
+Osteoporosis,41376,66a8.00,66a8.,Osteoporosis - exercise advice
+Osteoporosis,26292,66a9.00,66a9.,Osteoporosis - falls prevention
+Osteoporosis,70233,66aA.00,66aA.,Osteoporosis - treatment response
+Osteoporosis,98189,66aB.00,66aB.,Osteoporosis - no treatment response
+Osteoporosis,39596,66aE.00,66aE.,Refer to osteoporosis specialist
+Osteoporosis,13055,679F.00,679F.,Health education - osteoporosis
+Osteoporosis,101068,8B6b.00,8B6b.,Osteoporosis medication prophylaxis
+Osteoporosis,28882,8HTS.00,8HTS.,Referral to osteoporosis clinic
+Osteoporosis,89922,8I6c.00,8I6c.,Osteoporosis treatment not indicated
+Osteoporosis,18265,9N0h.00,9N0h.,Seen in osteoporosis clinic
+Osteoporosis,36796,9Od..00,9Od..,Osteoporosis monitoring administration
+Osteoporosis,65163,9Od0.00,9Od0.,Attends osteoporosis monitoring
+Osteoporosis,45274,9Od1.00,9Od1.,Refuses osteoporosis monitoring
+Osteoporosis,92887,9Od2.00,9Od2.,Osteoporosis monitoring default
+Osteoporosis,68122,9Od3.00,9Od3.,Osteoporosis monitoring first letter
+Osteoporosis,93455,9Od4.00,9Od4.,Osteoporosis monitoring second letter
+Osteoporosis,102017,9Od5.00,9Od5.,Osteoporosis monitoring third letter
+Osteoporosis,61121,9Od7.00,9Od7.,Osteoporosis monitoring telephone invitation
+Osteoporosis,96779,9Od8.00,9Od8.,Osteoporosis monitoring deleted
+Osteoporosis,25534,9Od9.00,9Od9.,Osteoporosis monitoring check done
+Osteoporosis,102169,9hP..00,9hP..,Exception reporting: osteoporosis quality indicators
+Osteoporosis,101443,9hP0.00,9hP0.,Excepted osteoporosis quality indicators: patient unsuitable
+Osteoporosis,98433,9kj..00,9kj..,Osteoporosis - enhanced services administration
+Osteoporosis,98760,9kj0.00,9kj0.,Bone sparing drug treatment offered for osteoporosis - ESA
+Osteoporosis,277,N330.00,N330.,Osteoporosis
+Osteoporosis,14967,N330000,N3300,"Osteoporosis, unspecified"
+Osteoporosis,16307,N330100,N3301,Senile osteoporosis
+Osteoporosis,9700,N330200,N3302,Postmenopausal osteoporosis
+Osteoporosis,40428,N330300,N3303,Idiopathic osteoporosis
+Osteoporosis,62702,N330400,N3304,Dissuse osteoporosis
+Osteoporosis,24093,N330500,N3305,Drug-induced osteoporosis
+Osteoporosis,70349,N330600,N3306,Postoophorectomy osteoporosis
+Osteoporosis,93655,N330700,N3307,Postsurgical malabsorption osteoporosis
+Osteoporosis,54232,N330800,N3308,Localized osteoporosis - Lequesne
+Osteoporosis,60433,N330900,N3309,Osteoporosis in multiple myelomatosis
+Osteoporosis,31580,N330A00,N330A,Osteoporosis in endocrine disorders
+Osteoporosis,3346,N330B00,N330B,Vertebral osteoporosis
+Osteoporosis,16857,N330C00,N330C,Osteoporosis localized to spine
+Osteoporosis,25650,N330D00,N330D,Osteoporosis due to corticosteroids
+Osteoporosis,34798,N330z00,N330z,Osteoporosis NOS
+Osteoporosis,5526,N331.00,N331.,Pathological fracture
+Osteoporosis,28575,N331.11,N331.,Collapse of spine NOS
+Osteoporosis,2793,N331.12,N331.,Collapse of vertebra NOS
+Osteoporosis,100677,N331.13,N331.,Sponanteous fracture
+Osteoporosis,44386,N331.14,N331.,Osteoporotic vertebral collapse
+Osteoporosis,39334,N331200,N3312,Postoophorectomy osteoporosis with pathological fracture
+Osteoporosis,33526,N331300,N3313,Osteoporosis of disuse with pathological fracture
+Osteoporosis,68019,N331400,N3314,Postsurgical malabsorption osteoporosis with path fracture
+Osteoporosis,46894,N331500,N3315,Drug-induced osteoporosis with pathological fracture
+Osteoporosis,27597,N331600,N3316,Idiopathic osteoporosis with pathological fracture
+Osteoporosis,17377,N331800,N3318,Osteoporosis + pathological fracture lumbar vertebrae
+Osteoporosis,12673,N331900,N3319,Osteoporosis + pathological fracture thoracic vertebrae
+Osteoporosis,48772,N331A00,N331A,Osteoporosis + pathological fracture cervical vertebrae
+Osteoporosis,38395,N331B00,N331B,Postmenopausal osteoporosis with pathological fracture
+Osteoporosis,45736,N331H00,N331H,Collapse of cervical vertebra due to osteoporosis
+Osteoporosis,5841,N331J00,N331J,Collapse of lumbar vertebra due to osteoporosis
+Osteoporosis,19048,N331K00,N331K,Collapse of thoracic vertebra due to osteoporosis
+Osteoporosis,4013,N331L00,N331L,Collapse of vertebra due to osteoporosis NOS
+Osteoporosis,11503,N331M00,N331M,Fragility fracture due to unspecified osteoporosis
+Osteoporosis,93705,N331M11,N331M,Minimal trauma fracture due to unspecified osteoporosis
+Osteoporosis,36432,N374600,N3746,Osteoporotic kyphosis
+Osteoporosis,57301,NyuB000,NyuB0,[X]Other osteoporosis with pathological fracture
+Osteoporosis,41755,NyuB100,NyuB1,[X]Other osteoporosis
+Osteoporosis,18825,NyuB800,NyuB8,[X]Unspecified osteoporosis with pathological fracture
+Osteoporosis,15343,PG52.00,PG52.,Osteopetrosis
+Osteoporosis,50325,PG52.11,PG52.,Albers - Schonberg syndrome
+Osteoporosis,92755,PG52.12,PG52.,Marble bones
+Osteoporosis,44759,PG52000,PG520,Osteopetrosis - unclassified

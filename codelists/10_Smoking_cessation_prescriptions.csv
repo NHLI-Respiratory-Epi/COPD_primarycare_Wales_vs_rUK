@@ -1,0 +1,166 @@
+Audit query,Category,Medication,Prodcode,Gemscript code,Product Name,Drug Substance,BNF Code
+10,Smoking cessation drug,Nicotine,30086,!8505007,NICORETTE MICROTAB,,00000000
+10,Smoking cessation drug,Nicotine,46588,00239021,Nicotinell Icemint 2mg medicated chewing gum (Novartis Consumer Health UK Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,46701,00241021,Nicotinell Icemint 4mg medicated chewing gum (Novartis Consumer Health UK Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,46717,00333021,Nicotine 15mg inhalation cartridges with device,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,46592,00335021,Nicorette 15mg Inhalator (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,14558,03069007,NICONIL PATCH 15 MG,,00000000
+10,Smoking cessation drug,Nicotine,12488,03075007,NICONIL PATCH 30 MG,,00000000
+10,Smoking cessation drug,Nicotine,14556,03130007,TRANSDERMAL NICOTINE PATCH 10 MG,,00000000
+10,Smoking cessation drug,Nicotine,8534,03131007,TRANSDERMAL NICOTINE PATCH 5 MG,,00000000
+10,Smoking cessation drug,Nicotine,8297,03154007,NICOTINE TRANSDERMAL PATCH 20CM,,00000000
+10,Smoking cessation drug,Nicotine,116,03155007,NICOTINE TRANSDERMAL PATCH 30CM,,00000000
+10,Smoking cessation drug,Nicotine,50487,05395020,NiQuitin Clear 14mg patches (Waymade Healthcare Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,49088,05397020,NiQuitin Clear 21mg patches (Waymade Healthcare Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,58675,05398020,Boots NicAssist 5mg patches (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,57417,05399020,Nicorette 5mg patches (Waymade Healthcare Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,60236,05400020,Boots NicAssist 10mg patches (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,67802,05401020,Nicorette 10mg patches (Waymade Healthcare Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,49607,05402020,Boots NicAssist 15mg patches (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,71101,05403020,Nicorette 15mg patches (Waymade Healthcare Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,14559,06552007,NICONIL,,00000000
+10,Smoking cessation drug,Nicotine,48620,12811020,Boots NicAssist 10mg Inhalator (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,56552,13344020,Boots NicAssist Minty Fresh 2mg medicated chewing gum (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,54574,13346020,Boots NicAssist Minty Fresh 4mg medicated chewing gum (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,58034,17385021,Nicotine 2.5mg orodispersible films sugar free,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,57829,17386021,NiQuitin Strips Mint 2.5mg oral films (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,58410,17564021,NiQuitin Minis Orange 1.5mg lozenges (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,62246,29779021,Nicotinell Support Icemint 2mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,61777,29780021,Nicotinell Support Icemint 4mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,57731,35055020,NicoBloc liquid (NicoBloc Plc),,04105100
+10,Smoking cessation drug,Nicotine,49305,44466020,Nicorette Cools 2mg lozenges (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,49319,44467020,Nicorette Cools 4mg lozenges (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,54102,46335020,NiQuitin Pre-Quit Clear 21mg patches (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,2876,52510020,Nicorette Citrus 2mg medicated chewing gum (Pfizer Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,4166,52511020,Nicorette Citrus 4mg medicated chewing gum (Pfizer Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,31939,52512020,Nicorette 4mg mint flavour chewing-gum (Pharmacia Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,27311,53744020,Niconil 22mg/24 hr Transdermal patch (Elan Pharma),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,29680,53745020,Niconil 11mg/24 hr Transdermal patch (Elan Pharma),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5515,54311020,Nicotine 1mg Lozenge,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5784,55624020,Nicotine 4mg lozenges sugar free,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,6018,56933020,Nicorette 5mg Transdermal patch (Pharmacia Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5440,56934020,Nicorette 10mg Transdermal patch (Pharmacia Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,1703,56935020,Nicorette 15mg Transdermal patch (Pharmacia Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,10623,57033020,Nicabate 7mg Transdermal patch (Marion Merrell Dow Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,10527,57034020,Nicabate 14mg Transdermal patch (Marion Merrell Dow Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,7644,57035020,Nicabate 21mg Transdermal patch (Marion Merrell Dow Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5457,57039020,Nicotine 5mg/16hours transdermal patches,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5479,57040020,Nicotine 10mg/16hours transdermal patches,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5502,57041020,Nicotine 15mg/16hours transdermal patches,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,7303,57050020,Nicotinell tts 10 sq cm Transdermal patch (Novartis Consumer Health UK Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5606,57051020,Nicotinell tts 20 sq cm Transdermal patch (Novartis Consumer Health UK Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,3818,57052020,Nicotinell tts 30 sq cm Transdermal patch (Novartis Consumer Health UK Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,9804,57306020,Nicotine 7mg/24hours transdermal patches,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,9591,57307020,Nicotine 14mg/24hours transdermal patches,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,6448,57308020,Nicotine 21mg/24hours transdermal patches,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,65765,60139021,Nicotine 6mg medicated chewing gum sugar free,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,65406,60140021,Nicorette Fruitfusion 6mg medicated chewing gum (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,66614,60679021,Boots NicAssist 14mg/24hours transdermal patches (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,66285,60680021,Boots NicAssist 21mg/24hours transdermal patches (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,66101,60681021,Boots NicAssist Translucent 10mg/16hours patches (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,68879,60683021,Boots NicAssist 10mg/ml nasal spray (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,66460,60684021,Boots NicAssist Microtab 2mg sublingual tablets (The Boots Company Plc),Nicotine cyclodextrin complex,04105100
+10,Smoking cessation drug,Nicotine,68621,60709021,Boots NicAssist 1mg lozenges (The Boots Company Plc),Nicotine bitartrate,04105100
+10,Smoking cessation drug,Nicotine,72740,60712021,Boots NicAssist Fruit Fresh 4mg medicated chewing gum (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,67143,60718021,Boots NicAssist 2mg lozenges (The Boots Company Plc),Nicotine bitartrate,04105100
+10,Smoking cessation drug,Nicotine,72553,60816021,Boots NicAssist Translucent 25mg/16hours patches (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,65968,60821021,Boots NicAssist 15mg Inhalator (The Boots Company Plc),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,6323,65041020,Nicotine 2mg medicated chewing gum sugar free,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5758,65042020,Nicotine 4mg medicated chewing gum sugar free,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,25516,65043020,Nicotine 4mg mint flavour chewing-gum,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,33392,75013020,Nicotine 22mg/24 hr Transdermal patch,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,55590,75014020,Nicotine 11mg/24 hr Transdermal patch,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,42221,75028020,Nicotine 4mg lozenges sugar free (Teva UK Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,25523,75195020,Nicorette 2mg mint flavour chewing-gum (Pharmacia Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5877,75196020,Nicorette 2mg microtab (Pharmacia Ltd),Nicotine cyclodextrin complex,04105100
+10,Smoking cessation drug,Nicotine,25510,75199020,Nicotine 2mg mint flavour chewing-gum,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,66376,75200020,Nicotine 0.35mg Lozenge,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,11718,75201020,Nicotine 2mg sublingual tablets sugar free,Nicotine cyclodextrin complex,04105100
+10,Smoking cessation drug,Nicotine,8571,75215020,Nicotine 500micrograms/dose nasal spray,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,1248,75860020,Nicorette 10mg/ml Nasal spray (Pharmacia Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5659,78251020,NiQuitin 4mg lozenges original menthol mint (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,71238,78499021,NiQuitin Extra Fresh Mint 2mg medicated chewing gum (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,71539,78500021,NiQuitin Extra Fresh Mint 4mg medicated chewing gum (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5700,79450020,NiQuitin 2mg lozenges original menthol mint (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5946,79770020,Nicotinell 2mg Medicated chewing-gum (Novartis Consumer Health UK Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,13048,79771020,Nicotinell 4mg Medicated chewing-gum (Novartis Consumer Health UK Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5531,79772020,Nicotinell 1mg Lozenge (Novartis Consumer Health UK Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,9806,79951020,Nicotine 2mg lozenges sugar free,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,6565,84364020,NiQuitin Fresh Mint 2mg medicated chewing gum (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,6642,84368020,NiQuitin Fresh Mint 4mg medicated chewing gum (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5944,86209020,Nicotine 10mg inhalation cartridges with device,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,5320,86216020,Nicorette 10mg Inhalator (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,4704,86837020,Niquitin 7mg Transdermal patch (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,4717,86838020,Niquitin 14mg Transdermal patch (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,3404,86839020,Niquitin 21mg Transdermal patch (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,6698,87017020,Nicotinell 2mg lozenges (GlaxoSmithKline Consumer Healthcare),Nicotine bitartrate,04105100
+10,Smoking cessation drug,Nicotine,6630,87021020,NiQuitin Mint 2mg lozenges (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,6593,87023020,NiQuitin Mint 4mg lozenges (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,36618,93852020,Nicopatch 7mg/24hours transdermal patches (Pierre Fabre Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,36635,93854020,Nicopatch 14mg/24hours transdermal patches (Pierre Fabre Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,36457,93858020,Nicopatch 21mg/24hours transdermal patches (Pierre Fabre Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,37646,93904020,Nicotine 1.5mg lozenges sugar free,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,37716,93906020,Nicopass 1.5mg Lozenge (Wockhardt UK Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,38958,96119020,Nicotinell 1mg lozenges (GlaxoSmithKline Consumer Healthcare),Nicotine bitartrate,04105100
+10,Smoking cessation drug,Nicotine,39521,96167020,NiQuitin Pre-Quit Mint 4mg lozenges (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,39123,96223020,Nicotine 25mg/16hours transdermal patches,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,39572,96225020,Nicorette invisi 10mg/16hours patches (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,39166,96227020,Nicorette invisi 15mg/16hours patches (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,39046,96229020,Nicorette invisi 25mg/16hours patches (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,40617,97207020,Nicotinell TTS 20 patches (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,40620,97209020,Nicotinell TTS 30 patches (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,40683,97298020,Nicotinell TTS 10 patches (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,40730,97327020,NiQuitin Minis Mint 1.5mg lozenges (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,40865,97329020,NiQuitin Minis Mint 4mg lozenges (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41860,97529020,Nicotine bitartrate 2mg Sublingual tablet,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41040,97531020,Nicorette lemon 2mg microtab (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,42048,97682020,Nicotine bitartrate 1mg lozenges sugar free,Nicotine bitartrate,04105100
+10,Smoking cessation drug,Nicotine,42286,97684020,Nicotine bitartrate 2mg lozenges sugar free,Nicotine bitartrate,04105100
+10,Smoking cessation drug,Nicotine,41507,97712020,NiQuitin Clear 7mg patches (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41426,97714020,NiQuitin 7mg patches (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41485,97716020,NiQuitin 14mg patches (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41505,97718020,NiQuitin Clear 14mg patches (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41368,97720020,NiQuitin 21mg patches (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41372,97722020,NiQuitin Clear 21mg patches (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41377,97724020,Nicorette Original 2mg medicated chewing gum (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41864,97726020,Nicorette Fruitfusion 2mg medicated chewing gum (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41801,97728020,Nicorette Freshmint 2mg medicated chewing gum (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41779,97730020,Nicorette Icy White 2mg medicated chewing gum (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,42016,97732020,Nicorette Mint 2mg medicated chewing gum (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41753,97734020,Nicorette Original 4mg medicated chewing gum (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41356,97736020,Nicorette Microtab 2mg sublingual tablets (McNeil Products Ltd),Nicotine cyclodextrin complex,04105100
+10,Smoking cessation drug,Nicotine,41778,97738020,Nicorette Fruitfusion 4mg medicated chewing gum (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41425,97740020,Nicorette Freshmint 4mg medicated chewing gum (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41493,97742020,Nicorette Icy White 4mg medicated chewing gum (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41809,97744020,Nicorette Mint 4mg medicated chewing gum (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41802,97746020,Nicorette 5mg patches (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41474,97748020,Nicorette 10mg patches (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41376,97752020,Nicorette 15mg patches (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41496,97756020,Nicorette 500micrograms/dose nasal spray (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41881,97784020,Nicotinell Classic 2mg medicated chewing gum (Novartis Consumer Health UK Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41931,97786020,Nicotinell Fruit 2mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41879,97788020,Nicotinell Liquorice 2mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41765,97790020,Nicotinell Mint 2mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,42011,97792020,Nicotinell Classic 4mg medicated chewing gum (Novartis Consumer Health UK Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41808,97794020,Nicotinell Fruit 4mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,42047,97796020,Nicotinell Liquorice 4mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41909,97798020,Nicotinell Mint 4mg medicated chewing gum (GlaxoSmithKline Consumer Healthcare),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,41923,97878020,Nicotine 15mg/16 hours transdermal patches and Nicotine 2mg medicated chewing gum sugar free,,00000000
+10,Smoking cessation drug,Nicotine,42400,97880020,Nicorette combi 15mg transdermal patches + 2mg medicated gum (McNeil Products Ltd),,00000000
+10,Smoking cessation drug,Nicotine,44106,98865020,NiQuitin Minis Cherry 1.5mg lozenges (Omega Pharma Ltd),Nicotine,04105100
+10,Smoking cessation drug,Nicotine,45603,99541020,Nicorette Freshmint 2mg lozenges (McNeil Products Ltd),Nicotine bitartrate,04105100
+10,Smoking cessation drug,Nicotine,45504,99550020,Nicotine 1mg/dose oromucosal spray sugar free,Nicotine,04105100
+10,Smoking cessation drug,Nicotine,45429,99552020,Nicorette QuickMist 1mg/dose mouthspray freshmint (McNeil Products Ltd),Nicotine,04105100
+10,Smoking cessation drug,Bupropion,55417,05417020,Zyban 150mg modified-release tablets (Lexon (UK) Ltd),Bupropion hydrochloride,04105100
+10,Smoking cessation drug,Bupropion,467,76913020,Zyban 150mg modified-release tablets (GlaxoSmithKline UK Ltd),Bupropion hydrochloride,04105100
+10,Smoking cessation drug,Bupropion,5115,76920020,Bupropion 150mg modified-release tablets,Bupropion hydrochloride,04105100
+10,Smoking cessation drug,Varenicline,49901,11019020,Champix 1mg tablets (Waymade Healthcare Plc),Varenicline tartrate,04105100
+10,Smoking cessation drug,Varenicline,49204,28957020,Champix 0.5mg/1mg 2 week treatment initiation pack (Mawdsley-Brooks & Company Ltd),,04105100
+10,Smoking cessation drug,Varenicline,50541,28958020,Champix 0.5mg/1mg 2 week treatment initiation pack (Sigma Pharmaceuticals Plc),,04105100
+10,Smoking cessation drug,Varenicline,66778,67678021,Champix 0.5mg/1mg 4 week treatment initiation pack (Pfizer Ltd),,04105100
+10,Smoking cessation drug,Varenicline,27412,92001020,Varenicline 1mg tablets and Varenicline 500microgram tablets,Varenicline Tartrate,04105100
+10,Smoking cessation drug,Varenicline,35089,92005020,Varenicline 500microgram tablets,Varenicline tartrate,04105100
+10,Smoking cessation drug,Varenicline,27414,92007020,Varenicline 1mg tablets,Varenicline tartrate,04105100
+10,Smoking cessation drug,Varenicline,27410,92009020,Champix 0.5mg/1mg 2 week treatment initiation pack (Pfizer Ltd),Varenicline Tartrate,04105100
+10,Smoking cessation drug,Varenicline,35035,92011020,Champix 0.5mg tablets (Pfizer Ltd),Varenicline tartrate,04105100
+10,Smoking cessation drug,Varenicline,27411,92013020,Champix 1mg tablets (Pfizer Ltd),Varenicline tartrate,04105100

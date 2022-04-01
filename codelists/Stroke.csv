@@ -1,0 +1,96 @@
+Category,Medcode,Read code,Read V2 5B code,Read term
+Stroke,28914,662o.00,662o.,Haemorrhagic stroke monitoring
+Stroke,1786,G60..00,G60..,Subarachnoid haemorrhage
+Stroke,29939,G600.00,G600.,Ruptured berry aneurysm
+Stroke,56007,G601.00,G601.,Subarachnoid haemorrhage from carotid siphon and bifurcation
+Stroke,19412,G602.00,G602.,Subarachnoid haemorrhage from middle cerebral artery
+Stroke,42331,G603.00,G603.,Subarachnoid haemorrhage from anterior communicating artery
+Stroke,9696,G604.00,G604.,Subarachnoid haemorrhage from posterior communicating artery
+Stroke,41910,G605.00,G605.,Subarachnoid haemorrhage from basilar artery
+Stroke,60692,G606.00,G606.,Subarachnoid haemorrhage from vertebral artery
+Stroke,17326,G60X.00,G60X.,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Stroke,23580,G60z.00,G60z.,Subarachnoid haemorrhage NOS
+Stroke,5051,G61..00,G61..,Intracerebral haemorrhage
+Stroke,6960,G61..11,G61..,CVA - cerebrovascular accid due to intracerebral haemorrhage
+Stroke,18604,G61..12,G61..,Stroke due to intracerebral haemorrhage
+Stroke,31595,G610.00,G610.,Cortical haemorrhage
+Stroke,40338,G611.00,G611.,Internal capsule haemorrhage
+Stroke,46316,G612.00,G612.,Basal nucleus haemorrhage
+Stroke,13564,G613.00,G613.,Cerebellar haemorrhage
+Stroke,7912,G614.00,G614.,Pontine haemorrhage
+Stroke,62342,G615.00,G615.,Bulbar haemorrhage
+Stroke,30045,G616.00,G616.,External capsule haemorrhage
+Stroke,30202,G617.00,G617.,"Intracerebral haemorrhage, intraventricular"
+Stroke,57315,G618.00,G618.,"Intracerebral haemorrhage, multiple localized"
+Stroke,107440,G619.00,G619.,Lobar cerebral haemorrhage
+Stroke,31060,G61X.00,G61X.,"Intracerebral haemorrhage in hemisphere, unspecified"
+Stroke,28314,G61X000,G61X0,"Left sided intracerebral haemorrhage, unspecified"
+Stroke,19201,G61X100,G61X1,"Right sided intracerebral haemorrhage, unspecified"
+Stroke,3535,G61z.00,G61z.,Intracerebral haemorrhage NOS
+Stroke,31805,G62..00,G62..,Other and unspecified intracranial haemorrhage
+Stroke,4273,G621.00,G621.,Subdural haemorrhage - nontraumatic
+Stroke,17734,G622.00,G622.,Subdural haematoma - nontraumatic
+Stroke,18912,G623.00,G623.,Subdural haemorrhage NOS
+Stroke,20284,G62z.00,G62z.,Intracranial haemorrhage NOS
+Stroke,23671,G63y000,G63y0,Cerebral infarct due to thrombosis of precerebral arteries
+Stroke,24446,G63y100,G63y1,Cerebral infarction due to embolism of precerebral arteries
+Stroke,8837,G64..00,G64..,Cerebral arterial occlusion
+Stroke,5363,G64..11,G64..,CVA - cerebral artery occlusion
+Stroke,569,G64..12,G64..,Infarction - cerebral
+Stroke,6155,G64..13,G64..,Stroke due to cerebral arterial occlusion
+Stroke,16517,G640.00,G640.,Cerebral thrombosis
+Stroke,36717,G640000,G6400,Cerebral infarction due to thrombosis of cerebral arteries
+Stroke,15019,G641.00,G641.,Cerebral embolism
+Stroke,34758,G641.11,G641.,Cerebral embolus
+Stroke,27975,G641000,G6410,Cerebral infarction due to embolism of cerebral arteries
+Stroke,3149,G64z.00,G64z.,Cerebral infarction NOS
+Stroke,15252,G64z.11,G64z.,Brainstem infarction NOS
+Stroke,5602,G64z.12,G64z.,Cerebellar infarction
+Stroke,25615,G64z000,G64z0,Brainstem infarction
+Stroke,47642,G64z100,G64z1,Wallenberg syndrome
+Stroke,5185,G64z111,G64z1,Lateral medullary syndrome
+Stroke,9985,G64z200,G64z2,Left sided cerebral infarction
+Stroke,10504,G64z300,G64z3,Right sided cerebral infarction
+Stroke,26424,G64z400,G64z4,Infarction of basal ganglia
+Stroke,504,G65..00,G65..,Transient cerebral ischaemia
+Stroke,3132,G65..11,G65..,Drop attack
+Stroke,1433,G65..12,G65..,Transient ischaemic attack
+Stroke,2417,G65..13,G65..,Vertebro-basilar insufficiency
+Stroke,23942,G650.00,G650.,Basilar artery syndrome
+Stroke,5268,G650.11,G650.,Insufficiency - basilar artery
+Stroke,10794,G656.00,G656.,Vertebrobasilar insufficiency
+Stroke,105738,G657.00,G657.,Carotid territory transient ischaemic attack
+Stroke,1895,G65z.00,G65z.,Transient cerebral ischaemia NOS
+Stroke,16507,G65z100,G65z1,Intermittent cerebral ischaemia
+Stroke,1469,G66..00,G66..,Stroke and cerebrovascular accident unspecified
+Stroke,1298,G66..11,G66..,CVA unspecified
+Stroke,6253,G66..12,G66..,Stroke unspecified
+Stroke,6116,G66..13,G66..,CVA - Cerebrovascular accident unspecified
+Stroke,18689,G660.00,G660.,Middle cerebral artery syndrome
+Stroke,19280,G661.00,G661.,Anterior cerebral artery syndrome
+Stroke,19260,G662.00,G662.,Posterior cerebral artery syndrome
+Stroke,8443,G663.00,G663.,Brain stem stroke syndrome
+Stroke,17322,G664.00,G664.,Cerebellar stroke syndrome
+Stroke,33499,G665.00,G665.,Pure motor lacunar syndrome
+Stroke,51767,G666.00,G666.,Pure sensory lacunar syndrome
+Stroke,7780,G667.00,G667.,Left sided CVA
+Stroke,12833,G668.00,G668.,Right sided CVA
+Stroke,40053,G671.00,G671.,Generalised ischaemic cerebrovascular disease NOS
+Stroke,70536,G671000,G6710,Acute cerebrovascular insufficiency NOS
+Stroke,40758,G6W..00,G6W..,Cereb infarct due unsp occlus/stenos precerebr arteries
+Stroke,33543,G6X..00,G6X..,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Stroke,108668,Gyu6000,Gyu60,[X]Subarachnoid haemorrhage from other intracranial arteries
+Stroke,53810,Gyu6200,Gyu62,[X]Other intracerebral haemorrhage
+Stroke,91627,Gyu6300,Gyu63,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Stroke,53745,Gyu6400,Gyu64,[X]Other cerebral infarction
+Stroke,90572,Gyu6500,Gyu65,[X]Occlusion and stenosis of other precerebral arteries
+Stroke,92036,Gyu6600,Gyu66,[X]Occlusion and stenosis of other cerebral arteries
+Stroke,108630,Gyu6E00,Gyu6E,"[X]Subarachnoid haemorrh from intracranial artery, unspecif"
+Stroke,96630,Gyu6F00,Gyu6F,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
+Stroke,94482,Gyu6G00,Gyu6G,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+Stroke,5682,S62..00,S62..,Cerebral haemorrhage following injury
+Stroke,27661,S62..11,S62..,Extradural haemorrhage following injury
+Stroke,28807,S62..12,S62..,Subarachnoid haemorrhage following injury
+Stroke,6569,S62..13,S62..,Subdural haemorrhage following injury
+Stroke,28077,S62..14,S62..,Traumatic cerebral haemorrhage
+Stroke,101251,ZV12D00,ZV12D,[V]Personal history of transient ischaemic attack

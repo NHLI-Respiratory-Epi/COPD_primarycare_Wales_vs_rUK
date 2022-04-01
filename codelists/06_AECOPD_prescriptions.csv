@@ -1,0 +1,1066 @@
+Audit query,Category,Medication,Prodcode,Gemscript code,Product Name,Drug Substance,BNF Code
+6,Exacerbations,Antibiotics,24288,!0247101,AMOXIL,,00000000
+6,Exacerbations,Antibiotics,19593,!0247105,AMOXIL PAED 125MG IN 1.25ML,,00000000
+6,Exacerbations,Antibiotics,26519,!0247107,AMOXIL,,00000000
+6,Exacerbations,Antibiotics,29061,!0247301,AMOXIL SF,,00000000
+6,Exacerbations,Antibiotics,32505,!0248101,AMOXYCILLIN,,00000000
+6,Exacerbations,Antibiotics,31571,!0248107,AMOXYCILLIN,,00000000
+6,Exacerbations,Antibiotics,27886,!0249101,AMOXYCILLIN 250/CLAVULANIC ACID 125 DISP,,00000000
+6,Exacerbations,Antibiotics,19795,!0249102,AMOXYCILLIN 250MG/CLAVULANIC ACID 125MG,,00000000
+6,Exacerbations,Antibiotics,22469,!0249103,AMOXYCILLIN 125mg/31mg CLAVULANIC ACID,,00000000
+6,Exacerbations,Antibiotics,25034,!0249104,AMOXYCILLIN 125mg/62mg CLAVULANIC ACID,,00000000
+6,Exacerbations,Antibiotics,27897,!0249401,AMOXYCILLIN,,00000000
+6,Exacerbations,Antibiotics,22482,!0251101,AMPICILLIN,,00000000
+6,Exacerbations,Antibiotics,19585,!0253101,AMPICILLIN 250MG/FLUCLOXACILLIN 250MG,,00000000
+6,Exacerbations,Antibiotics,22544,!0253104,AMPICILLIN 125MG/FLUCLOXACILLIN 125MG,,00000000
+6,Exacerbations,Antibiotics,22293,!0256001,AMOXYCILLIN TRIHYDRATE SACHET,,00000000
+6,Exacerbations,Antibiotics,21982,!0256002,AMOXYCILLIN TRIHYDRATE SACHET,,00000000
+6,Exacerbations,Antibiotics,26658,!0415101,AUGMENTIN DISPERSIBLE 250/125,,00000000
+6,Exacerbations,Antibiotics,26669,!2265501,ERYMAX,,00000000
+6,Exacerbations,Antibiotics,19692,!2268109,ERYTHROCIN 250,,00000000
+6,Exacerbations,Antibiotics,19652,!2275101,ERYTHROPED,,00000000
+6,Exacerbations,Antibiotics,19615,!2276101,ERYTHROPED FORTE 500mg/5ml,,00000000
+6,Exacerbations,Antibiotics,23243,!2277101,ERYTHROPED P.I.,,00000000
+6,Exacerbations,Antibiotics,23185,!2277501,ERYTHROPED SUGAR FREE SACHET,,00000000
+6,Exacerbations,Antibiotics,22194,!4320101,MAGNAPEN,,00000000
+6,Exacerbations,Antibiotics,24300,!5476106,PENBRITIN PAED. 125MG IN 1.25ML,,00000000
+6,Exacerbations,Antibiotics,22118,!5681101,PIVAMPICILLIN 175mg/5ml,,00000000
+6,Exacerbations,Antibiotics,24974,!5681503,PIVAMPICILLIN 250MG/PIVMECILLINAM 200MG,,00000000
+6,Exacerbations,Antibiotics,19555,!5728101,PONDOCILLIN 175mg/5ml,,00000000
+6,Exacerbations,Antibiotics,23586,!5728102,PONDOCILLIN,,00000000
+6,Exacerbations,Antibiotics,23607,!5728103,PONDOCILLIN SACHET,,00000000
+6,Exacerbations,Antibiotics,25016,!7655101,VIBRAMYCIN,,00000000
+6,Exacerbations,Antibiotics,32669,!8504110,ZITHROMAX,,00000000
+6,Exacerbations,Antibiotics,23719,!8505353,CO-FLUAMPICIL,,00000000
+6,Exacerbations,Antibiotics,7581,00163007,AMOXYCILLIN 125MG/62MG CLAVULANIC ACID SYR,,00000000
+6,Exacerbations,Antibiotics,14988,00206007,AMPICLOX MG INJ,,00000000
+6,Exacerbations,Antibiotics,1570,00256007,AMOXYCILLIN 500 MG TAB,,00000000
+6,Exacerbations,Antibiotics,21071,02081007,PONDOCILLIN sach 175 MG,,00000000
+6,Exacerbations,Antibiotics,22632,02618007,ERYTHROCIN B-PACK 10 FILMTABS 500 MG TAB,,00000000
+6,Exacerbations,Antibiotics,2304,02619007,ERYTHROCIN 250 250 MG TAB,,00000000
+6,Exacerbations,Antibiotics,2019,02620007,ERYTHROCIN 125 MG SYR,,00000000
+6,Exacerbations,Antibiotics,17798,02621007,ERYTHROCIN A 1 GM TAB,,00000000
+6,Exacerbations,Antibiotics,251,02622007,ERYTHROMYCIN 50 MG INJ,,00000000
+6,Exacerbations,Antibiotics,16605,02623007,ERYTHROMYCIN I/V 1 GM INJ,,00000000
+6,Exacerbations,Antibiotics,1969,02624007,ERYTHROMYCIN 250 MG MIX,,00000000
+6,Exacerbations,Antibiotics,27955,02633007,ERYTHROCIN 300 MG INJ,,00000000
+6,Exacerbations,Antibiotics,21817,02753007,DEMIX 100 MG CAP,,00000000
+6,Exacerbations,Antibiotics,108,03055007,AMPICILLIN 125 MG CAP,,00000000
+6,Exacerbations,Antibiotics,1393,03177007,AMOXYCILLIN FIZTAB 250 MG TAB,,00000000
+6,Exacerbations,Antibiotics,25943,03350007,ERYTHROMYCIN I/V 300 MG INJ,,00000000
+6,Exacerbations,Antibiotics,7792,03351007,ERYTHROMYCIN 12 MG SYR,,00000000
+6,Exacerbations,Antibiotics,343,03417007,AMPICILLIN 125 MG TAB,,00000000
+6,Exacerbations,Antibiotics,20009,03521007,TALAMPICILLIN 250 MG SYR,,00000000
+6,Exacerbations,Antibiotics,14368,03522007,TALPEN 250 MG SYR,,00000000
+6,Exacerbations,Antibiotics,21658,03533007,SPIRAMYCIN 250 MG TAB,,00000000
+6,Exacerbations,Antibiotics,32427,03690007,KLARICID IV 500MG VIAL DRY 500 MG INJ,,00000000
+6,Exacerbations,Antibiotics,22653,03769007,ERYTHROCIN 100 MG SYR,,00000000
+6,Exacerbations,Antibiotics,1376,03770007,ERYTHROMYCIN 100 MG SYR,,00000000
+6,Exacerbations,Antibiotics,2902,03907007,AMOXYCILLIN FIZTAB 125 MG TAB,,00000000
+6,Exacerbations,Antibiotics,2313,05015007,ERYTHROPED 250 MG TAB,,00000000
+6,Exacerbations,Antibiotics,3408,05019007,ERYTHROMYCIN 500 MG CAP,,00000000
+6,Exacerbations,Antibiotics,12252,05021007,ERYMAX 125 MG SYR,,00000000
+6,Exacerbations,Antibiotics,10782,05022007,ERYMAX 500 MG CAP,,00000000
+6,Exacerbations,Antibiotics,31101,05239007,CALTHOR 125 MG SYR,,00000000
+6,Exacerbations,Antibiotics,30399,05356007,AMPILAR 125 MG SYR,,00000000
+6,Exacerbations,Antibiotics,28398,05357007,AMPILAR 250 MG CAP,,00000000
+6,Exacerbations,Antibiotics,46490,05358007,AMPILAR 500 MG CAP,,00000000
+6,Exacerbations,Antibiotics,18945,05480007,PENBRITIN PAED 125 MG TAB,,00000000
+6,Exacerbations,Antibiotics,18703,05542007,ERYCEN 125 MG SUS,,00000000
+6,Exacerbations,Antibiotics,59042,05554020,Amoxicillin 250mg capsules (Alliance Healthcare (Distribution) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,69398,05555020,Respillin 250mg capsules (Kent Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,54796,05558020,Amoxicillin 250mg capsules (Boston Healthcare Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,54271,05560020,Amoxicillin 250mg capsules (Mawdsley-Brooks & Company Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,54491,05561020,Amoxicillin 250mg capsules (Bristol Laboratories Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,59481,05562020,Amoxicillin 250mg capsules (Phoenix Healthcare Distribution Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,51536,05563020,Amoxicillin 250mg capsules (Milpharm Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,52820,05565020,Amoxicillin 500mg capsules (Alliance Healthcare (Distribution) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,59592,05566020,Amoxicillin 500mg capsules (Pfizer Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,57833,05567020,Amoxil 500mg capsules (Waymade Healthcare Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,55527,05571020,Amoxicillin 500mg capsules (Boston Healthcare Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,69532,05573020,Amoxil 500mg capsules (DE Pharmaceuticals),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,68476,05574020,Amoxil 500mg capsules (Sigma Pharmaceuticals Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,61906,05575020,Amoxicillin 500mg capsules (Mawdsley-Brooks & Company Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,52771,05576020,Amoxicillin 500mg capsules (Bristol Laboratories Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,49590,05577020,Amoxil 500mg capsules (Lexon (UK) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,51436,05578020,Amoxil 500mg capsules (Mawdsley-Brooks & Company Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,57886,05579020,Amoxil 500mg capsules (Stephar (U.K.) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,56700,05580020,Amoxil 500mg capsules (Necessity Supplies Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,68416,05581020,Amoxicillin 500mg capsules (Phoenix Healthcare Distribution Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,53627,05582020,Amoxicillin 500mg capsules (Accord Healthcare Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,54725,05583020,Amoxicillin 500mg capsules (Milpharm Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,58097,05584020,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free (Kent Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,54452,05585020,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,56884,05587020,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free (Phoenix Healthcare Distribution Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,51164,05588020,Augmentin 125/31 SF oral suspension (Waymade Healthcare Plc),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,50595,05589020,Augmentin 125/31 SF oral suspension (Mawdsley-Brooks & Company Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,50341,05590020,Co-amoxiclav 500mg/125mg tablets (Alliance Healthcare (Distribution) Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,49683,05591020,Augmentin 625mg tablets (Waymade Healthcare Plc),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,50279,05595020,Augmentin 625mg tablets (DE Pharmaceuticals),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,49321,05596020,Augmentin 625mg tablets (Sigma Pharmaceuticals Plc),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,49656,05597020,Augmentin 625mg tablets (Lexon (UK) Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,52207,05598020,Augmentin 625mg tablets (Mawdsley-Brooks & Company Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,54591,05599020,Co-amoxiclav 500mg/125mg tablets (Phoenix Healthcare Distribution Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,53996,05600020,Co-amoxiclav 500mg/125mg tablets (Aurobindo Pharma Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,51637,05603020,Co-amoxiclav 400mg/57mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,51194,05605020,Augmentin-Duo 400/57 oral suspension (Sigma Pharmaceuticals Plc),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,56591,05607020,Augmentin-Duo 400/57 oral suspension (Lexon (UK) Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,62597,05608020,Augmentin-Duo 400/57 oral suspension (Mawdsley-Brooks & Company Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,51623,05609020,Co-amoxiclav 250mg/125mg tablets (Alliance Healthcare (Distribution) Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,49048,05612020,Augmentin 375mg tablets (Waymade Healthcare Plc),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,49374,05613020,Augmentin 375mg tablets (Mawdsley-Brooks & Company Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,50446,05614020,Co-amoxiclav 250mg/125mg tablets (Phoenix Healthcare Distribution Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,48683,05615020,Augmentin 375mg tablets (Lexon (UK) Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,49063,05616020,Augmentin 375mg tablets (DE Pharmaceuticals),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,64986,05617020,Co-amoxiclav 500mg/100mg powder for solution for injection vials (A A H Pharmaceuticals Ltd),Amoxicillin sodium/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,71819,05619020,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,60134,05620020,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free (Kent Pharmaceuticals Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,59740,05622020,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free (Phoenix Healthcare Distribution Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,52666,05623020,Augmentin 250/62 SF oral suspension (Sigma Pharmaceuticals Plc),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,58520,05624020,Ampicillin 250mg capsules (Alliance Healthcare (Distribution) Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,71001,05628020,Ampicillin 250mg capsules (Phoenix Healthcare Distribution Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,71092,05635020,Ampicillin 125mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,71420,05643020,Co-fluampicil 125mg/125mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Flucloxacillin magnesium/Ampicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,49724,05645020,Tazocin 4.5g powder for solution for infusion vials (Pfizer Ltd),Piperacillin sodium/Tazobactam sodium,05010104
+6,Exacerbations,Antibiotics,72041,05654020,Piperacillin 2g / Tazobactam 250mg powder for solution for injection vials (A A H Pharmaceuticals Ltd),Piperacillin sodium/Tazobactam sodium,05010104
+6,Exacerbations,Antibiotics,53078,05656020,Amoxicillin 125mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,69901,05657020,Amoxicillin 125mg/5ml oral suspension sugar free (Arrow Generics Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,52122,05659020,Amoxicillin 125mg/5ml oral suspension sugar free (Bristol Laboratories Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,52857,05660020,Amoxicillin 125mg/5ml oral suspension sugar free (Phoenix Healthcare Distribution Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,61207,05661020,Amoxicillin 125mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,50002,05664020,Amoxicillin 125mg/5ml oral suspension (Bristol Laboratories Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,52685,05665020,Amoxicillin 125mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,62074,05666020,Amoxicillin 250mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,53924,05669020,Amoxicillin 250mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,55018,05670020,Amoxicillin 250mg/5ml oral suspension (Bristol Laboratories Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,51382,05671020,Amoxicillin 250mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,57178,05674020,Amoxicillin 3g oral powder sachets sugar free (Mawdsley-Brooks & Company Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,58205,05677020,Amoxicillin 500mg powder for solution for injection vials (A A H Pharmaceuticals Ltd),Amoxicillin sodium,05010103
+6,Exacerbations,Antibiotics,68545,05678020,Amoxicillin 1g powder for solution for injection vials (A A H Pharmaceuticals Ltd),Amoxicillin sodium,05010103
+6,Exacerbations,Antibiotics,54222,05679020,Amoxicillin 250mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,49065,05682020,Amoxicillin 250mg/5ml oral suspension sugar free (Bristol Laboratories Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,58053,05683020,Amoxicillin 250mg/5ml oral suspension sugar free (Phoenix Healthcare Distribution Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,49737,05782020,Doxycycline 100mg capsules (Alliance Healthcare (Distribution) Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,62025,05785020,Doxycycline 100mg capsules (Chanelle Medical UK Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,53310,05786020,Doxycycline 100mg capsules (Sigma Pharmaceuticals Plc),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,58988,05787020,Doxycycline 100mg capsules (Phoenix Healthcare Distribution Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,53973,05789020,Doxycycline 50mg capsules (Alliance Healthcare (Distribution) Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,61355,05792020,Doxycycline 50mg capsules (Chanelle Medical UK Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,65360,05793020,Doxycycline 50mg capsules (Phoenix Healthcare Distribution Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,59542,05796020,Vibramycin-D 100mg dispersible tablets (Sigma Pharmaceuticals Plc),Doxycycline monohydrate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,52967,05797020,Vibramycin-D 100mg dispersible tablets (Stephar (U.K.) Ltd),Doxycycline monohydrate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,56198,05798020,Vibramycin-D 100mg dispersible tablets (Mawdsley-Brooks & Company Ltd),Doxycycline monohydrate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,58824,05830020,Erythromycin 250mg gastro-resistant tablets (Kent Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,52906,05831020,Erythromycin 250mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,52428,05834020,Erythromycin 250mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,52952,05835020,Erythromycin 250mg gastro-resistant tablets (Strides Shasun (UK) Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,55483,05836020,Erythromycin 250mg gastro-resistant tablets (Milpharm Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,56203,05839020,Erythroped A 500mg tablets (Sigma Pharmaceuticals Plc),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,54098,05840020,Erythroped A 500mg tablets (Lexon (UK) Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,65667,05841020,Erythroped A 500mg tablets (Mawdsley-Brooks & Company Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,71066,05842020,Erythromycin ethyl succinate 500mg tablets (Sigma Pharmaceuticals Plc),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,58760,05843020,Erythroped A 500mg tablets (Necessity Supplies Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,50205,05844020,Erythrolar 250mg tablets (Ennogen Pharma Ltd),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,71363,05845020,Erythrocin 500 tablets (Dowelhurst Ltd),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,18652,05846007,ERYCEN 250 MG SUS,,00000000
+6,Exacerbations,Antibiotics,50693,05847020,Erythrocin 500 tablets (Sigma Pharmaceuticals Plc),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,50223,05848020,Erythrocin 500 tablets (Stephar (U.K.) Ltd),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,53449,05849020,Erythrocin 500 tablets (Lexon (UK) Ltd),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,51984,05850020,Erythrocin 500 tablets (Mawdsley-Brooks & Company Ltd),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,49301,05851020,Erythrolar 500mg tablets (Ennogen Pharma Ltd),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,53004,05852020,Erythrocin 500 tablets (Necessity Supplies Ltd),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,55589,05853020,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,58841,05854020,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Kent Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,64732,05855020,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Phoenix Healthcare Distribution Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,52860,05856020,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,63458,05858020,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Phoenix Healthcare Distribution Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,60263,05860020,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,50694,05862020,Erythromycin 250mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,55133,05863020,Erythromycin 250mg gastro-resistant capsules (Kent Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,49952,05865020,Erythromycin 250mg gastro-resistant capsules (Phoenix Healthcare Distribution Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,60308,05868020,Erythromycin ethyl succinate 125mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,59126,05869020,Erythromycin ethyl succinate 125mg/5ml oral suspension (Kent Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,49978,05870020,Erythromycin ethyl succinate 125mg/5ml oral suspension (Focus Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,50948,05871020,Erythromycin ethyl succinate 125mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,70311,05872020,Erythromycin ethyl succinate 250mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,51154,05881020,Clarithromycin 250mg tablets (Kent Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,52158,05882020,Clarithromycin 250mg tablets (Alliance Healthcare (Distribution) Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,54897,05883020,Clarithromycin 250mg tablets (Tillomed Laboratories Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,52719,05884020,Clarithromycin 250mg tablets (Apotex UK Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,50946,05886020,Clarithromycin 250mg tablets (Sigma Pharmaceuticals Plc),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,54269,05887020,Clarithromycin 250mg tablets (Somex Pharma),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,53153,05888020,Clarithromycin 250mg tablets (Phoenix Healthcare Distribution Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,57660,05889020,Clarithromycin 250mg tablets (Almus Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,52411,05890020,Klaricid 250mg tablets (Necessity Supplies Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,71154,05892020,Klaricid Paediatric 125mg/5ml oral suspension (Dowelhurst Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,61001,05893020,Clarithromycin 125mg/5ml oral suspension (Kent Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,54903,05894020,Clarithromycin 125mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,61830,05896020,Clarithromycin 125mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,51831,05897020,Clarithromycin 125mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,66092,05898020,Clarithromycin 500mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,54953,05899020,Clarithromycin 500mg powder for concentrate for solution for infusion vials (Martindale Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,53398,05900020,Clarithromycin 500mg powder for concentrate for solution for infusion vials (Mercury Pharma Group Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,53703,05904020,Clarithromycin 500mg tablets (Kent Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,49939,05905020,Clarithromycin 500mg tablets (Alliance Healthcare (Distribution) Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,53875,05906020,Clarithromycin 500mg tablets (Tillomed Laboratories Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,65259,05908020,Klaricid 500 tablets (Sigma Pharmaceuticals Plc),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,53109,05910020,Clarithromycin 500mg tablets (Somex Pharma),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,58902,05911020,Clarithromycin 500mg tablets (Phoenix Healthcare Distribution Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,58037,05912020,Clarithromycin 500mg tablets (Almus Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,63236,05913020,Klaricid 500 tablets (Necessity Supplies Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,55148,05918020,Clarithromycin 250mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,54208,05921020,Clarithromycin 250mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,62897,05922020,Clarithromycin 250mg/5ml oral suspension (Phoenix Healthcare Distribution Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,7592,05930007,AMOXYCILLIN 125 MG CAP,,00000000
+6,Exacerbations,Antibiotics,52029,05930020,Zithromax 250mg capsules (Mawdsley-Brooks & Company Ltd),Azithromycin dihydrate,05010500
+6,Exacerbations,Antibiotics,12327,05931007,AMOXIDIN 500 MG CAP,,00000000
+6,Exacerbations,Antibiotics,69438,05933020,Zithromax 200mg/5ml oral suspension (Waymade Healthcare Plc),Azithromycin,05010500
+6,Exacerbations,Antibiotics,65486,05935020,Azithromycin 200mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,61810,05940020,Azithromycin 500mg tablets (A A H Pharmaceuticals Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,8582,06313007,AMOXIDIN 250 MG CAP,,00000000
+6,Exacerbations,Antibiotics,21810,06515007,CYCLODOX CAP 100 mg,,00000000
+6,Exacerbations,Antibiotics,32616,06594007,PIPRIL 2 MG INJ,,00000000
+6,Exacerbations,Antibiotics,3907,06682007,ERYTHROMYCIN SF sach 250 MG,,00000000
+6,Exacerbations,Antibiotics,1037,06683007,ERYTHROMYCIN ETHYLSUCCINATE SF 125 MG/5ML SUS,,00000000
+6,Exacerbations,Antibiotics,966,06746007,AMOXIL SF 125 MG/5ML SYR,,00000000
+6,Exacerbations,Antibiotics,14557,06996007,ERYMIN 250 MG/5ML SUS,,00000000
+6,Exacerbations,Antibiotics,58771,16724021,Amoxicillin 250mg capsules (DE Pharmaceuticals),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,59879,16725021,Amoxicillin 500mg capsules (DE Pharmaceuticals),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,61407,16726021,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free (Colorama Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,58494,16727021,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free (Colorama Pharmaceuticals Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,59112,16730021,Amoxicillin 125mg/5ml oral suspension sugar free (DE Pharmaceuticals),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,59391,16731021,Amoxicillin 125mg/5ml oral suspension (DE Pharmaceuticals),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,60267,16732021,Amoxicillin 250mg/5ml oral suspension (DE Pharmaceuticals),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,60027,16734021,Amoxicillin 250mg/5ml oral suspension sugar free (DE Pharmaceuticals),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,54052,17286020,Co-amoxiclav 125mg/31mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,54708,17287020,Co-amoxiclav 250mg/62mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,66819,17441021,Erythrocin 500 tablets (Waymade Healthcare Plc),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,65189,19795020,Doxycycline 50mg/5ml oral suspension,Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,59432,20223021,Amoxicillin 250mg capsules (Accord Healthcare Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,59908,21388021,Co-amoxiclav 500mg/125mg tablets (DE Pharmaceuticals),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,60034,21390021,Co-amoxiclav 250mg/125mg tablets (DE Pharmaceuticals),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,60159,21392021,Doxycycline 100mg capsules (DE Pharmaceuticals),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,62008,21393021,Doxycycline 50mg capsules (DE Pharmaceuticals),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,61264,21395021,Erythromycin 250mg gastro-resistant tablets (DE Pharmaceuticals),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,62143,21396021,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (DE Pharmaceuticals),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,59441,21399021,Erythromycin ethyl succinate 125mg/5ml oral suspension (DE Pharmaceuticals),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,63032,21400021,Erythromycin ethyl succinate 250mg/5ml oral suspension (DE Pharmaceuticals),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,63063,21920021,Co-amoxiclav 250mg/62mg/5ml oral suspension (DE Pharmaceuticals),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,60190,23095021,Erythromycin 250mg gastro-resistant tablets (Waymade Healthcare Plc),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,60281,23190021,Co-amoxiclav 125mg/31mg/5ml oral suspension (CST Pharma Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,65533,23191021,Co-amoxiclav 250mg/62mg/5ml oral suspension (CST Pharma Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,60828,23737021,Erythromycin 250mg gastro-resistant tablets (Bristol Laboratories Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,61299,25610021,Co-amoxiclav 125mg/31mg/5ml oral suspension (Mawdsley-Brooks & Company Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,62377,31358021,Co-amoxiclav 500mg/125mg tablets (Creo Pharma Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,62332,31393021,Co-amoxiclav 875mg/125mg tablets,Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,63452,31394021,Co-amoxiclav 875mg/125mg tablets (Creo Pharma Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,57966,38546020,Amoxicillin 250mg capsules (Medreich Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,52058,38547020,Amoxicillin 500mg capsules (Medreich Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,49610,38548020,Co-amoxiclav 500mg/125mg tablets (Medreich Plc),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,53986,38553020,Erythromycin 250mg gastro-resistant tablets (Medreich Plc),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,53086,38554020,Clarithromycin 250mg tablets (DE Pharmaceuticals),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,53776,38555020,Clarithromycin 500mg tablets (DE Pharmaceuticals),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,60382,38556020,Azithromycin 250mg capsules (DE Pharmaceuticals),Azithromycin dihydrate,05010500
+6,Exacerbations,Antibiotics,60814,38557020,Azithromycin 500mg tablets (DE Pharmaceuticals),Azithromycin,05010500
+6,Exacerbations,Antibiotics,71086,38910020,Co-fluampicil 250mg/250mg capsules (Almus Pharmaceuticals Ltd),Flucloxacillin sodium/Ampicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,53609,38978020,Co-amoxiclav 500mg/125mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,58803,38979020,Co-amoxiclav 250mg/125mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,54472,39856020,Clarithromycin 250mg tablets (Accord Healthcare Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,51426,39857020,Clarithromycin 500mg tablets (Accord Healthcare Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,49530,40561020,Azithromycin 200mg/5ml oral suspension (Sandoz Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,62686,40840021,Co-amoxiclav 125mg/31mg/5ml oral suspension (Pharma-z Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,66034,41194020,Azithromycin 250mg tablets (Sandoz Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,70218,41869020,Dificlir 200mg tablets (Astellas Pharma Ltd),Fidaxomicin,05010500
+6,Exacerbations,Antibiotics,53135,41927020,Vibramycin-D 100mg dispersible tablets (Waymade Healthcare Plc),Doxycycline monohydrate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,50580,42210020,Erythromycin 250mg gastro-resistant capsules (Actavis UK Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,70869,43061021,Doxycycline 36.4mg/260mg periodontal gel cartridge,Doxycycline hyclate,05010300/12030200
+6,Exacerbations,Antibiotics,59153,47407020,Amoxicillin 250mg capsules (Waymade Healthcare Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,64357,47408020,Amoxicillin 500mg capsules (Waymade Healthcare Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,66650,47409020,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free (Waymade Healthcare Plc),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,57081,47410020,Co-amoxiclav 500mg/125mg tablets (Waymade Healthcare Plc),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,65056,47411020,Co-amoxiclav 400mg/57mg/5ml oral suspension sugar free (Sandoz Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,55312,47412020,Co-amoxiclav 250mg/125mg tablets (Waymade Healthcare Plc),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,56578,47413020,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free (Waymade Healthcare Plc),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,57997,47414020,Ampicillin 250mg capsules (Waymade Healthcare Plc),Ampicillin,05010103
+6,Exacerbations,Antibiotics,55626,47416020,Amoxicillin 125mg/5ml oral suspension sugar free (Waymade Healthcare Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,56561,47417020,Amoxicillin 125mg/5ml oral suspension (Waymade Healthcare Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,62102,47418020,Amoxicillin 250mg/5ml oral suspension (Waymade Healthcare Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,62442,47420020,Amoxicillin 250mg/5ml oral suspension sugar free (Waymade Healthcare Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,55519,47433020,Doxycycline 100mg capsules (Waymade Healthcare Plc),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,58326,47434020,Doxycycline 50mg capsules (Waymade Healthcare Plc),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,59100,47440020,Erythromycin 250mg gastro-resistant tablets (Waymade Healthcare Plc),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,64615,47441020,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Waymade Healthcare Plc),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,61612,47442020,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Waymade Healthcare Plc),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,55397,47444020,Erythromycin 250mg gastro-resistant capsules (Waymade Healthcare Plc),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,58756,47445020,Erythromycin ethyl succinate 125mg/5ml oral suspension (Waymade Healthcare Plc),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,61561,47446020,Erythromycin ethyl succinate 250mg/5ml oral suspension (Waymade Healthcare Plc),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,63033,47448020,Clarithromycin 250mg tablets (Waymade Healthcare Plc),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,57267,47449020,Clarithromycin 125mg/5ml oral suspension (Waymade Healthcare Plc),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,60805,47450020,Clarithromycin 500mg tablets (Waymade Healthcare Plc),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,55428,47451020,Clarithromycin 250mg/5ml oral suspension (Waymade Healthcare Plc),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,59588,47756020,Co-amoxiclav 125mg/31mg/5ml oral suspension (Waymade Healthcare Plc),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,63582,48040021,Amoxicillin 125mg/5ml oral suspension (Crescent Pharma Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,65031,48041021,Amoxicillin 250mg/5ml oral suspension (Crescent Pharma Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,20531,48114020,Amfipen 250mg Capsule (Yamanouchi Pharma Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,26356,48115020,Amfipen 500mg Capsule (Yamanouchi Pharma Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,133,48122020,Amoxil 250mg capsules (GlaxoSmithKline UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,847,48123020,Amoxil 500mg capsules (GlaxoSmithKline UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,15148,48124020,Amoxil 500mg Dispersible tablet (SmithKline Beecham Plc),Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,12083,48133020,Ampiclox neonatal 90mg/0.6ml Oral suspension (Beecham Research Laboratories),Cloxacillin/Ampicillin Sodium,05010102/05010103
+6,Exacerbations,Antibiotics,399,48261020,Augmentin 375mg tablets (GlaxoSmithKline UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,2507,48262020,Augmentin 375mg dispersible tablets (GlaxoSmithKline UK Ltd),Potassium clavulanate/Amoxicillin trihydrate,00000000
+6,Exacerbations,Antibiotics,18648,48529020,Calthor 250mg Tablet (Wyeth Pharmaceuticals),Ciclacillin,05010103
+6,Exacerbations,Antibiotics,29545,48530020,Calthor 500mg Tablet (Wyeth Pharmaceuticals),Ciclacillin,05010103
+6,Exacerbations,Antibiotics,28870,48577020,Amoxicillin 125mg/5ml oral suspension (Teva UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,27725,48578020,Amoxicillin 250mg/5ml oral suspension (Teva UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,23967,48579020,Amoxicillin 250mg capsules (Teva UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,42809,48582020,Amoxicillin 250mg Capsule (C P Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,38684,48583020,Amoxicillin 500mg Capsule (C P Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34238,48588020,Amoxicillin 1g powder for solution for injection vials (Wockhardt UK Ltd),Amoxicillin sodium,05010103
+6,Exacerbations,Antibiotics,62786,48589020,Amoxicillin 250mg powder for solution for injection vials (Wockhardt UK Ltd),Amoxicillin sodium,05010103
+6,Exacerbations,Antibiotics,26157,48592020,Amoxicillin 500mg capsules (Actavis UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34857,48593020,Amoxicillin 125mg/5ml oral suspension (Actavis UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34760,48594020,Amoxicillin 250mg/5ml oral suspension (Actavis UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,28882,48597020,Amoxicillin 250mg Capsule (Crosspharma Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,35570,48598020,Amoxicillin 500mg Capsule (Crosspharma Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,28872,48599020,Amoxicillin 125mg/5ml Mixture (Crosspharma Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,42822,48604020,Amoxicillin 125mg/5ml Mixture (Celltech Pharma Europe Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,25484,48607020,Amoxicillin 250mg capsules (A A H Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,33692,48608020,Amoxicillin 500mg capsules (A A H Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,33690,48609020,Amoxicillin 125mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,30528,48612020,Amoxicillin 250mg capsules (Kent Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,33706,48613020,Amoxicillin 500mg capsules (Kent Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,48038,48614020,Amoxicillin 125mg/5ml oral suspension (Kent Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34042,48618020,Amoxicillin 250mg capsules (IVAX Pharmaceuticals UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,29463,48619020,Amoxicillin 500mg capsules (IVAX Pharmaceuticals UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,23238,48620020,Amoxicillin 125mg/5ml oral suspension (IVAX Pharmaceuticals UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,44854,48623020,Amoxicillin 500mg Capsule (Lagap),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,55047,48624020,Amoxicillin 125mg/5ml oral suspension (Sandoz Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,56223,48625020,Amoxicillin 250mg/5ml oral suspension (Sandoz Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,32872,48628020,Amoxicillin 250mg Capsule (Mepra-Pharm),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,69340,48630020,Amoxicillin 125mg/5ml Mixture (Mepra-Pharm),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,24150,48635020,Amoxicillin 125mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,45267,48638020,Amoxicillin 250mg Capsule (Regent Laboratories Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,30743,48644020,Amoxicillin 250mg capsules (Ranbaxy (UK) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34852,48645020,Amoxicillin 500mg capsules (Ranbaxy (UK) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,28875,48646020,Amoxicillin 125mg/5ml oral suspension (Ranbaxy (UK) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,33570,48655020,Amoxicillin 250mg/5ml Mixture (Crosspharma Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,42815,48660020,Amoxicillin 250mg/5ml Mixture (Celltech Pharma Europe Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,33165,48663020,Amoxicillin 250mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,33696,48664020,Amoxicillin 125mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34232,48665020,Amoxicillin 250mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,62762,48668020,Amoxicillin 250mg/5ml oral suspension (Kent Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34384,48669020,Amoxicillin 125mg/5ml oral suspension sugar free (Kent Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34855,48670020,Amoxicillin 250mg/5ml oral suspension sugar free (Kent Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,32640,48673020,Amoxicillin 250mg/5ml oral suspension (IVAX Pharmaceuticals UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,28130,48674020,Amoxicillin 3g oral powder sachets sugar free (Teva UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,41835,48675020,Amoxicillin 125mg Powder (IVAX Pharmaceuticals UK Ltd),Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,40238,48678020,Amoxicillin 250mg/5ml Mixture (Mepra-Pharm),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,33699,48682020,Amoxicillin 250mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,55846,48692020,Ampicillin 125mg/5ml Liquid (C P Pharmaceuticals Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,34228,48709020,Ampicillin 250mg capsules (A A H Pharmaceuticals Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,26174,48710020,Ampicillin 500mg capsules (A A H Pharmaceuticals Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,41744,48711020,Ampicillin 125mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,46175,48717020,Ampicillin 125mg/5ml Oral suspension (Hillcross Pharmaceuticals Ltd),Ampicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,4489,49294020,Erycen 250mg Tablet (Berk Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,23017,49295020,Erycen 500mg Tablet (Berk Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,480,49300020,Erythrocin 250mg Tablet (Abbott Laboratories Ltd),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,3209,49303020,Erythromid 250mg Tablet (Abbott Laboratories Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,105,49307020,Erythroped 250mg/5ml Liquid (Abbott Laboratories Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,16747,49308020,Erythroped 250mg Sachets (Abbott Laboratories Ltd),Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,532,49309020,Erythroped 250mg/5ml Oral suspension (Abbott Laboratories Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,997,49312020,Erythroped pi 125mg/5ml Liquid (Abbott Laboratories Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,3042,49313020,Erythroped pi 125mg Sachets (Abbott Laboratories Ltd),Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,825,49314020,Erythroped pi 125mg/5ml Oral suspension (Abbott Laboratories Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,24149,49593020,Doxycycline 100mg capsules (A A H Pharmaceuticals Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,34175,49594020,Doxycycline 50mg capsules (A A H Pharmaceuticals Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,34231,49622020,Erythromycin 125mg/5ml Liquid (Berk Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,34873,49624020,Erythromycin 250mg Tablet (Berk Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,47242,49628020,Erythromycin 250mg/5ml Liquid (C P Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,47676,49629020,Erythromycin 500mg/5ml Liquid (C P Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,13167,49638020,Erythromycin ethyl succinate 125mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,13120,49639020,Erythromycin ethyl succinate 250mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,24127,49640020,Erythromycin 250mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,17207,49901020,Ilosone 250mg Capsule (Dista Products Ltd),Erythromycin Lactobionate,05010500/13060201
+6,Exacerbations,Antibiotics,18643,49902020,Ilosone 500mg Tablet (Dista Products Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,18682,49903020,Ilosone 125mg/5ml Liquid (Dista Products Ltd),Erythromycin Lactobionate,05010500/13060201
+6,Exacerbations,Antibiotics,19330,49906020,Ilosone 250mg/5ml Liquid (Dista Products Ltd),Erythromycin Lactobionate,05010500/13060201
+6,Exacerbations,Antibiotics,23244,49909020,Ilotycin 250mg Tablet (Eli Lilly and Company Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,308,50280020,Magnapen 250mg/250mg capsules (Wockhardt UK Ltd),Flucloxacillin sodium/Ampicillin trihydrate,05010102
+6,Exacerbations,Antibiotics,34189,50360020,Erythromycin 250mg Tablet (C P Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,34869,50361020,Erythromycin 500mg Tablet (C P Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,41604,50367020,Erythromycin 500mg Tablet (Hillcross Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,204,51032020,Penbritin 250mg Capsule (Beecham Research Laboratories),Ampicillin,05010103
+6,Exacerbations,Antibiotics,15039,51033020,Penbritin 500mg Capsule (Beecham Research Laboratories),Ampicillin,05010103
+6,Exacerbations,Antibiotics,10603,51034020,Penbritin 125mg/5ml Oral solution (Beecham Research Laboratories),Ampicillin,05010103
+6,Exacerbations,Antibiotics,4318,51039020,Penbritin 250mg/5ml Oral solution (Beecham Research Laboratories),Ampicillin,05010103
+6,Exacerbations,Antibiotics,2246,51172020,Pondocillin 500mg Tablet (LEO Pharma),Pivampicillin,05010103
+6,Exacerbations,Antibiotics,6497,51247020,Clarithromycin 500mg with metronidazole 400mg with lansoprazole 30mg triple pack,Metronidazole/Lansoprazole/Clarithromycin,01030500/05010500
+6,Exacerbations,Antibiotics,14484,51428020,Ampicillin / Cloxacillin 500mg capsules,Cloxacillin/Ampicillin,05010103
+6,Exacerbations,Antibiotics,28919,51430020,Ampicillin 250mg / Cloxacillin 250mg/vial injection,Cloxacillin/Ampicillin,05010103
+6,Exacerbations,Antibiotics,12015,51516020,Selexid 100mg/sachet Liquid (Edwin Burgess Ltd),Pivmecillinam Hydrochloride,05010105/05011300
+6,Exacerbations,Antibiotics,13216,51668020,Amoxicillin 500mg / Clavulanic acid 125mg tablets,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,15192,51669020,Amoxicillin 400mg / Clavulanic acid 57mg/5ml sugar free oral suspension,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,509,51673020,Augmentin 625mg tablets (GlaxoSmithKline UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,21808,51703020,Rommix 125mg/5ml Oral suspension sugar free (Ashbourne Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,11611,51704020,Rommix 250 EC tablets (Ashbourne Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,25278,51705020,Rommix 500mg Tablet (Ashbourne Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,21878,51712020,Demix 100 capsules (Ashbourne Pharmaceuticals Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,21828,51713020,Demix 50 capsules (Ashbourne Pharmaceuticals Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,11954,51825020,Talpen 250mg Tablet (Beecham Research Laboratories),Talampicillin Hydrochloride,05010103
+6,Exacerbations,Antibiotics,65855,52011021,Azithromycin 200mg/5ml oral suspension sugar free,Azithromycin,05010500
+6,Exacerbations,Antibiotics,64794,52246021,Amoxicillin 250mg capsules (Sigma Pharmaceuticals Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,65958,52247021,Amoxicillin 500mg capsules (Sigma Pharmaceuticals Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,69292,52248021,Co-amoxiclav 500mg/125mg tablets (Sigma Pharmaceuticals Plc),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,65215,52249021,Co-amoxiclav 250mg/125mg tablets (Sigma Pharmaceuticals Plc),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,64355,52253021,Amoxicillin 125mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,65095,52255021,Amoxicillin 250mg/5ml oral suspension sugar free (Sigma Pharmaceuticals Plc),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,268,52259020,Vibramycin 100mg capsules (Pfizer Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,3152,52260020,Vibramycin 100mg Dispersible tablet (Pfizer Ltd),Doxycycline monohydrate,05010300/05040100
+6,Exacerbations,Antibiotics,10454,52261020,Vibramycin 50mg/5ml Oral solution (Pfizer Ltd),Doxycycline Hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,21801,52264020,Vidopen 250mg Capsule (Berk Pharmaceuticals Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,21967,52265020,Vidopen 500mg Capsule (Berk Pharmaceuticals Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,65956,52265021,Erythromycin ethyl succinate 125mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,23186,52266020,Vidopen 125mg/5ml Oral solution (Berk Pharmaceuticals Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,68226,52266021,Erythromycin ethyl succinate 250mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,68943,52268021,Clarithromycin 500mg tablets (Sigma Pharmaceuticals Plc),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,31471,52269020,Vidopen 250mg/5ml Oral solution (Berk Pharmaceuticals Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,71541,52441021,Co-amoxiclav 125mg/31mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,32347,52579020,Amfipen 125mg/5ml Oral solution (Yamanouchi Pharma Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,32148,52582020,Amfipen forte 250mg/5ml Oral solution (Yamanouchi Pharma Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,21926,52587020,Amfipen 500mg/vial Injection (Yamanouchi Pharma Ltd),Ampicillin sodium,05010103
+6,Exacerbations,Antibiotics,40073,52720020,Erythromycin estolate 250mg/5ml suspension,Erythromycin Lactobionate,05010500/13060201
+6,Exacerbations,Antibiotics,9601,52805020,Selexid 200mg tablets (LEO Pharma),Pivmecillinam hydrochloride,05010105
+6,Exacerbations,Antibiotics,2377,52817020,Pondocillin 175mg/5ml Oral suspension sugar free (LEO Pharma),Pivampicillin,05010103
+6,Exacerbations,Antibiotics,31669,52818020,Pondocillin 120mg Sachets (LEO Pharma),Pivampicillin,05010103
+6,Exacerbations,Antibiotics,41818,52892020,Amoxicillin 125mg/5ml Oral solution (Berk Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,41646,52895020,Ampicillin 250mg Capsule (Berk Pharmaceuticals Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,1072,53068020,Erythrocin 500 500mg Tablet (Abbott Laboratories Ltd),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,201,53071020,Erythrocin 1g/vial Injection (Abbott Laboratories Ltd),Erythromycin lactobionate,05010500
+6,Exacerbations,Antibiotics,9148,53074020,Erythromid ds 500mg Tablet (Abbott Laboratories Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,993,53077020,Erythroped forte 500mg/5ml Liquid (Abbott Laboratories Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,4372,53078020,Erythroped forte 500mg Sachets (Abbott Laboratories Ltd),Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,4610,53079020,Erythroped forte 500mg/5ml Oral suspension (Abbott Laboratories Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,2174,53362020,Amoxil 3g oral powder sachets sucrose free (GlaxoSmithKline UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,71609,53503021,Amoxicillin 250mg capsules (Mawdsley-Brooks & Company Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,67694,53506021,Co-amoxiclav 250mg/125mg tablets (Mawdsley-Brooks & Company Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,69140,53507021,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free (Mawdsley-Brooks & Company Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,66062,53511021,Amoxicillin 125mg/5ml oral suspension sugar free (Mawdsley-Brooks & Company Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,68690,53522021,Doxycycline 100mg capsules (Mawdsley-Brooks & Company Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,68723,53526021,Clarithromycin 125mg/5ml oral suspension (DE Pharmaceuticals),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,71680,53527021,Clarithromycin 250mg/5ml oral suspension (DE Pharmaceuticals),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,40391,53669020,Doxycycline 50mg capsules (IVAX Pharmaceuticals UK Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,24126,53670020,Doxycycline 100mg capsules (IVAX Pharmaceuticals UK Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,33248,53834020,Erythromycin 125mg/5ml Liquid (IVAX Pharmaceuticals UK Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,41584,53835020,Erythromycin 250mg/5ml Liquid (IVAX Pharmaceuticals UK Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,24129,53836020,Erythromycin 250mg gastro-resistant tablets (IVAX Pharmaceuticals UK Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,26365,53839020,Erythromycin 500mg Tablet (IVAX Pharmaceuticals UK Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,69330,53842020,Erythromycin 250mg/5ml Liquid (Rosemont Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,17161,54241020,Miraxid Tablet (Rpr / Fisons),Pivampicillin/Pivmecillinam Hydrochloride,05010103
+6,Exacerbations,Antibiotics,20516,54246020,Miraxid Liquid (Rpr / Fisons),Pivampicillin/Pivmecillinam Hydrochloride,05010103
+6,Exacerbations,Antibiotics,569,54556020,Augmentin 250/62 SF oral suspension (GlaxoSmithKline UK Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,415,54560020,Augmentin 125/31 SF oral suspension (GlaxoSmithKline UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,13531,54564020,Magnapen 500mg powder for solution for injection vials (Wockhardt UK Ltd),Flucloxacillin sodium/Ampicillin sodium,05010102
+6,Exacerbations,Antibiotics,13438,54565020,Magnapen 1g/vial Injection (C P Pharmaceuticals Ltd),Ampicillin Trihydrate/Flucloxacillin Sodium,05010102/05010103
+6,Exacerbations,Antibiotics,18934,54590020,Penbritin 125mg/1.25ml Liquid (Beecham Research Laboratories),Ampicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,30630,54594020,Penbritin 250mg/vial Injection (Beecham Research Laboratories),Ampicillin Sodium,05010103
+6,Exacerbations,Antibiotics,7531,54595020,Penbritin 500mg powder for solution for injection vials (Chemidex Pharma Ltd),Ampicillin sodium,05010103
+6,Exacerbations,Antibiotics,8680,54599020,Talpen 125mg/5ml Oral solution (Beecham Research Laboratories),Talampicillin Hydrochloride,05010103
+6,Exacerbations,Antibiotics,2171,54602020,Amoxil 125mg/1.25ml paediatric oral suspension (GlaxoSmithKline UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,10771,54607020,Amoxil 250mg powder for solution for injection vials (GlaxoSmithKline UK Ltd),Amoxicillin sodium,05010103
+6,Exacerbations,Antibiotics,24819,54608020,Amoxil 500mg powder for solution for injection vials (GlaxoSmithKline UK Ltd),Amoxicillin sodium,05010103
+6,Exacerbations,Antibiotics,17099,54609020,Amoxil 1g powder for solution for injection vials (GlaxoSmithKline UK Ltd),Amoxicillin sodium,05010103
+6,Exacerbations,Antibiotics,34853,54611020,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Teva UK Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,33705,54612020,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Teva UK Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,33685,54613020,Erythromycin 250mg gastro-resistant tablets (Teva UK Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,30739,54616020,Doxycycline 100mg capsules (Teva UK Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,32419,54617020,Doxycycline 50mg capsules (Teva UK Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,55300,54648020,Erythromycin 500mg Tablet (Teva UK Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,27203,54649020,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Teva UK Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,34001,54698020,Amoxicillin 500mg capsules (Teva UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34638,54699020,Amoxicillin 125mg/5ml oral suspension sugar free (Teva UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34775,54700020,Amoxicillin 250mg/5ml oral suspension sugar free (Teva UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,14904,55071020,Vibramycin-D 100mg dispersible tablets (Pfizer Ltd),Doxycycline monohydrate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,10538,55113020,Ampiclox neonatal 75mg/vial Injection (Beecham Research Laboratories),Cloxacillin/Ampicillin,05010103
+6,Exacerbations,Antibiotics,31514,55309020,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Abbott Laboratories Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,33703,55311020,Erythromycin 250mg gastro-resistant tablets (Abbott Laboratories Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,41560,55777020,Doxycycline 100mg Capsule (IVAX Pharmaceuticals UK Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,30764,56063020,Co-fluampicil 250mg/250mg capsules (IVAX Pharmaceuticals UK Ltd),Flucloxacillin sodium/Ampicillin trihydrate,05010102
+6,Exacerbations,Antibiotics,33383,56142020,Amoxicillin 3g oral powder sachets sugar free (A A H Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,62995,56172020,Erythromycin ethyl succinate 500mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,33697,56173020,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,32898,56174020,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,318,56230020,Erymax 250mg Capsule (Elan Pharma),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,21038,56301020,Doxatet 100mg Tablet (Manufacturer unknown),Doxycycline Hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,62466,56365020,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,2153,56491020,Amoxil 125mg/5ml syrup sucrose free (GlaxoSmithKline UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,1812,56492020,Amoxil 250mg/5ml syrup sucrose free (GlaxoSmithKline UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,4010,56493020,Amoxil 750mg Sachets (GlaxoSmithKline UK Ltd),Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,3669,56736020,Amoxymed 250mg Capsule (Medipharma Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,31286,56737020,Amoxymed 125mg/5ml Oral solution (Medipharma Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,17852,56804020,Augmentin Intravenous 600mg powder for solution for injection vials (GlaxoSmithKline UK Ltd),Amoxicillin sodium/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,244,56805020,Augmentin Intravenous 1.2g powder for solution for injection vials (GlaxoSmithKline UK Ltd),Amoxicillin sodium/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,33343,56816020,Amoxicillin 250mg capsules (Actavis UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,41734,56817020,Amoxicillin 3g Powder (Actavis UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34679,56818020,Amoxicillin 125mg/5ml oral suspension sugar free (Actavis UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,40243,56821020,Amoxicillin 250mg/5ml oral suspension sugar free (Actavis UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,41647,56825020,Ampicillin 500mg capsules (Actavis UK Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,34380,56907020,Co-fluampicil 250mg/250mg capsules (Actavis UK Ltd),Flucloxacillin sodium/Ampicillin trihydrate,05010102
+6,Exacerbations,Antibiotics,48095,56946020,Doxycycline 50mg capsules (Actavis UK Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,34300,56947020,Doxycycline 100mg capsules (Actavis UK Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,29344,56957020,Erythromycin 250mg gastro-resistant tablets (Actavis UK Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,29154,56967020,Erythromycin 250mg Capsule (Actavis UK Ltd),Erythromycin Lactobionate,05010500/13060201
+6,Exacerbations,Antibiotics,2202,56982020,Vibramycin 50 capsules (Pfizer Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,16612,57171020,Clavulanic acid 62mg with amoxicillin 250mg/5ml sugar free suspension,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,13239,57172020,Clavulanic acid 125mg with Amoxicillin 500mg tablets,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,20432,57173020,Clavulanic acid 57mg with amoxicillin 400mg/5ml sugar free suspension,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,69480,57352021,Erythromycin 250mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,72126,57354021,Clarithromycin 125mg/5ml oral suspension (Almus Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,67560,57355021,Clarithromycin 250mg/5ml oral suspension (Almus Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,3572,57928020,Erythroped 250mg Powder (Abbott Laboratories Ltd),Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,27768,58443020,Erythrolar 250mg Tablet (Lagap),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,23954,58444020,Erythrolar 500mg Tablet (Lagap),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,4153,58448020,Erythrolar 250mg/5ml Liquid (Lagap),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,2874,58820020,Magnapen syrup (Wockhardt UK Ltd),Flucloxacillin magnesium/Ampicillin trihydrate,05010102
+6,Exacerbations,Antibiotics,34765,59013020,Doxycycline 50mg capsules (Mylan),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,32066,59014020,Doxycycline 100mg capsules (Mylan),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,25570,59188020,Co-fluampicil 250mg/250mg capsules (Sandoz Ltd),Flucloxacillin sodium/Ampicillin trihydrate,05010102
+6,Exacerbations,Antibiotics,23485,59319020,Flu-amp 500mg Capsule (Generics (UK) Ltd),Flucloxacillin sodium/Ampicillin trihydrate,05010102/05010103
+6,Exacerbations,Antibiotics,33222,59321020,Amoxicillin 250mg Capsule (Lagap),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,29858,59322020,Amoxicillin 125mg/5ml oral suspension sugar free (Sandoz Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,58057,59323020,Amoxicillin 250mg/5ml oral suspension sugar free (Sandoz Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,22452,59324020,Britcin 250mg Capsule (DDSA Pharmaceuticals Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,9,59329020,Amoxicillin 250mg capsules,Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,48,59330020,Amoxicillin 500mg capsules,Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,3742,59331020,Amoxicillin 125mg sugar free chewable tablets,Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,115,59334020,Ampicillin 250mg capsules,Ampicillin,05010103
+6,Exacerbations,Antibiotics,926,59335020,Ampicillin 500mg capsules,Ampicillin,05010103
+6,Exacerbations,Antibiotics,857,59336020,Ampicillin 125mg/5ml oral suspension,Ampicillin,05010103
+6,Exacerbations,Antibiotics,106,59339020,Ampicillin 250mg/5ml oral suspension,Ampicillin,05010103
+6,Exacerbations,Antibiotics,900,59340020,Ampicillin 125mg/5ml sugar free suspension,Ampicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,16167,59341020,Ampicillin 250mg/5ml sugar free suspension,Ampicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,41605,59382020,Doxycycline 100mg Capsule (Sandoz Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,34779,59393020,Erythromycin ethyl succinate 125mg/5ml oral suspension (Sandoz Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,46696,59394020,Erythromycin ethyl succinate 250mg/5ml oral suspension (Sandoz Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,63,59396020,Erythromycin 250mg gastro-resistant tablets,Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,401,59397020,Erythromycin 500mg ec gastro-resistant tablets,Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,103,59398020,Erythromycin 250mg gastro-resistant capsules,Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,397,59402020,Erythromycin 125mg/5ml oral suspension,Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,553,59403020,Erythromycin 250mg.5ml oral suspension,Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,2326,59404020,Erythromycin 500mg/5ml oral suspension,Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,31428,59504020,Retcin 250mg Tablet (DDSA Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,27495,59508020,Arpimycin 125mg/5ml Liquid (Rosemont Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,24220,59509020,Arpimycin 250mg/5ml Liquid (Rosemont Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,37022,59510020,Arpimycin 500mg/5ml Liquid (Rosemont Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,34423,59687020,Doxycycline 100mg Capsule (PLIVA Pharma Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,34435,59692020,Amoxicillin 250mg Capsule (DDSA Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34885,59693020,Amoxicillin 500mg Capsule (DDSA Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,33840,59705020,Amoxicillin 500mg powder for solution for injection vials (Wockhardt UK Ltd),Amoxicillin sodium,05010103
+6,Exacerbations,Antibiotics,28871,59856020,Co-amoxiclav 250mg/125mg tablets (IVAX Pharmaceuticals UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,29356,59857020,Co-amoxiclav 500mg/125mg tablets (IVAX Pharmaceuticals UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,28874,59858020,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,37304,59861020,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,30783,59996020,Co-amoxiclav 250mg/125mg tablets (Ranbaxy (UK) Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,34493,59997020,Co-amoxiclav 500mg/125mg tablets (Ranbaxy (UK) Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,34680,59998020,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free (Ranbaxy (UK) Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,40320,60003020,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free (Ranbaxy (UK) Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,55499,60048020,Amoxicillin 250mg/5ml oral suspension (Ranbaxy (UK) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,1722,60130020,Amoxicillin 500mg dispersible tablets,Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,485,60131020,Amoxicillin 125mg/1.25ml oral suspension paediatric,Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,9343,60132020,Amoxicillin 750mg sugar free powder,Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,1140,60135020,Amoxicillin 3g oral powder sachets sugar free,Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,598,60136020,Amoxicillin 250mg powder for solution for injection vials,Amoxicillin sodium,05010103
+6,Exacerbations,Antibiotics,1746,60137020,Amoxicillin 500mg powder for solution for injection vials,Amoxicillin sodium,05010103
+6,Exacerbations,Antibiotics,30745,60194020,Amoxicillin 250mg capsules (Mylan),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,23740,60195020,Amoxicillin 500mg capsules (Mylan),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,32622,60196020,Amoxicillin 125mg/5ml oral suspension (Mylan),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,33689,60210020,Amoxicillin 250mg/5ml oral suspension (Mylan),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,31014,60211020,Amoxicillin 125mg/5ml oral suspension sugar free (Mylan),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,31535,60212020,Amoxicillin 250mg/5ml oral suspension sugar free (Mylan),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,21345,60248020,Bacampicillin HCl 400mg tablets,Bacampicillin,05010103
+6,Exacerbations,Antibiotics,12489,60252020,Ambaxin 400mg Tablet (Pharmacia Ltd),Bacampicillin,05010103
+6,Exacerbations,Antibiotics,19648,60299020,Co-fluampicil 250mg/250mg capsules (A A H Pharmaceuticals Ltd),Flucloxacillin sodium/Ampicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34358,60349020,Co-fluampicil 250mg/250mg capsules (Mylan),Flucloxacillin sodium/Ampicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,9903,60837020,Erythromycin estolate 250mg capsules,Erythromycin Lactobionate,05010500/13060201
+6,Exacerbations,Antibiotics,37694,60838020,Erythromycin estolate 500mg tablets,Erythromycin Lactobionate,05010500/13060201
+6,Exacerbations,Antibiotics,37796,60839020,Erythromycin estolate 125mg/5ml suspension,Erythromycin Lactobionate,05010500/13060201
+6,Exacerbations,Antibiotics,2429,60842020,Erythromycin ethyl succinate 125mg/5ml oral suspension,Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,2376,60843020,Erythromycin ethyl succinate 250mg/5ml oral suspension,Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,2226,60844020,Erythromycin ethyl succinate 500mg/5ml oral suspension,Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,4672,60848020,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free,Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,2225,60849020,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free,Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,26189,60852020,Erythromycin 1g powder for solution for infusion vials,Erythromycin lactobionate,05010500
+6,Exacerbations,Antibiotics,438,60855020,Erythromycin stearate 250mg tablets,Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,2350,60856020,Erythromycin stearate 500mg tablets,Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,30786,61075020,Co-amoxiclav 250mg/125mg tablets (A A H Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,43548,61076020,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,42227,61077020,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,30177,61118020,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,25595,61119020,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,34795,61120020,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (IVAX Pharmaceuticals UK Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,42100,61348020,Ciclacillin 250mg tablets,Ciclacillin,05010103
+6,Exacerbations,Antibiotics,9925,61378020,Clavulanic acid 125mg with Amoxicillin 250mg tablets,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,24093,61379020,Clavulanic acid with amoxicillin dispersible tablets,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,21775,61380020,Clavulanic acid 31mg with amoxicillin 125mg/5ml sugar free oral suspension,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,69920,61456021,Co-amoxiclav 125mg/31mg/5ml oral suspension (Ennogen Healthcare Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,34297,61479020,Co-amoxiclav 250mg/125mg tablets (Mylan),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,30705,61480020,Co-amoxiclav 500mg/125mg tablets (Mylan),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,71820,61817020,Ampicillin 250mg/5ml oral suspension (Kent Pharmaceuticals Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,54471,61851020,Ampicillin 250mg capsules (Kent Pharmaceuticals Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,34734,61884020,Co-amoxiclav 250mg/125mg tablets (Teva UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,29353,61885020,Co-amoxiclav 500mg/125mg tablets (Teva UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,34234,61891020,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free (Teva UK Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,9242,61918020,Flucloxacillin with ampicillin 250mg+250mg Capsule,Ampicillin Trihydrate/Flucloxacillin Sodium,05010102/05010103
+6,Exacerbations,Antibiotics,951,61919020,Flucloxacillin with ampicillin 125mg+125mg Liquid,Ampicillin Trihydrate/Flucloxacillin Magnesium,05010102/05010103
+6,Exacerbations,Antibiotics,20869,61920020,Flucloxacillin with ampicillin 250mg+250mg Injection,Ampicillin Trihydrate/Flucloxacillin Sodium,05010102/05010103
+6,Exacerbations,Antibiotics,67787,62217020,Ampicillin 250mg/5ml oral suspension (Sigma Pharmaceuticals Plc),Ampicillin,05010103
+6,Exacerbations,Antibiotics,67466,62301021,Co-amoxiclav 500mg/125mg tablets (Brown & Burk UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,68408,62303021,Co-amoxiclav 400mg/57mg/5ml oral suspension sugar free (Brown & Burk UK Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,66747,62304021,Co-amoxiclav 250mg/125mg tablets (Brown & Burk UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,68367,62309021,Erythromycin ethyl succinate 500mg tablets (Dawa Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,70783,62311021,Azithromycin 500mg tablets (Kent Pharmaceuticals Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,33701,62493020,Co-amoxiclav 500mg/125mg tablets (A A H Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,31661,62524020,Amoxicillin 250mg Capsule (Co-Pharma Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,42240,62526020,Amoxicillin 125mg/5ml Oral solution (Co-Pharma Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34837,62571020,Erythromycin 250mg Gastro-resistant tablet (Co-Pharma Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,33110,62598020,Amrit 250mg/5ml Liquid (BHR Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,33671,62654020,Doxycycline 100mg capsules (Kent Pharmaceuticals Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,34334,62660020,Erythromycin 250mg gastro-resistant tablets (Mylan),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,33695,62661020,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Mylan),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,33694,62662020,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Mylan),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,19414,62703020,Co-amoxiclav 250mg/125mg tablets (Sandoz Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,27714,62823020,Amrit 250mg Capsule (BHR Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,33112,62824020,Amrit 500mg Capsule (BHR Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,33109,62825020,Amrit 125mg/5ml Liquid (BHR Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,870,62845020,Amoxicillin 250mg sugar free chewable tablets,Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,2281,62846020,Amoxicillin 500mg sugar free chewable tablets,Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,34714,62859020,Amoxicillin 250mg Capsule (Neo Laboratories Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,34912,62860020,Amoxicillin 500mg Capsule (Neo Laboratories Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,29337,62861020,Amoxicillin 125mg/5ml Oral solution (Neo Laboratories Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,45317,62866020,Amoxicillin 250mg/5ml Oral solution (Neo Laboratories Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,2884,62867020,Doxycycline (as hyclate) 100mg dispersible tablets,Doxycycline Monohydrate,05010300/05040100
+6,Exacerbations,Antibiotics,1046,62868020,Doxycycline 100mg capsules,Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,970,62869020,Doxycycline (as hyclate) 100mg tablets,Doxycycline Hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,8724,62874020,Doxycycline (as hyclate) 50mg/5ml oral solution,Doxycycline Hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,7523,62875020,Doxycycline (as hyclate) 20mg capsules,Doxycycline Hyclate,12030100
+6,Exacerbations,Antibiotics,26747,62972020,Doxycycline 100mg Tablet (Neo Laboratories Ltd),Doxycycline Hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,4154,63077020,Amoxil fiztab 125mg Tablet (Bencard),Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,1637,63078020,Amoxil fiztab 250mg Tablet (Bencard),Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,7737,63079020,Amoxil fiztab 500mg Tablet (Bencard),Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,31423,63082020,Amopen 250mg/5ml Liquid (Yorkshire Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,30498,63150020,Amopen 250mg Capsule (Yorkshire Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,17711,63151020,Amopen 500mg Capsule (Yorkshire Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,29697,63152020,Amopen 125mg/5ml Liquid (Yorkshire Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,63660,63285020,Doxycycline 50mg capsules (Kent Pharmaceuticals Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,33693,63338020,Co-amoxiclav 250mg/125mg tablets (Kent Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,41415,63359020,Co-fluampicil 250mg/250mg capsules (Kent Pharmaceuticals Ltd),Flucloxacillin sodium/Ampicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,32902,63380020,Erythromycin ethyl succinate 250mg/5ml oral suspension (Kent Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,30980,63383020,Erythromycin ethyl succinate 500mg/5ml oral suspension (Kent Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,40168,63451020,Amoxicillin 3g oral powder sachets sugar free (Kent Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,19209,63514020,Co-amoxiclav 250mg/125mg tablets (Actavis UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,34594,63696020,Doxycycline 100mg Capsule (Neo Laboratories Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,33686,64160020,Erythromycin 250mg gastro-resistant capsules (A A H Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,30696,64320020,Mecillinam 400mg/vial Injection,Mecillinam,05010103
+6,Exacerbations,Antibiotics,34512,64325020,Erythromycin 250mg gastro-resistant capsules (Teva UK Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,46915,64494020,Co-amoxiclav 250mg/125mg tablets (Zentiva),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,28572,64721020,Mezlocillin 50mg/vial Injection,Mezlocillin,05010103
+6,Exacerbations,Antibiotics,28896,64722020,Mezlocillin 1g/vial Injection,Mezlocillin,05010103
+6,Exacerbations,Antibiotics,40148,65436020,Co-amoxiclav 500mg/125mg tablets (Kent Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,44154,65553020,Co-amoxiclav 500mg/125mg tablets (Zentiva),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,16594,65818020,Piperacillin 1g/vial injection,Piperacillin Sodium,05010104
+6,Exacerbations,Antibiotics,21737,65819020,Piperacillin 2g/vial injection,Piperacillin Sodium,05010104
+6,Exacerbations,Antibiotics,31174,65820020,Piperacillin 4g/infusion bottle infusion,Piperacillin Sodium,05010104
+6,Exacerbations,Antibiotics,7570,65870020,Pivampicillin 500mg tablet,Pivampicillin,05010103
+6,Exacerbations,Antibiotics,8614,65871020,Pivampicillin 175mg/5ml oral solution,Pivampicillin,05010103
+6,Exacerbations,Antibiotics,17181,65872020,Pivampicillin 175mg sachet,Pivampicillin,05010103
+6,Exacerbations,Antibiotics,25832,65875020,Pivampicillin 125mg with pivmecillinam100mg tablet,Pivampicillin/Pivmecillinam Hydrochloride,05010103
+6,Exacerbations,Antibiotics,12540,65876020,Pivampicillin 250mg with pivmecillinam 200mg tablet,Pivampicillin/Pivmecillinam Hydrochloride,05010103
+6,Exacerbations,Antibiotics,21029,65888020,Miraxid 450 Tablet (Rpr / Fisons),Pivampicillin/Pivmecillinam Hydrochloride,05010103
+6,Exacerbations,Antibiotics,26101,65891020,Pivmecillinam 100mg/sachet,Pivmecillinam Hydrochloride,05010105/05011300
+6,Exacerbations,Antibiotics,12014,65892020,Pivmecillinam 200mg tablets,Pivmecillinam hydrochloride,05010105
+6,Exacerbations,Antibiotics,70275,66030021,Amoxicillin 3g oral powder sachets sugar free (Brown & Burk UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,54732,66522020,Co-amoxiclav 125mg/31mg/5ml oral suspension (Mylan),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,54780,66526020,Co-amoxiclav 250mg/62mg/5ml oral suspension (Mylan),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,34479,66554020,Erythromycin 250mg gastro-resistant tablets (Sovereign Medical Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,48006,66843020,Amoxicillin 250mg capsules (Sandoz Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,31801,66846020,Amoxicillin 500mg capsules (Sandoz Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,20007,66864020,Talampicillin 250mg tablets,Talampicillin Hydrochloride,05010103
+6,Exacerbations,Antibiotics,16589,66865020,Talampicillin 125mg/5ml syrup,Talampicillin Hydrochloride,05010103
+6,Exacerbations,Antibiotics,17746,67354020,Amoxicillin 375mg soluble tablets,Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,4582,67355020,Amoxicillin 750mg soluble tablets,Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,13848,67356020,Amoxicillin 125mg sugar free powder,Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,18930,67384020,Flemoxin 375mg Soluble tablet (Paines & Byrne Ltd),Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,24396,67385020,Flemoxin 750mg Soluble tablet (Paines & Byrne Ltd),Amoxicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,17121,67389020,Clavulanic acid 100mg with amoxicillin 500mg/vial injection,Potassium Clavulanate/Amoxicillin Sodium,05010103
+6,Exacerbations,Antibiotics,32910,67412020,Co-amoxiclav 500mg/125mg tablets (Sandoz Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,34972,67527020,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free (Sandoz Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,46918,67532020,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free (Sandoz Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,8209,67547020,Ampicillin 125mg/5ml paediatric oral suspension,Ampicillin Trihydrate,05010103
+6,Exacerbations,Antibiotics,14485,67550020,Ampicillin 500mg powder for solution for injection vials,Ampicillin sodium,05010103
+6,Exacerbations,Antibiotics,10685,67551020,Ampicillin 250mg injection,Ampicillin Sodium,05010103
+6,Exacerbations,Antibiotics,10755,67554020,Ampiciilin 60mg / Cloxacillin 30mg/0.6ml sugar free oral suspension,Cloxacillin/Ampicillin Sodium,05010102/05010103
+6,Exacerbations,Antibiotics,28701,67555020,Ampicillin 50mg / Cloxacillin 25mg/vial injection,Cloxacillin/Ampicillin,05010103
+6,Exacerbations,Antibiotics,1450,67558020,Ampicillin 250mg / Flucloxacillin 250mg capsules,Ampicillin Trihydrate/Flucloxacillin Sodium,05010102/05010103
+6,Exacerbations,Antibiotics,10369,67559020,Ampicillin 125mg / Flucloxacillin 125mg oral solution,Ampicillin Trihydrate/Flucloxacillin Magnesium,05010102/05010103
+6,Exacerbations,Antibiotics,26510,67560020,Ampicillin 250mg / Flucloxacillin 250mg injection,Ampicillin Trihydrate/Flucloxacillin Sodium,05010102/05010103
+6,Exacerbations,Antibiotics,24847,67563020,Ampicillin 500mg / Flucloxacillin 500mg injection,Ampicillin Trihydrate/Flucloxacillin Sodium,05010102/05010103
+6,Exacerbations,Antibiotics,1391,67566020,Amoxicillin 250mg / Clavulanic acid 125mg tablets,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,439,67567020,Amoxicillin with Clavulanic acid dispersible tablets,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,8906,67568020,Amoxicillin 125mg / Clavulanic acid 31mg/5ml oral suspension,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,7636,67571020,Amoxicillin 250mg / Clavulanic acid 62mg/5ml oral suspension,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,28592,67572020,Amoxicillin 500mg with clavulanic acid 100mg/vial injection,Potassium Clavulanate/Amoxicillin Sodium,05010103
+6,Exacerbations,Antibiotics,29474,67573020,Amoxicillin 1000mg with clavulanic acid 100mg/vial injection,Potassium Clavulanate/Amoxicillin Sodium,05010103
+6,Exacerbations,Antibiotics,17509,67859020,Amoxicillin 1g powder for solution for injection vials,Amoxicillin sodium,05010103
+6,Exacerbations,Antibiotics,12382,67895020,Ampiclox 500mg Capsule (Beecham Research Laboratories),Cloxacillin/Ampicillin,05010103
+6,Exacerbations,Antibiotics,10795,67896020,Ampiclox 250mg/5ml Oral solution (Beecham Research Laboratories),Cloxacillin/Ampicillin,05010103
+6,Exacerbations,Antibiotics,8960,68120020,Pondocillin plus Tablet (Edwin Burgess Ltd),Pivampicillin/Pivmecillinam Hydrochloride,05010103
+6,Exacerbations,Antibiotics,12330,68308020,Erythromycin ethylsuccinate 1g sachets,Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,733,68309020,Erythromycin ethyl succinate 500mg tablets,Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,15713,68310020,Erythromycin ethylsuccinate 500mg sachets,Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,4596,68313020,Erythroped a 1g Sachets (Abbott Laboratories Ltd),Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,327,68314020,Erythroped a 500mg Tablet (Abbott Laboratories Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,62,68400020,Amoxicillin 125mg/5ml oral suspension,Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,427,68401020,Amoxicillin 250mg/5ml oral suspension,Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,503,68407020,Amoxicillin 125mg/5ml oral suspension sugar free,Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,585,68408020,Amoxicillin 250mg/5ml oral suspension sugar free,Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,66905,68597020,Co-amoxiclav 1000mg/200mg powder for solution for injection vials (Wockhardt UK Ltd),Amoxicillin sodium/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,47184,68611020,Co-amoxiclav 500mg/100mg powder for solution for injection vials (Wockhardt UK Ltd),Amoxicillin sodium/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,21799,68743020,Almodan 250mg Capsule (Berk Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,21827,68744020,Almodan 500mg Capsule (Berk Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,17282,68745020,Almodan 125mg/5ml syrup (Teva UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,21845,68748020,Almodan 250mg/5ml Oral solution (Berk Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,42659,68765020,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Abbott Laboratories Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,46154,68768020,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Abbott Laboratories Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,54907,68865020,Cloxacillin 250mg with Ampicillin 250mg injection,Cloxacillin/Ampicillin Sodium,05010102/05010103
+6,Exacerbations,Antibiotics,52340,68867020,Cloxacillin 30mg with Ampicillin 60mg/0.6ml suspension,Cloxacillin/Ampicillin Sodium,05010102/05010103
+6,Exacerbations,Antibiotics,69403,69033021,Erythromycin 250mg gastro-resistant tablets (Genesis Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,34394,69276020,Clarithromycin 250mg tablets (Mylan),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,34608,69279020,Clarithromycin 500mg tablets (Mylan),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,34650,69312020,Clarithromycin 250mg tablets (A A H Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,38163,69317020,Clarithromycin 500mg tablets (A A H Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,537,69351020,Clarithromycin 250mg tablets,Clarithromycin,05010500
+6,Exacerbations,Antibiotics,331,69352020,Clarithromycin 125mg/5ml oral suspension,Clarithromycin,05010500
+6,Exacerbations,Antibiotics,681,69353020,Clarithromycin 500mg tablets,Clarithromycin,05010500
+6,Exacerbations,Antibiotics,2719,69356020,Klaricid 250mg tablets (Abbott Laboratories Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,3736,69357020,Klaricid 125mg/5ml Oral suspension (Abbott Laboratories Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,6623,69358020,Klaricid 500 tablets (Abbott Laboratories Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,34533,69360020,Clarithromycin 250mg tablets (Teva UK Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,34974,69363020,Clarithromycin 500mg tablets (Teva UK Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,5116,69379020,Azithromycin 250mg capsules,Azithromycin dihydrate,05010500
+6,Exacerbations,Antibiotics,5057,69380020,Azithromycin 200mg/5ml oral suspension,Azithromycin,05010500
+6,Exacerbations,Antibiotics,743,69381020,Azithromycin 500mg tablets,Azithromycin,05010500
+6,Exacerbations,Antibiotics,4165,69429020,Zithromax 250mg capsules (Pfizer Ltd),Azithromycin dihydrate,05010500
+6,Exacerbations,Antibiotics,14514,69430020,Zithromax 200mg/5ml oral suspension (Pfizer Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,5335,69431020,Zithromax 500mg tablets (Pfizer Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,68786,69447021,Pivmecillinam 200mg/5ml oral suspension,Pivmecillinam hydrochloride,05010105
+6,Exacerbations,Antibiotics,47582,69455020,Clarithromycin 250mg tablets (Sandoz Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,40784,69458020,Clarithromycin 500mg tablets (Sandoz Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,14429,69485020,Erythromycin 125mg sprinkle capsules,Erythromycin,05010500
+6,Exacerbations,Antibiotics,14511,69488020,Erymax sprinkle 125mg Capsule (Elan Pharma),Erythromycin,05010500
+6,Exacerbations,Antibiotics,42296,69732020,Erythromycin 250mg gastro-resistant tablets (Dr Reddy's Laboratories (UK) Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,68110,69789021,Doxycycline 100mg/5ml oral suspension,Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,41453,69939020,Clarithromycin 125mg/5ml oral suspension (Ranbaxy (UK) Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,34811,69944020,Clarithromycin 250mg/5ml oral suspension (Ranbaxy (UK) Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,46488,69947020,Clarithromycin 500mg tablets (Ranbaxy (UK) Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,31530,69983020,Erythromycin 250mg gastro-resistant tablets (Ranbaxy (UK) Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,47126,70451020,Erythromycin ethyl succinate 125mg/5ml oral suspension (Pinewood Healthcare),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,64312,70454020,Erythromycin ethyl succinate 250mg/5ml oral suspension (Pinewood Healthcare),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,48101,70460020,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Focus Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,71423,70464020,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Focus Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,71435,70469020,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Focus Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,53688,70580020,Clarithromycin 250mg tablets (Ranbaxy (UK) Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,45795,70696020,Clarithromycin 125mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,54241,70699020,Clarithromycin 250mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,63911,70954020,Amoxicillin 250mg capsules (Almus Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,47640,70957020,Amoxicillin 500mg capsules (Almus Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,42545,70965020,Amoxicillin 125mg/5ml oral suspension (Almus Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,41090,70968020,Amoxicillin 250mg/5ml oral suspension (Almus Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,48147,71105020,Co-amoxiclav 250mg/125mg tablets (Almus Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,54808,71108020,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free (Almus Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,51678,71112020,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free (Almus Pharmaceuticals Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,69711,71444021,Amoxicillin 250mg capsules (Brown & Burk UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,69118,71445021,Amoxicillin 500mg capsules (Brown & Burk UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,15071,71455020,Nordox 100mg Capsule (Sankyo Pharma UK Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,42661,71484020,Erythromycin 250mg gastro-resistant tablets (Almus Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,53168,71681020,Clarithromycin 125mg/5ml oral suspension (Sandoz Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,53179,71684020,Clarithromycin 250mg/5ml oral suspension (Sandoz Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,577,71704020,Co-amoxiclav 500mg/100mg powder for solution for injection vials,Amoxicillin sodium/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,24005,71705020,Co-amoxiclav 1000mg/200mg powder for solution for injection vials,Amoxicillin sodium/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,36054,72593020,Amoxicillin 125mg/5ml oral suspension sugar free (Almus Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,42732,72596020,Amoxicillin 250mg/5ml oral suspension sugar free (Almus Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,35191,72673020,Co-amoxiclav 500mg/100mg powder for solution for injection vials (Teva UK Ltd),Amoxicillin sodium/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,67771,72744020,Co-amoxiclav 1000mg/200mg powder for solution for injection vials (PLIVA Pharma Ltd),Amoxicillin sodium/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,14407,73084020,Galenamox 250mg/5ml oral suspension (Galen Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,14371,73209020,Galenamox 250mg capsules (Galen Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,14396,73210020,Galenamox 500mg capsules (Galen Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,14386,73211020,Galenamox 125mg/5ml oral suspension (Galen Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,22438,73220020,Amoram 250mg/5ml oral suspension (LPC Medical (UK) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,9243,73320020,Amoram 250mg capsules (LPC Medical (UK) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,22415,73321020,Amoram 500mg capsules (LPC Medical (UK) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,12378,73322020,Amoram 125mg/5ml oral suspension (LPC Medical (UK) Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,21844,73328020,Amix 250 oral suspension (Ashbourne Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,11613,73340020,Amix 250 capsules (Ashbourne Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,18786,73341020,Amix 500 capsules (Ashbourne Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,11634,73342020,Amix 125 oral suspension (Ashbourne Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,545,73852020,Co-amoxiclav 250mg/125mg tablets,Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,829,73853020,Co-amoxiclav 250mg/125mg dispersible tablets sugar free,Potassium clavulanate/Amoxicillin trihydrate,00000000
+6,Exacerbations,Antibiotics,1638,73854020,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free,Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,524,73857020,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free,Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,641,73858020,Co-amoxiclav 500mg/125mg tablets,Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,6687,73859020,Co-amoxiclav 400mg/57mg/5ml oral suspension sugar free,Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,5454,73901020,Co-fluampicil 250mg/250mg capsules,Flucloxacillin sodium/Ampicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,9473,73902020,Co-fluampicil 125mg/125mg/5ml oral suspension,Flucloxacillin magnesium/Ampicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,26329,73903020,Co-fluampicil 250mg/250mg powder for solution for injection vials,Flucloxacillin sodium/Ampicillin sodium,05010103
+6,Exacerbations,Antibiotics,45237,73906020,Co-fluampicil 500mg with 500mg injection,Ampicillin Trihydrate/Flucloxacillin Sodium,05010102/05010103
+6,Exacerbations,Antibiotics,40218,74038020,Azithromycin 500mg tablets (Teva UK Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,58206,74059020,Azithromycin 250mg tablets (Teva UK Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,30234,74143020,Erythromycin ethylsuccinate 125mg sachets,Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,13635,74144020,Erythromycin ethylsuccinate 250mg sachets,Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,19368,74270020,Tazocin 2.25g powder for solution for injection vials (Pfizer Ltd),Piperacillin sodium/Tazobactam sodium,05010104
+6,Exacerbations,Antibiotics,694,74271020,Tazocin 4.5g Powder for solution for injection (Pfizer Consumer Healthcare Ltd),Piperacillin sodium/Tazobactam sodium,05010104
+6,Exacerbations,Antibiotics,693,74274020,Piperacillin 2g / Tazobactam 250mg powder for solution for injection vials,Piperacillin sodium/Tazobactam sodium,05010104
+6,Exacerbations,Antibiotics,17323,74275020,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials,Piperacillin sodium/Tazobactam sodium,05010104
+6,Exacerbations,Antibiotics,43229,74514020,Amoxicillin 125mg/5ml Oral suspension (Sandoz Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,37755,74517020,Amoxicillin 250mg/5ml Oral suspension (Sandoz Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,58426,74653020,Azithromycin 500mg tablets (Sandoz Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,31473,74726020,Vidopen 250mg/vial Injection (Berk Pharmaceuticals Ltd),Ampicillin Sodium,05010103
+6,Exacerbations,Antibiotics,28289,75041020,Klaricid IV 500mg powder for solution for infusion vials (Mylan),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,13323,75044020,Clarithromycin 500mg powder for solution for infusion vials,Clarithromycin,05010500
+6,Exacerbations,Antibiotics,23405,75139020,Doxylar 100mg capsules (Sandoz Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,23432,75140020,Doxylar 50mg capsules (Sandoz Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,53850,75372020,Azithromycin 200mg/5ml oral suspension (A A H Pharmaceuticals Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,46807,75447020,Doxycycline 100mg capsules (Almus Pharmaceuticals Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,45870,75482020,Erythromycin ethyl succinate 125mg/5ml oral suspension sugar free (Pinewood Healthcare),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,59036,75486020,Erythromycin ethyl succinate 250mg/5ml oral suspension sugar free (Pinewood Healthcare),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,72439,75489020,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free (Pinewood Healthcare),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,48163,75951020,Clarithromycin 250mg tablets (Actavis UK Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,48023,75954020,Clarithromycin 500mg tablets (Actavis UK Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,264,76011020,Doxycycline 50mg capsules,Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,23819,76012020,Doxycycline (as hyclate) 50mg capsules with microgranules,Doxycycline Hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,69613,76043020,Azithromycin 250mg capsules (Teva UK Ltd),Azithromycin dihydrate,05010500
+6,Exacerbations,Antibiotics,62785,76079020,Azithromycin 250mg capsules (A A H Pharmaceuticals Ltd),Azithromycin dihydrate,05010500
+6,Exacerbations,Antibiotics,6803,76383020,Clarithromycin 500mg modified-release tablets,Clarithromycin,05010500
+6,Exacerbations,Antibiotics,765,76384020,Clarithromycin 250mg granules sachets,Clarithromycin,05010500
+6,Exacerbations,Antibiotics,5357,76385020,Clarithromycin 250mg/5ml oral suspension,Clarithromycin,05010500
+6,Exacerbations,Antibiotics,54185,76507020,Amoxicillin 250mg capsules (Wockhardt UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,55394,76509020,Amoxicillin 500mg capsules (Wockhardt UK Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,54324,76662020,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free (Actavis UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,26392,76765020,Vibrox 100mg capsules (Kent Pharmaceuticals Ltd),Doxycycline hyclate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,25370,76828020,Ranclav 375mg tablets (Ranbaxy (UK) Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,27681,76830020,Ranclav 125mg/31mg/5ml SF oral suspension (Ranbaxy (UK) Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,22964,77087020,Telithromycin 400mg tablets,Telithromycin,05010500
+6,Exacerbations,Antibiotics,46695,77089020,Azithromycin 500mg Tablet (Hillcross Pharmaceuticals Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,31379,77090020,Ketek 400mg tablets (Sanofi),Telithromycin,05010500
+6,Exacerbations,Antibiotics,33304,77508020,Kerymax 250mg gastro-resistant capsules (Kent Pharmaceuticals Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,5662,77604020,Amoxicillin 500mg / Clarithromycin 500mg / Lansoprazole 30mg triple pack,Amoxicillin Trihydrate/Lansoprazole/Clarithromycin,01030500/05010103
+6,Exacerbations,Antibiotics,54529,77628020,Clarithromycin 500mg Modified-release tablet (Hillcross Pharmaceuticals Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,50742,77728020,Co-amoxiclav 500mg/125mg tablets (Actavis UK Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,71937,77924021,Co-amoxiclav 500mg/125mg tablets (Almus Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,71473,78222021,Piperacillin 2g / Tazobactam 250mg powder for solution for infusion vials (Bowmed Ibisqus Ltd),Piperacillin sodium/Tazobactam sodium,05010104
+6,Exacerbations,Antibiotics,72108,78235021,Clarithromycin 500mg powder for solution for infusion vials (Bowmed Ibisqus Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,54882,78517020,Clarithromycin 250mg tablets (Almus Pharmaceuticals Ltd),Clarithromycin,00000000
+6,Exacerbations,Antibiotics,53715,78523020,Clarithromycin 500mg tablets (Almus Pharmaceuticals Ltd),Clarithromycin,00000000
+6,Exacerbations,Antibiotics,6396,78870020,Doxycycline 100mg dispersible tablets sugar free,Doxycycline monohydrate,05010300/05040100/13060201
+6,Exacerbations,Antibiotics,53144,79034020,Clarithromycin 250mg tablets (Wockhardt UK Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,58175,79037020,Clarithromycin 500mg tablets (Wockhardt UK Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,72318,79498021,Clarithromycin 500mg tablets (Milpharm Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,5341,80274020,Augmentin-Duo 400/57 oral suspension (GlaxoSmithKline UK Ltd),Potassium clavulanate/Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,25280,80615020,Tiloryth 250mg gastro-resistant capsules (Tillomed Laboratories Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,14137,80705020,Doxycycline 20mg tablets,Doxycycline hyclate,12030100
+6,Exacerbations,Antibiotics,14171,81195020,Erythromycin ethyl succinate 500mg/5ml oral suspension sugar free,Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,36544,81330020,Arpimycin 125mg/5ml Oral suspension (Rosemont Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,36514,81331020,Arpimycin 250mg/5ml Oral suspension (Rosemont Pharmaceuticals Ltd),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,22016,82654020,Almodan 125mg/5ml Oral solution (Berk Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,21963,82655020,Almodan 250mg/5ml Oral solution (Berk Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,30520,83249020,Primacine 125mg/5ml Liquid (Pinewood Healthcare),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,39118,83250020,Primacine 250mg/5ml Liquid (Pinewood Healthcare),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,27504,83251020,Primacine 500mg/5ml Liquid (Pinewood Healthcare),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,18041,83609020,Periostat 20mg tablets (Alliance Pharmaceuticals Ltd),Doxycycline hyclate,12030100
+6,Exacerbations,Antibiotics,25751,83701020,Erythromycin ethylsuccinate (coated) 250mg/5ml oral suspension sugar free,Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,9434,83705020,Erymin 250mg/5ml Oral suspension (Elan Pharma),Erythromycin Ethyl Succinate,05010500
+6,Exacerbations,Antibiotics,6121,84082020,Klaricid XL 500mg tablets (Mylan),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,21829,84227020,Zoxycil 250mg Capsule (Trinity Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,26262,84228020,Zoxycil 500mg Capsule (Trinity Pharmaceuticals Ltd),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,25900,84697020,Spiramycin 500mg tablet,Spiramycin,05010500
+6,Exacerbations,Antibiotics,31420,84699020,Rovamycin 500mg Tablet (Rhone-Poulenc Rorer Ltd),Spiramycin,05010500
+6,Exacerbations,Antibiotics,22015,85573020,Respillin 125mg/5ml Oral solution (OPD Pharm),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,22017,85575020,Respillin 125mg/5ml Oral solution (OPD Pharm),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,24203,85577020,Respillin 250mg Capsule (OPD Pharm),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,24200,85578020,Respillin 500mg Capsule (OPD Pharm),Amoxicillin trihydrate,05010103
+6,Exacerbations,Antibiotics,31156,85593020,Ampitrin 250mg Capsule (OPD Pharm),Ampicillin,05010103
+6,Exacerbations,Antibiotics,31154,85594020,Ampitrin 500mg Capsule (OPD Pharm),Ampicillin,05010103
+6,Exacerbations,Antibiotics,32760,85595020,Ampitrin 125mg/5ml Liquid (OPD Pharm),Ampicillin,05010103
+6,Exacerbations,Antibiotics,22029,85629020,Amiclav 250mg/125mg tablets (Ashbourne Pharmaceuticals Ltd),Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,21860,85889020,Cyclodox 100mg Capsule (Berk Pharmaceuticals Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,14816,86013020,Klaricid Adult 250mg granules sachets (Mylan),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,9583,86014020,Klaricid 250mg/5ml Oral suspension (Abbott Laboratories Ltd),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,9267,86250020,Vibramycin Acne Pack 50mg capsules (Pfizer Ltd),Doxycycline hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,48017,86346020,Erythoden 125mg/5ml Liquid (Stevenden Healthcare),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,41389,86347020,Erythoden 250mg/5ml Liquid (Stevenden Healthcare),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,12987,86778020,Doxycycline (as hyclate) 50mg capsules with microgranules,Doxycycline Hyclate,05010300/05040100
+6,Exacerbations,Antibiotics,11433,86832020,Clarithromycin 500mg with lansoprazole 30mg and amoxicillin 500mg triple pack,Amoxicillin Trihydrate/Lansoprazole/Clarithromycin,01030500/05010103
+6,Exacerbations,Antibiotics,15290,86834020,Lansoprazole with amoxicillin and clarithromycin 30mg + 500mg + 500mg Triple pack,Amoxicillin Trihydrate/Lansoprazole/Clarithromycin,01030500/05010103
+6,Exacerbations,Antibiotics,10190,87838020,Erymax 250mg gastro-resistant capsules (Teva UK Ltd),Erythromycin,05010500/13060201
+6,Exacerbations,Antibiotics,31281,89281020,Penbritin 500mg capsules (Chemidex Pharma Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,24483,89482020,Penbritin 250mg capsules (Chemidex Pharma Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,10326,89861020,Clarithromycin 125mg granules straws,Clarithromycin,00000000
+6,Exacerbations,Antibiotics,26059,89863020,Clarithromycin 187.5mg granules straws,Clarithromycin,00000000
+6,Exacerbations,Antibiotics,17645,89865020,Clarithromycin 250mg granules straws,Clarithromycin,00000000
+6,Exacerbations,Antibiotics,28349,89867020,Clarosip 125mg granules for oral suspension straws (Grunenthal Ltd),Clarithromycin,00000000
+6,Exacerbations,Antibiotics,31689,89869020,Clarosip 187.5mg granules for oral suspension straws (Grunenthal Ltd),Clarithromycin,00000000
+6,Exacerbations,Antibiotics,31690,89871020,Clarosip 250mg granules for oral suspension straws (Grunenthal Ltd),Clarithromycin,00000000
+6,Exacerbations,Antibiotics,7364,90701020,Co-amoxiclav 250mg/62mg/5ml oral suspension,Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,10200,90703020,Co-amoxiclav 125mg/31mg/5ml oral suspension,Amoxicillin trihydrate/Potassium clavulanate,05010103
+6,Exacerbations,Antibiotics,13262,90739020,Amoxicillin 250mg / Clavulanic acid 62mg/5ml oral suspension,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,42485,90741020,Clavulanic acid 62mg with amoxicillin 250mg/5ml oral suspension,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,13285,90743020,Amoxicillin 125mg / Clavulanic acid 31mg/5ml oral suspension,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,24006,90745020,Clavulanic acid 31mg with amoxcillin 125mg/5ml oral suspension,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,33888,91991020,Azithromycin 250mg tablets,Azithromycin,05010500
+6,Exacerbations,Antibiotics,72664,92251020,Amoxicillin 875mg / Clavulanic acid 125mg tablets,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,37681,92414020,Erythrocin IV lactobionate 1g powder for solution for infusion vials (AMCo),Erythromycin lactobionate,05010500
+6,Exacerbations,Antibiotics,53942,92438020,Amoxicillin 125mg / Clavulanic acid 62.5mg/5ml oral suspension,Amoxicillin Trihydrate/Potassium Clavulanate,05010103
+6,Exacerbations,Antibiotics,37485,94075020,Penbritin 125mg/5ml syrup (Chemidex Pharma Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,38091,94077020,Penbritin Forte 250mg/5ml syrup (Chemidex Pharma Ltd),Ampicillin,05010103
+6,Exacerbations,Antibiotics,43400,95687020,Clamelle 500mg tablets (Actavis UK Ltd),Azithromycin,05010500
+6,Exacerbations,Antibiotics,38997,95825020,Klaricid Paediatric 125mg/5ml oral suspension (Mylan),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,39010,95829020,Klaricid Paediatric 250mg/5ml oral suspension (Mylan),Clarithromycin,05010500
+6,Exacerbations,Antibiotics,39616,96632020,Erythrocin 250 tablets (AMCo),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,39613,96634020,Erythrocin 500 tablets (AMCo),Erythromycin stearate,05010500
+6,Exacerbations,Antibiotics,39632,96636020,Erythroped A 500mg tablets (AMCo),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,39669,96638020,Erythroped SF 250mg/5ml oral suspension (AMCo),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,39642,96640020,Erythroped Forte SF 500mg/5ml oral suspension (AMCo),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,39623,96642020,Erythroped PI SF 125mg/5ml oral suspension (AMCo),Erythromycin ethyl succinate,05010500
+6,Exacerbations,Antibiotics,40796,97281020,Doxycycline 40mg modified-release capsules,Doxycycline monohydrate,05010300/13060000
+6,Exacerbations,Antibiotics,40980,97284020,Efracea 40mg modified-release capsules (Galderma (UK) Ltd),Doxycycline monohydrate,05010300/13060000
+6,Exacerbations,Antibiotics,45591,99227020,Clarie XL 500mg tablets (Teva UK Ltd),Clarithromycin,05010500
+6,Exacerbations,Oral corticosteroid,24716,!5795107,PREDNISOLONE E/C,,00000000
+6,Exacerbations,Oral corticosteroid,27889,!5795110,PREDNISOLONE,,00000000
+6,Exacerbations,Oral corticosteroid,27959,!5795111,PREDNISOLONE,,00000000
+6,Exacerbations,Oral corticosteroid,20670,!5795202,PREDNISOLONE E/C,,00000000
+6,Exacerbations,Oral corticosteroid,7934,02056007,PREDNISONE 30 MG TAB,,00000000
+6,Exacerbations,Oral corticosteroid,13615,02057007,PREDNISONE 10 MG TAB,,00000000
+6,Exacerbations,Oral corticosteroid,28615,02259007,METHYLPREDNISOLONE L/A 4 MG CAP,,00000000
+6,Exacerbations,Oral corticosteroid,10431,02759007,DELTACORTRIL 1 MG TAB,,00000000
+6,Exacerbations,Oral corticosteroid,7584,03255007,PREDNISOLONE 4 MG TAB,,00000000
+6,Exacerbations,Oral corticosteroid,2044,03256007,PREDNISONE 2.5 MG TAB,,00000000
+6,Exacerbations,Oral corticosteroid,30971,03368007,DECORTISYL 25 MG TAB,,00000000
+6,Exacerbations,Oral corticosteroid,7710,03588007,PREDNISOLONE 15 MG TAB,,00000000
+6,Exacerbations,Oral corticosteroid,16724,03589007,PREDNISONE 50 MG TAB,,00000000
+6,Exacerbations,Oral corticosteroid,3059,03590007,PREDNISOLONE 50 MG TAB,,00000000
+6,Exacerbations,Oral corticosteroid,13522,04506007,PREDNISOLONE 2 MG TAB,,00000000
+6,Exacerbations,Oral corticosteroid,2799,04507007,PREDNISOLONE 10 MG TAB,,00000000
+6,Exacerbations,Oral corticosteroid,2390,04515007,PREDNISOLONE E/C 1 MG TAB,,00000000
+6,Exacerbations,Oral corticosteroid,61132,06605020,Prednisolone 1mg tablets (Boston Healthcare Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,51753,06607020,Prednisolone 1mg tablets (Strides Shasun (UK) Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,58369,06612020,Prednisolone 5mg tablets (Boston Healthcare Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,60421,06613020,Prednisolone 5mg tablets (Strides Shasun (UK) Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,55480,06621020,Prednisolone 2.5mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,66550,06622020,Prednisolone 5mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,58987,06627020,Prednisolone 5mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,67107,06628020,Prednisolone 5mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,63214,06629020,Prednisolone 5mg soluble tablets (Alliance Healthcare (Distribution) Ltd),Prednisolone sodium phosphate,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,61689,06630020,Prednisolone 5mg soluble tablets (A A H Pharmaceuticals Ltd),Prednisolone sodium phosphate,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,53336,06634020,Prednisolone 25mg tablets (A A H Pharmaceuticals Ltd),Prednisolone,01050200/03020000/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,58061,09811020,Prednisone 50mg tablets,Prednisone,06030200
+6,Exacerbations,Oral corticosteroid,58234,11087020,Prednisolone 10mg/5ml oral solution,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201/10020100
+6,Exacerbations,Oral corticosteroid,64221,11092020,Prednisolone 5mg/5ml oral suspension,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201/10020100
+6,Exacerbations,Oral corticosteroid,68497,15684021,Prednisolone 2.5mg gastro-resistant tablets (Waymade Healthcare Plc),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,59912,15685021,Prednisolone 5mg gastro-resistant tablets (Waymade Healthcare Plc),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,59283,16433021,Dilacort 2.5mg gastro-resistant tablets (Auden McKenzie (Pharma Division) Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,59229,16434021,Dilacort 5mg gastro-resistant tablets (Auden McKenzie (Pharma Division) Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,65626,33899020,Prednisolone 10mg/5ml oral suspension,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201/10020100
+6,Exacerbations,Oral corticosteroid,59338,33901020,Prednisolone 1mg/5ml oral solution,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201/10020100
+6,Exacerbations,Oral corticosteroid,54434,33907020,Prednisolone 2.5mg/5ml oral suspension,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201/10020100
+6,Exacerbations,Oral corticosteroid,67076,33909020,Prednisolone 20mg/5ml oral solution,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201/10020100
+6,Exacerbations,Oral corticosteroid,53313,33911020,Prednisolone 20mg/5ml oral suspension,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201/10020100
+6,Exacerbations,Oral corticosteroid,65020,33913020,Prednisolone 25mg/5ml oral solution,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201/10020100
+6,Exacerbations,Oral corticosteroid,54118,33915020,Prednisolone 25mg/5ml oral suspension,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201/10020100
+6,Exacerbations,Oral corticosteroid,55024,34075020,Prednisolone 5mg/5ml oral solution,Prednisolone,03020000/06030200/10010201
+6,Exacerbations,Oral corticosteroid,64128,44907021,Pevanti 5mg tablets (AMCo),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,69686,44908021,Pevanti 25mg tablets (AMCo),Prednisolone,01050200/03020000/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,63172,46601021,Prednisolone 10mg tablets,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,64007,46602021,Pevanti 10mg tablets (AMCo),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,63066,46603021,Prednisolone 2.5mg tablets,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,64008,46604021,Pevanti 2.5mg tablets (AMCo),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,63082,46605021,Prednisolone 20mg tablets,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,64009,46606021,Pevanti 20mg tablets (AMCo),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,56891,47496020,Prednisolone 1mg tablets (Waymade Healthcare Plc),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,61162,47497020,Prednisolone 5mg tablets (Waymade Healthcare Plc),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,63549,48498021,Prednisolone 1mg/ml oral solution (Logixx Pharma Solutions Ltd),Prednisolone,03020000/06030200/10010201
+6,Exacerbations,Oral corticosteroid,70603,48867021,Prednisolone 5mg soluble tablets (Focus Pharmaceuticals Ltd),Prednisolone sodium phosphate,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,21833,48880020,Decortisyl 5mg Tablet (Roussel Laboratories Ltd),Prednisone,01050200/06030200
+6,Exacerbations,Oral corticosteroid,63791,49059021,Prednisolone 5mg/5ml oral solution unit dose,Prednisolone,03020000/06030200/10010201
+6,Exacerbations,Oral corticosteroid,66645,49060021,Prednisolone 5mg/5ml oral solution unit dose (Logixx Pharma Solutions Ltd),Prednisolone,03020000/06030200/10010201
+6,Exacerbations,Oral corticosteroid,34404,50399020,Prednisolone 1mg tablets (Actavis UK Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,29333,50400020,Prednisolone 5mg tablets (Actavis UK Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,32803,50401020,Prednisolone 5mg gastro-resistant tablets (Actavis UK Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,34914,50404020,Prednisolone 1mg Tablet (Celltech Pharma Europe Ltd),Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,34452,50408020,Prednisolone 1mg tablets (A A H Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,21417,50409020,Prednisolone 5mg tablets (A A H Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,28375,50410020,Prednisolone 2.5mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,25272,51208020,Precortisyl 1mg Tablet (Hoechst Marion Roussel),Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,23512,51209020,Precortisyl 5mg Tablet (Hoechst Marion Roussel),Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,1063,51216020,Prednesol 5mg Tablet (Sovereign Medical Ltd),Prednisolone sodium phosphate,06030200
+6,Exacerbations,Oral corticosteroid,3345,51562020,Sintisone Tablet (Pharmacia Ltd),Prednisolone Steaglate,01050200/06030200
+6,Exacerbations,Oral corticosteroid,34978,51718020,Prednisolone 1mg tablets (Wockhardt UK Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,32835,51719020,Prednisolone 5mg tablets (Wockhardt UK Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,28376,51722020,Prednisolone 2.5mg Gastro-resistant tablet (Biorex Laboratories Ltd),Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,33691,51723020,Prednisolone 5mg Gastro-resistant tablet (Biorex Laboratories Ltd),Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,45302,51724020,Prednisolone 5mg Tablet (Biorex Laboratories Ltd),Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,43544,51727020,Prednisone 5mg Tablet (Knoll Ltd),Prednisone,01050200/06030200
+6,Exacerbations,Oral corticosteroid,62656,51888020,Prednisone 5mg Tablet (Hillcross Pharmaceuticals Ltd),Prednisone,01050200/06030200
+6,Exacerbations,Oral corticosteroid,67559,52010021,Prednisolone 5mg/5ml oral solution unit dose (A A H Pharmaceuticals Ltd),Prednisolone,03020000/06030200/10010201
+6,Exacerbations,Oral corticosteroid,64416,53121021,Prednisolone 10mg/ml oral solution sugar free,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201/10020100
+6,Exacerbations,Oral corticosteroid,5913,53819020,Deltacortril 2.5mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,5490,53820020,Deltacortril 5mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,27962,54004020,Deltastab 1mg Tablet (Waymade Healthcare Plc),Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,28859,54005020,Deltastab 5mg Tablet (Waymade Healthcare Plc),Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,34393,54227020,Prednisolone 5mg gastro-resistant tablets (Teva UK Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,34748,54228020,Prednisolone 1mg tablets (Teva UK Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,31532,54231020,Prednisolone 5mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,41515,55527020,Prednisolone 5mg tablets (Teva UK Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,33990,56243020,Prednisolone 5mg Tablet (IVAX Pharmaceuticals UK Ltd),Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,14172,56636020,Methylprednisolone 100mg tablets,Methylprednisolone,06030200
+6,Exacerbations,Oral corticosteroid,18042,56650020,Medrone 100mg tablets (Pfizer Ltd),Methylprednisolone,06030200
+6,Exacerbations,Oral corticosteroid,34461,57098020,Prednisolone 2.5mg gastro-resistant tablets (Actavis UK Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,20095,58192020,Precortisyl forte 25mg Tablet (Aventis Pharma),Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,3557,59228020,Prednisone 1mg tablets,Prednisone,06030200
+6,Exacerbations,Oral corticosteroid,2949,59229020,Prednisone 5mg tablets,Prednisone,06030200
+6,Exacerbations,Oral corticosteroid,578,59233020,Prednisolone 1mg tablets,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,95,59234020,Prednisolone 5mg tablets,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,66015,61162021,Prednisolone Dompe 5mg/5ml oral solution unit dose (Logixx Pharma Solutions Ltd),Prednisolone,03020000/06030200/10010201
+6,Exacerbations,Oral corticosteroid,19141,61726020,Prednisolone 5mg soluble tablets (AMCo),Prednisolone sodium phosphate,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,34631,62620020,Prednisolone 1mg Tablet (Co-Pharma Ltd),Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,33988,62621020,Prednisolone 5mg Tablet (Co-Pharma Ltd),Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,41745,64355020,Prednisolone 25mg tablets (Zentiva),Prednisolone,01050200/03020000/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,10684,64572020,Methylprednisolone 2mg tablets,Methylprednisolone,06030200
+6,Exacerbations,Oral corticosteroid,2130,64573020,Methylprednisolone 4mg tablets,Methylprednisolone,06030200
+6,Exacerbations,Oral corticosteroid,10552,64574020,Methylprednisolone 16mg tablets,Methylprednisolone,06030200
+6,Exacerbations,Oral corticosteroid,10683,64589020,Medrone 2mg tablets (Pfizer Ltd),Methylprednisolone,06030200
+6,Exacerbations,Oral corticosteroid,15555,64590020,Medrone 4mg tablets (Pfizer Ltd),Methylprednisolone,06030200
+6,Exacerbations,Oral corticosteroid,8261,64591020,Medrone 16mg tablets (Pfizer Ltd),Methylprednisolone,06030200
+6,Exacerbations,Oral corticosteroid,34660,65523020,Prednisolone 1mg tablets (Kent Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,34781,65526020,Prednisolone 5mg tablets (Kent Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,2368,66161020,Prednisolone 2.5mg tablet,Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,2704,66162020,Prednisolone 25mg tablets,Prednisolone,01050200/03020000/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,44,66163020,Prednisolone 5mg gastro-resistant tablets,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,31327,66166020,Prednisolone steaglate 6.65mg tablet,Prednisolone Steaglate,01050200/06030200
+6,Exacerbations,Oral corticosteroid,66914,67856021,Prednisolone 1mg gastro-resistant tablets,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,69568,68380021,Dilacort 5mg gastro-resistant tablets (Crescent Pharma Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,67507,69509021,Prednisolone 30mg tablets,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,69811,69510021,Prednisolone 30mg tablets (Actavis UK Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,72421,70522021,Prednisolone 1mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,557,71488020,Prednisolone 2.5mg gastro-resistant tablets,Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,34109,71489020,Prednisolone 5 mg gastro-resistant tablet,Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,9727,71490020,Prednisolone 50mg tablets,Prednisolone,00000000
+6,Exacerbations,Oral corticosteroid,58384,71571020,Prednisolone 1mg tablets (Almus Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,58000,71574020,Prednisolone 5mg tablets (Almus Pharmaceuticals Ltd),Prednisolone,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,955,74386020,Prednisolone 5mg soluble tablets,Prednisolone sodium phosphate,01050200/03020000/05011000/05040800/06030200/08020200/10010201
+6,Exacerbations,Oral corticosteroid,47142,78430020,Prednisolone 5mg Soluble tablet (Amdipharm Plc),Prednisolone sodium phosphate,06030200
+6,Exacerbations,Oral corticosteroid,38407,92115020,Prednisolone 20mg tablet,Prednisolone,06030200
+6,Exacerbations,Oral corticosteroid,44380,98889020,Prednisone 1mg modified-release tablets,Prednisone,06030200
+6,Exacerbations,Oral corticosteroid,46711,98891020,Prednisone 2mg modified-release tablets,Prednisone,06030200
+6,Exacerbations,Oral corticosteroid,44723,98893020,Prednisone 5mg modified-release tablets,Prednisone,06030200
+6,Exacerbations,Oral corticosteroid,54432,98895020,Lodotra 1mg modified-release tablets (Napp Pharmaceuticals Ltd),Prednisone,06030200
+6,Exacerbations,Oral corticosteroid,44803,98897020,Lodotra 2mg modified-release tablets (Napp Pharmaceuticals Ltd),Prednisone,06030200
+6,Exacerbations,Oral corticosteroid,44802,98899020,Lodotra 5mg modified-release tablets (Napp Pharmaceuticals Ltd),Prednisone,06030200
