@@ -1,0 +1,3208 @@
+-------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\pstone\OneDrive - Imperial College London\PhD\Objective 2
+>  & 3 - CPRD NCAP Primary Care Audit Replication\CPRD GOLD Analysis\analysis_l
+> ogs/CountryRegressionAnalysis_RE_v2.smcl
+  log type:  smcl
+ opened on:  14 Sep 2022, 21:00:10
+
+. 
+. local data_dir "D:\CPRD NCAP Primary Care Audit Replication\CPRD GOLD\Analysi
+> s"
+
+. 
+. use "`data_dir'/builds/complete_build", clear
+
+. 
+. 
+. //covariates
+. gen byte agebands = 1 if age >= 35
+
+. replace agebands = 2 if age >= 45
+(55,714 real changes made)
+
+. replace agebands = 3 if age >= 55
+(50,440 real changes made)
+
+. replace agebands = 4 if age >= 65
+(38,264 real changes made)
+
+. replace agebands = 5 if age >= 75
+(18,805 real changes made)
+
+. replace agebands = 6 if age >= 85
+(4,584 real changes made)
+
+. replace agebands = . if age == .
+(0 real changes made)
+
+. label define agebands 1 "35-44" 2 "45-54" 3 "55-64" 4 "65-74" 5 "75-84" 6 "85
+> +"
+
+. label values agebands agebands
+
+. order agebands, after(age)
+
+. 
+. keep if gender == 1 | gender == 2    //include men and women only
+(2 observations deleted)
+
+. 
+. tab agebands, missing
+
+   agebands |      Freq.     Percent        Cum.
+------------+-----------------------------------
+      35-44 |      1,051        1.85        1.85
+      45-54 |      5,274        9.29       11.14
+      55-64 |     12,176       21.45       32.59
+      65-74 |     19,459       34.28       66.87
+      75-84 |     14,221       25.05       91.93
+        85+ |      4,583        8.07      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab gender, missing
+
+          gender |      Freq.     Percent        Cum.
+-----------------+-----------------------------------
+            Male |     28,181       49.65       49.65
+          Female |     28,583       50.35      100.00
+-----------------+-----------------------------------
+           Total |     56,764      100.00
+
+. 
+. tab anxiety_bin, missing
+
+anxiety_bin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     39,336       69.30       69.30
+          1 |     17,428       30.70      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab asthma_bin, missing
+
+ asthma_bin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     36,328       64.00       64.00
+          1 |     20,436       36.00      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab bronchiectasis_bin, missing
+
+bronchiecta |
+    sis_bin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     53,884       94.93       94.93
+          1 |      2,880        5.07      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab coronary_heart_disease_bin, missing
+
+coronary_he |
+art_disease |
+       _bin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     32,537       57.32       57.32
+          1 |     24,227       42.68      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab depression_bin, missing
+
+depression_ |
+        bin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     37,617       66.27       66.27
+          1 |     19,147       33.73      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab diabetes_bin, missing
+
+diabetes_bi |
+          n |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     46,660       82.20       82.20
+          1 |     10,104       17.80      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab heart_failure_bin, missing
+
+heart_failu |
+     re_bin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     52,742       92.91       92.91
+          1 |      4,022        7.09      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab pain, missing
+
+       pain |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     45,912       80.88       80.88
+          1 |     10,852       19.12      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab hypertension_bin, missing
+
+hypertensio |
+      n_bin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     27,822       49.01       49.01
+          1 |     28,942       50.99      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab lung_cancer_bin, missing
+
+lung_cancer |
+       _bin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     55,800       98.30       98.30
+          1 |        964        1.70      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab osteoporosis_bin, missing
+
+osteoporosi |
+      s_bin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     49,537       87.27       87.27
+          1 |      7,227       12.73      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab psychosis_bin, missing
+
+psychosis_b |
+         in |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     51,803       91.26       91.26
+          1 |      4,961        8.74      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab stroke_bin, missing
+
+ stroke_bin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     51,264       90.31       90.31
+          1 |      5,500        9.69      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. 
+. tab mrc_score, missing
+
+  mrc_score |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |      8,243       14.52       14.52
+          2 |     19,991       35.22       49.74
+          3 |     13,536       23.85       73.59
+          4 |      7,207       12.70       86.28
+          5 |      1,424        2.51       88.79
+          . |      6,363       11.21      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab currentsmokstatus, missing
+
+currentsmoksta |
+           tus |      Freq.     Percent        Cum.
+---------------+-----------------------------------
+  Never Smoker |      7,236       12.75       12.75
+     Ex Smoker |     28,955       51.01       63.76
+Current Smoker |     19,298       34.00       97.75
+             . |      1,275        2.25      100.00
+---------------+-----------------------------------
+         Total |     56,764      100.00
+
+. 
+. 
+. //exposure
+. label list country
+country:
+           1 England
+           2 Scotland
+           3 Wales
+           4 Northern Ireland
+
+. tab country, missing
+
+         country |      Freq.     Percent        Cum.
+-----------------+-----------------------------------
+         England |     25,689       45.26       45.26
+        Scotland |     13,717       24.16       69.42
+           Wales |     13,587       23.94       93.36
+Northern Ireland |      3,771        6.64      100.00
+-----------------+-----------------------------------
+           Total |     56,764      100.00
+
+. 
+. gen country2 = 1 if country == 3     //new variable so that Wales is at top
+(43,177 missing values generated)
+
+. replace country2 = 2 if country == 1
+(25,689 real changes made)
+
+. replace country2 = 3 if country == 2
+(13,717 real changes made)
+
+. replace country2 = 4 if country == 4
+(3,771 real changes made)
+
+. label define country2 1 "Wales" 2 "England" 3 "Scotland" 4 "Northern Ireland"
+
+. label values country2 country2
+
+. 
+. tab country country2
+
+                 |                  country2
+         country |     Wales    England   Scotland  Northern  |     Total
+-----------------+--------------------------------------------+----------
+         England |         0     25,689          0          0 |    25,689 
+        Scotland |         0          0     13,717          0 |    13,717 
+           Wales |    13,587          0          0          0 |    13,587 
+Northern Ireland |         0          0          0      3,771 |     3,771 
+-----------------+--------------------------------------------+----------
+           Total |    13,587     25,689     13,717      3,771 |    56,764 
+
+. 
+. 
+. //outcomes
+. gen byte fev1fvc = lowfev1fvcratio
+(46,318 missing values generated)
+
+. replace fev1fvc = 0 if fev1fvc == 2
+(370 real changes made)
+
+. 
+. //= EXTRA SPIROMETRY DETAIL =================================================
+> ===
+. tab country2 lowfev1fvcratio, row chi   //339m codes for diagnoses in past 2 
+> yrs
+
++----------------+
+| Key            |
+|----------------|
+|   frequency    |
+| row percentage |
++----------------+
+
+                 |         lowfev1fvcratio
+        country2 | No 339m c  339m < 0.  339m inva |     Total
+-----------------+---------------------------------+----------
+           Wales |     1,966        357        148 |     2,471 
+                 |     79.56      14.45       5.99 |    100.00 
+-----------------+---------------------------------+----------
+         England |     4,152        373        155 |     4,680 
+                 |     88.72       7.97       3.31 |    100.00 
+-----------------+---------------------------------+----------
+        Scotland |     2,409        125         52 |     2,586 
+                 |     93.16       4.83       2.01 |    100.00 
+-----------------+---------------------------------+----------
+Northern Ireland |       647         47         15 |       709 
+                 |     91.26       6.63       2.12 |    100.00 
+-----------------+---------------------------------+----------
+           Total |     9,174        902        370 |    10,446 
+                 |     87.82       8.63       3.54 |    100.00 
+
+          Pearson chi2(6) = 238.2836   Pr = 0.000
+
+. tab country2 anyfev1fvcratio, row chi   //any spirometry codes for diagnoses 
+> in past 2 yrs
+
++----------------+
+| Key            |
+|----------------|
+|   frequency    |
+| row percentage |
++----------------+
+
+                 |    anyfev1fvcratio
+        country2 |         0          1 |     Total
+-----------------+----------------------+----------
+           Wales |     1,112      1,359 |     2,471 
+                 |     45.00      55.00 |    100.00 
+-----------------+----------------------+----------
+         England |     2,274      2,406 |     4,680 
+                 |     48.59      51.41 |    100.00 
+-----------------+----------------------+----------
+        Scotland |     1,529      1,057 |     2,586 
+                 |     59.13      40.87 |    100.00 
+-----------------+----------------------+----------
+Northern Ireland |       284        425 |       709 
+                 |     40.06      59.94 |    100.00 
+-----------------+----------------------+----------
+           Total |     5,199      5,247 |    10,446 
+                 |     49.77      50.23 |    100.00 
+
+          Pearson chi2(3) = 142.3865   Pr = 0.000
+
+. //===========================================================================
+> ===
+. 
+. gen byte mrcpastyr = mrc_pastyr
+
+. replace mrcpastyr = 1 if mrc_pastyr >= 1
+(33,801 real changes made)
+
+. 
+. gen byte asksmokpastyr = smokstatus_pastyr
+
+. replace asksmokpastyr = 1 if asksmokpastyr >= 1
+(42,898 real changes made)
+
+. 
+. gen byte mrc3plus_pr3yrs_nox = 0 if mrc_score >= 3 & mrc_score <= 5
+(34,597 missing values generated)
+
+. replace mrc3plus_pr3yrs_nox = 1 if mrc_score >= 3 & mrc_score <= 5 ///
+>                                                                 & pulmonary_r
+> ehab != . ///
+>                                                                 & pulmonary_r
+> ehab > end-(3*365.25)
+(5,214 real changes made)
+
+. 
+. tab fev1fvc                 //Restricted to diagnoses in the last 2 years
+
+    fev1fvc |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |      9,544       91.37       91.37
+          1 |        902        8.63      100.00
+------------+-----------------------------------
+      Total |     10,446      100.00
+
+. //sensitivity: tab anyfev1fvcratio         //Restricted to diagnoses in the l
+> ast 2 years
+. tab cxr_6mo                 //Restricted to diagnoses in the last 2 years
+
+    cxr_6mo |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |      6,299       60.30       60.30
+          1 |      4,147       39.70      100.00
+------------+-----------------------------------
+      Total |     10,446      100.00
+
+. tab mrcpastyr, missing
+
+  mrcpastyr |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     17,127       30.17       30.17
+          1 |     39,637       69.83      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab asksmokpastyr, missing
+
+asksmokpast |
+         yr |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |      8,345       14.70       14.70
+          1 |     48,419       85.30      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab flu_vaccine, missing
+
+flu_vaccine |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     14,219       25.05       25.05
+          1 |     42,545       74.95      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. tab behavanddrug            //Restricted to smokers in the last 2 years
+
+behavanddru |
+          g |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     22,651       86.17       86.17
+          1 |      3,634       13.83      100.00
+------------+-----------------------------------
+      Total |     26,285      100.00
+
+. tab mrc3plus_pr3yrs         //Restricted to those without exception report fo
+> r PR
+
+mrc3plus_pr |
+       3yrs |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     12,137       72.42       72.42
+          1 |      4,622       27.58      100.00
+------------+-----------------------------------
+      Total |     16,759      100.00
+
+. //sensitivity:
+. tab mrc3plus_pr3yrs_nox, missing
+
+mrc3plus_pr |
+   3yrs_nox |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     16,953       29.87       29.87
+          1 |      5,214        9.19       39.05
+          . |     34,597       60.95      100.00
+------------+-----------------------------------
+      Total |     56,764      100.00
+
+. 
+. 
+. 
+. //i) Diagnosis
+. tab fev1fvc country2, col chi
+
++-------------------+
+| Key               |
+|-------------------|
+|     frequency     |
+| column percentage |
++-------------------+
+
+           |                  country2
+   fev1fvc |     Wales    England   Scotland  Northern  |     Total
+-----------+--------------------------------------------+----------
+         0 |     2,114      4,307      2,461        662 |     9,544 
+           |     85.55      92.03      95.17      93.37 |     91.37 
+-----------+--------------------------------------------+----------
+         1 |       357        373        125         47 |       902 
+           |     14.45       7.97       4.83       6.63 |      8.63 
+-----------+--------------------------------------------+----------
+     Total |     2,471      4,680      2,586        709 |    10,446 
+           |    100.00     100.00     100.00     100.00 |    100.00 
+
+          Pearson chi2(3) = 159.4250   Pr = 0.000
+
+. melogit fev1fvc i.country2 || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -3080.7112  
+Iteration 1:   log likelihood = -2996.3108  
+Iteration 2:   log likelihood = -2995.3316  
+Iteration 3:   log likelihood = -2995.3307  
+Iteration 4:   log likelihood = -2995.3307  
+
+Refining starting values:
+
+Grid node 0:   log likelihood =  -2228.554
+
+Fitting full model:
+
+Iteration 0:   log likelihood =  -2228.554  
+Iteration 1:   log likelihood = -2092.2384  
+Iteration 2:   log likelihood = -2057.3215  
+Iteration 3:   log likelihood = -2039.3454  
+Iteration 4:   log likelihood = -2038.6129  
+Iteration 5:   log likelihood = -2038.6187  
+Iteration 6:   log likelihood = -2038.6239  
+Iteration 7:   log likelihood = -2038.6258  
+Iteration 8:   log likelihood = -2038.6265  
+Iteration 9:   log likelihood = -2038.6268  
+Iteration 10:  log likelihood = -2038.6269  
+
+Mixed-effects logistic regression               Number of obs     =     10,446
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          2
+                                                              avg =       34.2
+                                                              max =        145
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(3)      =      17.09
+Log likelihood = -2038.6269                     Prob > chi2       =     0.0007
+-------------------------------------------------------------------------------
+----
+          fev1fvc | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   .3019441   .1310072    -2.76   0.006     .1290054    .706
+> 7161
+        Scotland  |   .1373503   .0720664    -3.78   0.000     .0491148    .384
+> 1022
+Northern Ireland  |   .1080395   .0937897    -2.56   0.010     .0197083    .592
+> 2645
+                  |
+            _cons |    .021043   .0080079   -10.15   0.000     .0099812    .044
+> 3641
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   10.60263   1.885663                       7.48219    15.0
+> 2445
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 1913.41     Prob >= chibar2 = 0.0000
+
+. melogit fev1fvc i.country2 i.agebands i.gender || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -3076.2642  
+Iteration 1:   log likelihood = -2987.8762  
+Iteration 2:   log likelihood = -2986.9904  
+Iteration 3:   log likelihood = -2986.9897  
+Iteration 4:   log likelihood = -2986.9897  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -2220.7182
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -2220.7182  
+Iteration 1:   log likelihood = -2083.8557  
+Iteration 2:   log likelihood =  -2048.121  
+Iteration 3:   log likelihood = -2030.4533  
+Iteration 4:   log likelihood = -2029.0677  
+Iteration 5:   log likelihood = -2029.0389  
+Iteration 6:   log likelihood =  -2029.047  
+Iteration 7:   log likelihood =   -2029.05  
+Iteration 8:   log likelihood = -2029.0512  
+Iteration 9:   log likelihood = -2029.0516  
+Iteration 10:  log likelihood = -2029.0517  
+
+Mixed-effects logistic regression               Number of obs     =     10,446
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          2
+                                                              avg =       34.2
+                                                              max =        145
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(9)      =      35.29
+Log likelihood = -2029.0517                     Prob > chi2       =     0.0001
+-------------------------------------------------------------------------------
+----
+          fev1fvc | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   .3034101   .1320698    -2.74   0.006     .1292751    .712
+> 1067
+        Scotland  |   .1366151   .0718302    -3.79   0.000     .0487472    .382
+> 8667
+Northern Ireland  |   .1055564   .0917605    -2.59   0.010     .0192102    .580
+> 0118
+                  |
+         agebands |
+           35-44  |          1  (base)
+           45-54  |   1.013832   .2765756     0.05   0.960     .5939589    1.73
+> 0516
+           55-64  |   1.233909   .3240096     0.80   0.423     .7375098    2.06
+> 4421
+           65-74  |   1.130989   .2937829     0.47   0.636     .6797548    1.88
+> 1761
+           75-84  |   .8751262   .2352675    -0.50   0.620     .5166959    1.48
+> 2198
+             85+  |   .5962581   .2020023    -1.53   0.127     .3069456    1.15
+> 8263
+                  |
+           gender |
+            Male  |          1  (base)
+          Female  |   .8437854   .0734406    -1.95   0.051     .7114526    1.00
+> 0733
+                  |
+            _cons |   .0213195   .0097094    -8.45   0.000     .0087321    .052
+> 0518
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   10.71269   1.905227                      7.559873    15.1
+> 8039
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 1915.88     Prob >= chibar2 = 0.0000
+
+. //melogit fev1fvc i.country2 i.agebands i.gender mrc_score currentsmokstatus 
+> || pracid:, base or
+. melogit fev1fvc i.country2 i.agebands i.gender ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin ||
+>  pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -3061.8516  
+Iteration 1:   log likelihood = -2960.0141  
+Iteration 2:   log likelihood = -2959.2356  
+Iteration 3:   log likelihood =  -2959.235  
+Iteration 4:   log likelihood =  -2959.235  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -2202.2517
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -2202.2517  
+Iteration 1:   log likelihood = -2065.8572  
+Iteration 2:   log likelihood =  -2025.599  
+Iteration 3:   log likelihood = -2008.6806  
+Iteration 4:   log likelihood = -2004.8799  
+Iteration 5:   log likelihood = -2004.4833  
+Iteration 6:   log likelihood = -2004.4898  
+Iteration 7:   log likelihood =  -2004.494  
+Iteration 8:   log likelihood = -2004.4956  
+Iteration 9:   log likelihood = -2004.4962  
+Iteration 10:  log likelihood = -2004.4965  
+Iteration 11:  log likelihood = -2004.4966  
+
+Mixed-effects logistic regression               Number of obs     =     10,446
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          2
+                                                              avg =       34.2
+                                                              max =        145
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(22)     =      78.28
+Log likelihood = -2004.4966                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+-------------
+                   fev1fvc | Odds ratio   Std. err.      z    P>|z|     [95% co
+> n                                                                            
+>  f. interval]
+---------------------------+---------------------------------------------------
+-------------
+                  country2 |
+                    Wales  |          1  (base)
+                  England  |   .2911731   .1273897    -2.82   0.005     .123522
+> 5                                                                            
+>      .6863667
+                 Scotland  |   .1317092   .0695844    -3.84   0.000     .046763
+> 9                                                                            
+>      .3709554
+         Northern Ireland  |   .1060466   .0924756    -2.57   0.010     .019196
+> 6                                                                            
+>      .5858252
+                           |
+                  agebands |
+                    35-44  |          1  (base)
+                    45-54  |   1.051594    .289236     0.18   0.855     .613379
+> 6                                                                            
+>      1.802881
+                    55-64  |   1.336363   .3566632     1.09   0.277     .792039
+> 2                                                                            
+>      2.254771
+                    65-74  |   1.258826   .3363195     0.86   0.389      .74567
+> 7                                                                            
+>      2.125106
+                    75-84  |   1.059668   .2967375     0.21   0.836     .612081
+> 2                                                                            
+>      1.834555
+                      85+  |   .7013374    .246609    -1.01   0.313      .35206
+> 4                                                                            
+>      1.397115
+                           |
+                    gender |
+                     Male  |          1  (base)
+                   Female  |   .8891328   .0811053    -1.29   0.198     .743569
+> 1                                                                            
+>      1.063192
+                           |
+               anxiety_bin |   .9046499   .1008109    -0.90   0.369     .727152
+> 9                                                                            
+>      1.125474
+                asthma_bin |   .8792246   .0917929    -1.23   0.218     .716527
+> 2                                                                            
+>      1.078865
+        bronchiectasis_bin |   .3801303   .1198229    -3.07   0.002     .204937
+> 2                                                                            
+>      .7050895
+coronary_heart_disease_bin |   .9039112   .0856596    -1.07   0.286      .75069
+> 1                                                                            
+>      1.088405
+            depression_bin |   .8975701   .1000818    -0.97   0.332     .721367
+> 9                                                                            
+>      1.116812
+              diabetes_bin |   .7312854   .1031414    -2.22   0.026     .554667
+> 1                                                                            
+>      .9641429
+         heart_failure_bin |   .5785431   .1228045    -2.58   0.010     .381641
+> 3                                                                            
+>      .8770333
+                      pain |   .7854016   .0940516    -2.02   0.044     .621098
+> 7                                                                            
+>      .9931684
+          hypertension_bin |   .9828962   .0949728    -0.18   0.858     .813317
+> 2                                                                            
+>      1.187833
+           lung_cancer_bin |   .8339357   .3016923    -0.50   0.616     .410387
+> 3                                                                            
+>      1.694615
+          osteoporosis_bin |   .7675299   .1275955    -1.59   0.111     .554102
+> 4                                                                            
+>      1.063165
+             psychosis_bin |   .8804217   .1517296    -0.74   0.460     .628053
+> 8                                                                            
+>      1.234197
+                stroke_bin |   .7920954   .1291934    -1.43   0.153     .575365
+> 4                                                                            
+>      1.090464
+                     _cons |   .0258987   .0119611    -7.91   0.000     .010475
+> 1                                                                            
+>      .0640323
+---------------------------+---------------------------------------------------
+-------------
+pracid                     |
+                 var(_cons)|   10.85813   1.932467                      7.66060
+> 2                                                                            
+>      15.39029
+-------------------------------------------------------------------------------
+-------------
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 1909.48     Prob >= chibar2 = 0.0000
+
+. /*melogit fev1fvc i.country2 i.agebands i.gender mrc_score currentsmokstatus 
+> ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin ||
+>  pracid:, base or*/
+. estimates store spirometry
+
+. estat icc
+
+Residual intraclass correlation
+
+------------------------------------------------------------------------------
+                       Level |        ICC   Std. err.     [95% conf. interval]
+-----------------------------+------------------------------------------------
+                      pracid |   .7674675   .0317615      .6995683    .8238844
+------------------------------------------------------------------------------
+
+. 
+. //tab anyfev1fvcratio country2, col chi
+. //melogit anyfev1fvcratio i.country2 || pracid:, base or
+. 
+. tab cxr_6mo country2, col chi
+
++-------------------+
+| Key               |
+|-------------------|
+|     frequency     |
+| column percentage |
++-------------------+
+
+           |                  country2
+   cxr_6mo |     Wales    England   Scotland  Northern  |     Total
+-----------+--------------------------------------------+----------
+         0 |     1,421      2,614      1,893        371 |     6,299 
+           |     57.51      55.85      73.20      52.33 |     60.30 
+-----------+--------------------------------------------+----------
+         1 |     1,050      2,066        693        338 |     4,147 
+           |     42.49      44.15      26.80      47.67 |     39.70 
+-----------+--------------------------------------------+----------
+     Total |     2,471      4,680      2,586        709 |    10,446 
+           |    100.00     100.00     100.00     100.00 |    100.00 
+
+          Pearson chi2(3) = 245.3248   Pr = 0.000
+
+. melogit cxr_6mo i.country2 || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -6896.7687  
+Iteration 1:   log likelihood = -6890.3467  
+Iteration 2:   log likelihood = -6890.3429  
+Iteration 3:   log likelihood = -6890.3429  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -6244.1979
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -6244.1979  
+Iteration 1:   log likelihood = -6232.4933  
+Iteration 2:   log likelihood = -6231.9747  
+Iteration 3:   log likelihood = -6231.9733  
+Iteration 4:   log likelihood = -6231.9733  
+
+Mixed-effects logistic regression               Number of obs     =     10,446
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          2
+                                                              avg =       34.2
+                                                              max =        145
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(3)      =      30.34
+Log likelihood = -6231.9733                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+----
+          cxr_6mo | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   1.043306   .1965617     0.23   0.822     .7211787    1.50
+> 9317
+        Scotland  |   .4064164   .0893836    -4.09   0.000     .2640983    .625
+> 4274
+Northern Ireland  |   1.450385   .4591497     1.17   0.240     .7798618    2.69
+> 7422
+                  |
+            _cons |   .5912024   .0910046    -3.41   0.001     .4372296    .799
+> 3976
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   1.421409   .1616163                       1.13746    1.77
+> 6241
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 1316.74     Prob >= chibar2 = 0.0000
+
+. melogit cxr_6mo i.country2 i.agebands i.gender || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -6872.9709  
+Iteration 1:   log likelihood = -6866.7648  
+Iteration 2:   log likelihood = -6866.7611  
+Iteration 3:   log likelihood = -6866.7611  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -6221.8853
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -6221.8853  
+Iteration 1:   log likelihood = -6209.9139  
+Iteration 2:   log likelihood = -6209.3629  
+Iteration 3:   log likelihood = -6209.3609  
+Iteration 4:   log likelihood = -6209.3609  
+
+Mixed-effects logistic regression               Number of obs     =     10,446
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          2
+                                                              avg =       34.2
+                                                              max =        145
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(9)      =      74.60
+Log likelihood = -6209.3609                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+----
+          cxr_6mo | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   1.048216   .1977917     0.25   0.803     .7241602    1.51
+> 7285
+        Scotland  |   .4079013   .0898426    -4.07   0.000     .2648945    .628
+> 1121
+Northern Ireland  |    1.44711   .4588339     1.17   0.244     .7773419    2.69
+> 3961
+                  |
+         agebands |
+           35-44  |          1  (base)
+           45-54  |    1.26795   .1836891     1.64   0.101     .9545259    1.68
+> 4288
+           55-64  |   1.402347   .1955202     2.43   0.015     1.067033    1.84
+> 3032
+           65-74  |   1.558212   .2154233     3.21   0.001     1.188359    2.04
+> 3174
+           75-84  |   1.326962   .1886209     1.99   0.047     1.004302    1.75
+> 3285
+             85+  |   .9189398   .1550108    -0.50   0.616     .6602412    1.27
+> 9003
+                  |
+           gender |
+            Male  |          1  (base)
+          Female  |   .8621348   .0389024    -3.29   0.001     .7891619    .941
+> 8554
+                  |
+            _cons |   .4614611   .0937171    -3.81   0.000      .309932    .687
+> 0742
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   1.425494   .1621056                       1.14069    1.78
+> 1406
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 1314.80     Prob >= chibar2 = 0.0000
+
+. melogit cxr_6mo i.country2 i.agebands i.gender ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin ||
+>  pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -6827.8171  
+Iteration 1:   log likelihood = -6821.9727  
+Iteration 2:   log likelihood = -6821.9691  
+Iteration 3:   log likelihood = -6821.9691  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -6182.7883
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -6182.7883  
+Iteration 1:   log likelihood = -6167.5094  
+Iteration 2:   log likelihood = -6166.5749  
+Iteration 3:   log likelihood = -6166.5655  
+Iteration 4:   log likelihood = -6166.5655  
+
+Mixed-effects logistic regression               Number of obs     =     10,446
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          2
+                                                              avg =       34.2
+                                                              max =        145
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(22)     =     156.67
+Log likelihood = -6166.5655                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+-------------
+                   cxr_6mo | Odds ratio   Std. err.      z    P>|z|     [95% co
+> n                                                                            
+>  f. interval]
+---------------------------+---------------------------------------------------
+-------------
+                  country2 |
+                    Wales  |          1  (base)
+                  England  |   1.049664   .1992243     0.26   0.798     .723591
+> 9                                                                            
+>      1.522673
+                 Scotland  |   .3955647   .0876361    -4.19   0.000     .256233
+> 9                                                                            
+>      .6106585
+         Northern Ireland  |   1.385013   .4416638     1.02   0.307     .741337
+> 9                                                                            
+>      2.587568
+                           |
+                  agebands |
+                    35-44  |          1  (base)
+                    45-54  |     1.2698   .1848081     1.64   0.101     .954664
+> 3                                                                            
+>      1.688963
+                    55-64  |   1.418831   .1997931     2.48   0.013     1.07663
+> 5                                                                            
+>       1.86979
+                    65-74  |   1.613255   .2279389     3.38   0.001     1.22302
+> 5                                                                            
+>      2.127994
+                    75-84  |   1.429318   .2104826     2.43   0.015     1.07097
+> 7                                                                            
+>      1.907557
+                      85+  |   1.014172   .1771548     0.08   0.936     .720152
+> 5                                                                            
+>      1.428233
+                           |
+                    gender |
+                     Male  |          1  (base)
+                   Female  |   .8388769   .0399392    -3.69   0.000     .764138
+> 8                                                                            
+>      .9209249
+                           |
+               anxiety_bin |   1.078452   .0609034     1.34   0.181     .965452
+> 9                                                                            
+>      1.204678
+                asthma_bin |   .7369158   .0399464    -5.63   0.000     .662637
+> 9                                                                            
+>      .8195198
+        bronchiectasis_bin |   .6722874   .0880704    -3.03   0.002     .520051
+> 8                                                                            
+>      .8690871
+coronary_heart_disease_bin |   1.096004   .0527236     1.91   0.057     .997389
+> 6                                                                            
+>      1.204369
+            depression_bin |    1.10933   .0627076     1.84   0.066     .992988
+> 7                                                                            
+>      1.239301
+              diabetes_bin |   .8155639   .0537245    -3.09   0.002     .716780
+> 1                                                                            
+>      .9279617
+         heart_failure_bin |   .7489061   .0744731    -2.91   0.004     .616285
+> 3                                                                            
+>      .9100662
+                      pain |   .8988766   .0540324    -1.77   0.076     .798975
+> 6                                                                            
+>      1.011269
+          hypertension_bin |   .9194274   .0460266    -1.68   0.093     .833501
+> 2                                                                            
+>      1.014212
+           lung_cancer_bin |   1.422104   .2757289     1.82   0.069      .97250
+> 9                                                                            
+>      2.079549
+          osteoporosis_bin |    1.08577   .0916385     0.97   0.330     .920230
+> 7                                                                            
+>      1.281087
+             psychosis_bin |   .9894545   .0847665    -0.12   0.902     .836514
+> 4                                                                            
+>      1.170357
+                stroke_bin |    1.04462   .0863731     0.53   0.598     .888337
+> 6                                                                            
+>      1.228398
+                     _cons |   .4972432   .1027061    -3.38   0.001     .331705
+> 2                                                                            
+>      .7453933
+---------------------------+---------------------------------------------------
+-------------
+pracid                     |
+                 var(_cons)|   1.441718   .1638909                      1.15376
+> 6                                                                            
+>      1.801535
+-------------------------------------------------------------------------------
+-------------
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 1310.81     Prob >= chibar2 = 0.0000
+
+. estimates store cxr
+
+. estat icc
+
+Residual intraclass correlation
+
+------------------------------------------------------------------------------
+                       Level |        ICC   Std. err.     [95% conf. interval]
+-----------------------------+------------------------------------------------
+                      pracid |   .3047007   .0240835      .2596447    .3538386
+------------------------------------------------------------------------------
+
+. 
+. 
+. //ii) Assessment
+. tab mrc_pastyr country, missing col chi   //look at difference in distributio
+> n of scores
+
++-------------------+
+| Key               |
+|-------------------|
+|     frequency     |
+| column percentage |
++-------------------+
+
+                      |                   country
+           mrc_pastyr |   England   Scotland      Wales  Northern  |     Total
+----------------------+--------------------------------------------+----------
+MRC score not recorde |     6,446      5,612      4,337        732 |    17,127 
+                      |     25.09      40.91      31.92      19.41 |     30.17 
+----------------------+--------------------------------------------+----------
+                    1 |     3,222      1,032      1,198        384 |     5,836 
+                      |     12.54       7.52       8.82      10.18 |     10.28 
+----------------------+--------------------------------------------+----------
+                    2 |     7,481      3,132      4,043      1,210 |    15,866 
+                      |     29.12      22.83      29.76      32.09 |     27.95 
+----------------------+--------------------------------------------+----------
+                    3 |     5,161      2,390      2,549        906 |    11,006 
+                      |     20.09      17.42      18.76      24.03 |     19.39 
+----------------------+--------------------------------------------+----------
+                    4 |     2,806      1,305      1,301        400 |     5,812 
+                      |     10.92       9.51       9.58      10.61 |     10.24 
+----------------------+--------------------------------------------+----------
+                    5 |       573        246        159        139 |     1,117 
+                      |      2.23       1.79       1.17       3.69 |      1.97 
+----------------------+--------------------------------------------+----------
+                Total |    25,689     13,717     13,587      3,771 |    56,764 
+                      |    100.00     100.00     100.00     100.00 |    100.00 
+
+         Pearson chi2(15) =  1.6e+03   Pr = 0.000
+
+. tab mrc_score country, missing col chi
+
++-------------------+
+| Key               |
+|-------------------|
+|     frequency     |
+| column percentage |
++-------------------+
+
+           |                   country
+ mrc_score |   England   Scotland      Wales  Northern  |     Total
+-----------+--------------------------------------------+----------
+         1 |     4,289      1,709      1,780        465 |     8,243 
+           |     16.70      12.46      13.10      12.33 |     14.52 
+-----------+--------------------------------------------+----------
+         2 |     8,929      4,398      5,283      1,381 |    19,991 
+           |     34.76      32.06      38.88      36.62 |     35.22 
+-----------+--------------------------------------------+----------
+         3 |     6,039      3,208      3,277      1,012 |    13,536 
+           |     23.51      23.39      24.12      26.84 |     23.85 
+-----------+--------------------------------------------+----------
+         4 |     3,278      1,785      1,690        454 |     7,207 
+           |     12.76      13.01      12.44      12.04 |     12.70 
+-----------+--------------------------------------------+----------
+         5 |       686        344        236        158 |     1,424 
+           |      2.67       2.51       1.74       4.19 |      2.51 
+-----------+--------------------------------------------+----------
+         . |     2,468      2,273      1,321        301 |     6,363 
+           |      9.61      16.57       9.72       7.98 |     11.21 
+-----------+--------------------------------------------+----------
+     Total |    25,689     13,717     13,587      3,771 |    56,764 
+           |    100.00     100.00     100.00     100.00 |    100.00 
+
+         Pearson chi2(15) = 819.4007   Pr = 0.000
+
+. 
+. tab mrcpastyr country2, col chi
+
++-------------------+
+| Key               |
+|-------------------|
+|     frequency     |
+| column percentage |
++-------------------+
+
+           |                  country2
+ mrcpastyr |     Wales    England   Scotland  Northern  |     Total
+-----------+--------------------------------------------+----------
+         0 |     4,337      6,446      5,612        732 |    17,127 
+           |     31.92      25.09      40.91      19.41 |     30.17 
+-----------+--------------------------------------------+----------
+         1 |     9,250     19,243      8,105      3,039 |    39,637 
+           |     68.08      74.91      59.09      80.59 |     69.83 
+-----------+--------------------------------------------+----------
+     Total |    13,587     25,689     13,717      3,771 |    56,764 
+           |    100.00     100.00     100.00     100.00 |    100.00 
+
+          Pearson chi2(3) =  1.3e+03   Pr = 0.000
+
+. melogit mrcpastyr i.country2 || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -34181.667  
+Iteration 1:   log likelihood = -34116.914  
+Iteration 2:   log likelihood = -34116.866  
+Iteration 3:   log likelihood = -34116.866  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -32752.998
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -32752.998  (not concave)
+Iteration 1:   log likelihood = -32708.675  
+Iteration 2:   log likelihood = -32686.962  
+Iteration 3:   log likelihood = -32685.837  
+Iteration 4:   log likelihood = -32685.832  
+Iteration 5:   log likelihood = -32685.832  
+
+Mixed-effects logistic regression               Number of obs     =     56,764
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          7
+                                                              avg =      186.1
+                                                              max =        864
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(3)      =     112.79
+Log likelihood = -32685.832                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+----
+        mrcpastyr | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   1.561406   .1335214     5.21   0.000     1.320464    1.84
+> 6312
+        Scotland  |   .7143354   .0693512    -3.47   0.001     .5905591    .864
+> 0542
+Northern Ireland  |   2.151755   .3182878     5.18   0.000     1.610211    2.87
+> 5429
+                  |
+            _cons |   2.255691   .1565552    11.72   0.000     1.968804    2.58
+> 4383
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   .3020465   .0285281                      .2510026    .363
+> 4706
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 2862.07     Prob >= chibar2 = 0.0000
+
+. melogit mrcpastyr i.country2 i.agebands i.gender || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -33565.937  
+Iteration 1:   log likelihood = -33516.886  
+Iteration 2:   log likelihood = -33516.858  
+Iteration 3:   log likelihood = -33516.858  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -32237.627
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -32237.627  (not concave)
+Iteration 1:   log likelihood = -32194.183  
+Iteration 2:   log likelihood = -32172.401  
+Iteration 3:   log likelihood = -32169.307  
+Iteration 4:   log likelihood = -32169.304  
+Iteration 5:   log likelihood = -32169.304  
+
+Mixed-effects logistic regression               Number of obs     =     56,764
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          7
+                                                              avg =      186.1
+                                                              max =        864
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(9)      =    1136.08
+Log likelihood = -32169.304                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+----
+        mrcpastyr | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   1.589595   .1369803     5.38   0.000     1.342566    1.88
+> 2075
+        Scotland  |   .7256446   .0709968    -3.28   0.001      .599022    .879
+> 0331
+Northern Ireland  |   2.234731   .3331427     5.39   0.000     1.668523    2.99
+> 3079
+                  |
+         agebands |
+           35-44  |          1  (base)
+           45-54  |   1.682352   .1241652     7.05   0.000     1.455775    1.94
+> 4193
+           55-64  |   2.704353   .1914927    14.05   0.000     2.353914    3.10
+> 6964
+           65-74  |    3.66419   .2564944    18.55   0.000     3.194432    4.20
+> 3029
+           75-84  |   3.453655   .2444565    17.51   0.000     3.006279    3.96
+> 7607
+             85+  |   2.130141   .1604654    10.04   0.000      1.83775    2.46
+> 9051
+                  |
+           gender |
+            Male  |          1  (base)
+          Female  |   .8344349   .0162101    -9.32   0.000     .8032609    .866
+> 8188
+                  |
+            _cons |   .8376981   .0817934    -1.81   0.070     .6917921    1.01
+> 4377
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   .3066294   .0290327                      .2546943    .369
+> 1546
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 2695.11     Prob >= chibar2 = 0.0000
+
+. melogit mrcpastyr i.country2 i.agebands i.gender ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin ||
+>  pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -33402.003  
+Iteration 1:   log likelihood = -33358.147  
+Iteration 2:   log likelihood = -33358.125  
+Iteration 3:   log likelihood = -33358.125  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -32139.195
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -32139.195  (not concave)
+Iteration 1:   log likelihood = -32095.718  
+Iteration 2:   log likelihood = -32077.749  
+Iteration 3:   log likelihood = -32064.861  
+Iteration 4:   log likelihood = -32062.555  
+Iteration 5:   log likelihood = -32062.555  
+
+Mixed-effects logistic regression               Number of obs     =     56,764
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          7
+                                                              avg =      186.1
+                                                              max =        864
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(22)     =    1337.67
+Log likelihood = -32062.555                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+-------------
+                 mrcpastyr | Odds ratio   Std. err.      z    P>|z|     [95% co
+> n                                                                            
+>  f. interval]
+---------------------------+---------------------------------------------------
+-------------
+                  country2 |
+                    Wales  |          1  (base)
+                  England  |    1.59101   .1363794     5.42   0.000     1.34495
+> 9                                                                            
+>      1.882075
+                 Scotland  |   .7111257    .069226    -3.50   0.000     .587603
+> 5                                                                            
+>      .8606139
+         Northern Ireland  |   2.207711   .3275399     5.34   0.000     1.65065
+> 5                                                                            
+>      2.952759
+                           |
+                  agebands |
+                    35-44  |          1  (base)
+                    45-54  |   1.638357   .1213781     6.66   0.000     1.41692
+> 6                                                                            
+>      1.894393
+                    55-64  |   2.589864   .1847815    13.34   0.000     2.25188
+> 1                                                                            
+>      2.978574
+                    65-74  |   3.470784    .246814    17.50   0.000     3.01923
+> 5                                                                            
+>      3.989864
+                    75-84  |   3.260357   .2366587    16.28   0.000     2.82799
+> 9                                                                            
+>      3.758817
+                      85+  |   2.013804   .1560384     9.03   0.000     1.73006
+> 4                                                                            
+>      2.344078
+                           |
+                    gender |
+                     Male  |          1  (base)
+                   Female  |   .8314565   .0170168    -9.02   0.000     .798764
+> 4                                                                            
+>      .8654868
+                           |
+               anxiety_bin |   .9462464    .022483    -2.33   0.020     .903190
+> 8                                                                            
+>      .9913545
+                asthma_bin |   .7933529   .0165664   -11.09   0.000     .761538
+> 8                                                                            
+>      .8264961
+        bronchiectasis_bin |   .8292441   .0363983    -4.27   0.000     .760887
+> 2                                                                            
+>       .903742
+coronary_heart_disease_bin |    1.02942   .0210722     1.42   0.157     .988937
+> 1                                                                            
+>      1.071561
+            depression_bin |    1.01631   .0243836     0.67   0.500     .969624
+> 8                                                                            
+>      1.065242
+              diabetes_bin |   .9711505   .0255261    -1.11   0.265     .922387
+> 1                                                                            
+>      1.022492
+         heart_failure_bin |   .8908426   .0344122    -2.99   0.003      .82588
+> 6                                                                            
+>      .9609081
+                      pain |   1.007334   .0252251     0.29   0.770     .959087
+> 1                                                                            
+>      1.058007
+          hypertension_bin |   1.033705   .0219896     1.56   0.119     .991492
+> 6                                                                            
+>      1.077715
+           lung_cancer_bin |   .8049989   .0589874    -2.96   0.003     .697304
+> 3                                                                            
+>      .9293262
+          osteoporosis_bin |   1.184808   .0372009     5.40   0.000     1.11409
+> 3                                                                            
+>       1.26001
+             psychosis_bin |   .9036807   .0327283    -2.80   0.005     .841758
+> 1                                                                            
+>      .9701586
+                stroke_bin |   .9012421   .0298554    -3.14   0.002     .844585
+> 8                                                                            
+>      .9616989
+                     _cons |   .9710312   .0958588    -0.30   0.766     .800209
+> 7                                                                            
+>      1.178318
+---------------------------+---------------------------------------------------
+-------------
+pracid                     |
+                 var(_cons)|   .3027598   .0287527                      .251339
+> 4                                                                            
+>         .3647
+-------------------------------------------------------------------------------
+-------------
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 2591.14     Prob >= chibar2 = 0.0000
+
+. estimates store mrc_grade
+
+. estat icc
+
+Residual intraclass correlation
+
+------------------------------------------------------------------------------
+                       Level |        ICC   Std. err.     [95% conf. interval]
+-----------------------------+------------------------------------------------
+                      pracid |   .0842725   .0073288      .0709756    .0997929
+------------------------------------------------------------------------------
+
+. 
+. tab asksmokpastyr country2, col chi
+
++-------------------+
+| Key               |
+|-------------------|
+|     frequency     |
+| column percentage |
++-------------------+
+
+asksmokpas |                  country2
+       tyr |     Wales    England   Scotland  Northern  |     Total
+-----------+--------------------------------------------+----------
+         0 |     2,084      3,214      2,548        499 |     8,345 
+           |     15.34      12.51      18.58      13.23 |     14.70 
+-----------+--------------------------------------------+----------
+         1 |    11,503     22,475     11,169      3,272 |    48,419 
+           |     84.66      87.49      81.42      86.77 |     85.30 
+-----------+--------------------------------------------+----------
+     Total |    13,587     25,689     13,717      3,771 |    56,764 
+           |    100.00     100.00     100.00     100.00 |    100.00 
+
+          Pearson chi2(3) = 273.3250   Pr = 0.000
+
+. melogit asksmokpastyr i.country2 || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -23591.156  
+Iteration 1:   log likelihood = -23564.855  
+Iteration 2:   log likelihood = -23564.814  
+Iteration 3:   log likelihood = -23564.814  
+
+Refining starting values:
+
+Grid node 0:   log likelihood =  -22308.87
+
+Fitting full model:
+
+Iteration 0:   log likelihood =  -22308.87  
+Iteration 1:   log likelihood = -22288.118  
+Iteration 2:   log likelihood = -22283.746  
+Iteration 3:   log likelihood =  -22283.39  
+Iteration 4:   log likelihood = -22283.388  
+
+Mixed-effects logistic regression               Number of obs     =     56,764
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          7
+                                                              avg =      186.1
+                                                              max =        864
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(3)      =      19.52
+Log likelihood = -22283.388                     Prob > chi2       =     0.0002
+-------------------------------------------------------------------------------
+----
+    asksmokpastyr | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   1.270844   .1425746     2.14   0.033     1.019992    1.58
+> 3389
+        Scotland  |   .7894858   .1003827    -1.86   0.063     .6153392    1.01
+> 2918
+Northern Ireland  |   1.176713   .2249628     0.85   0.395     .8089816    1.71
+> 1601
+                  |
+            _cons |   6.440928   .5874529    20.42   0.000     5.386586    7.70
+> 1642
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   .5148888   .0494401                      .4265602    .621
+> 5079
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 2562.85     Prob >= chibar2 = 0.0000
+
+. melogit asksmokpastyr i.country2 i.agebands i.gender || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -23317.989  
+Iteration 1:   log likelihood = -23254.556  
+Iteration 2:   log likelihood = -23254.338  
+Iteration 3:   log likelihood = -23254.338  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -22033.034
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -22033.034  
+Iteration 1:   log likelihood = -22012.038  
+Iteration 2:   log likelihood = -22007.506  
+Iteration 3:   log likelihood = -22007.033  
+Iteration 4:   log likelihood = -22007.031  
+
+Mixed-effects logistic regression               Number of obs     =     56,764
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          7
+                                                              avg =      186.1
+                                                              max =        864
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(9)      =     599.61
+Log likelihood = -22007.031                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+----
+    asksmokpastyr | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   1.291104   .1448074     2.28   0.023     1.036316    1.60
+> 8533
+        Scotland  |   .7832647   .0995641    -1.92   0.055     .6105324    1.00
+> 4867
+Northern Ireland  |   1.148498   .2194978     0.72   0.469     .7896795    1.67
+> 0358
+                  |
+         agebands |
+           35-44  |          1  (base)
+           45-54  |   1.669904   .1419645     6.03   0.000     1.413604    1.97
+> 2673
+           55-64  |   2.270464   .1842051    10.11   0.000      1.93667    2.66
+> 1788
+           65-74  |   2.414383   .1923119    11.07   0.000     2.065407    2.82
+> 2322
+           75-84  |   1.824003    .146267     7.50   0.000     1.558719    2.13
+> 4438
+             85+  |     .98784    .083656    -0.14   0.885     .8367621    1.16
+> 6195
+                  |
+           gender |
+            Male  |          1  (base)
+          Female  |   .9068921   .0225569    -3.93   0.000     .8637418    .952
+> 1981
+                  |
+            _cons |   3.522182   .4197849    10.56   0.000      2.78845    4.44
+> 8983
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   .5138869   .0494349                      .4255824    .620
+> 5138
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 2494.61     Prob >= chibar2 = 0.0000
+
+. melogit asksmokpastyr i.country2 i.agebands i.gender ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin ||
+>  pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -23138.371  
+Iteration 1:   log likelihood = -23023.249  
+Iteration 2:   log likelihood = -23022.828  
+Iteration 3:   log likelihood = -23022.828  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -21813.028
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -21813.028  
+Iteration 1:   log likelihood = -21790.282  
+Iteration 2:   log likelihood = -21778.034  
+Iteration 3:   log likelihood = -21776.553  
+Iteration 4:   log likelihood = -21776.542  
+Iteration 5:   log likelihood = -21776.542  
+
+Mixed-effects logistic regression               Number of obs     =     56,764
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          7
+                                                              avg =      186.1
+                                                              max =        864
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(22)     =    1007.14
+Log likelihood = -21776.542                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+-------------
+             asksmokpastyr | Odds ratio   Std. err.      z    P>|z|     [95% co
+> n                                                                            
+>  f. interval]
+---------------------------+---------------------------------------------------
+-------------
+                  country2 |
+                    Wales  |          1  (base)
+                  England  |   1.309924   .1474037     2.40   0.016     1.05065
+> 9                                                                            
+>      1.633167
+                 Scotland  |   .8105866   .1033949    -1.65   0.100     .631282
+> 6                                                                            
+>      1.040818
+         Northern Ireland  |   1.179211   .2261715     0.86   0.390     .809714
+> 7                                                                            
+>       1.71732
+                           |
+                  agebands |
+                    35-44  |          1  (base)
+                    45-54  |   1.621539   .1383942     5.66   0.000     1.37176
+> 5                                                                            
+>      1.916794
+                    55-64  |   2.098903   .1717758     9.06   0.000     1.78784
+> 3                                                                            
+>      2.464083
+                    65-74  |   2.140613   .1737454     9.38   0.000     1.82578
+> 4                                                                            
+>       2.50973
+                    75-84  |   1.559561   .1290468     5.37   0.000     1.32607
+> 9                                                                            
+>      1.834153
+                      85+  |   .8452277   .0742736    -1.91   0.056     .711500
+> 5                                                                            
+>      1.004089
+                           |
+                    gender |
+                     Male  |          1  (base)
+                   Female  |   .9287692    .024431    -2.81   0.005     .882098
+> 7                                                                            
+>      .9779089
+                           |
+               anxiety_bin |   1.013139   .0312741     0.42   0.672     .953660
+> 5                                                                            
+>      1.076328
+                asthma_bin |   1.060808   .0288369     2.17   0.030     1.00576
+> 8                                                                            
+>       1.11886
+        bronchiectasis_bin |   .6950059    .036482    -6.93   0.000     .627057
+> 8                                                                            
+>      .7703169
+coronary_heart_disease_bin |    1.09631   .0289694     3.48   0.001     1.04097
+> 7                                                                            
+>      1.154585
+            depression_bin |    1.03865   .0324046     1.22   0.224     .977040
+> 9                                                                            
+>      1.104144
+              diabetes_bin |   1.764822   .0689737    14.53   0.000     1.63468
+> 4                                                                            
+>       1.90532
+         heart_failure_bin |   .8859155   .0436247    -2.46   0.014     .804409
+> 2                                                                            
+>      .9756805
+                      pain |   1.020142   .0333516     0.61   0.542     .956824
+> 8                                                                            
+>       1.08765
+          hypertension_bin |   1.281815   .0350289     9.09   0.000     1.21496
+> 6                                                                            
+>      1.352343
+           lung_cancer_bin |   .9622812   .0919168    -0.40   0.687     .797986
+> 4                                                                            
+>      1.160402
+          osteoporosis_bin |   .9451918   .0364261    -1.46   0.144     .876427
+> 6                                                                            
+>      1.019351
+             psychosis_bin |   .9908304   .0464977    -0.20   0.844     .903762
+> 1                                                                            
+>      1.086287
+                stroke_bin |   .9926379   .0428067    -0.17   0.864     .912186
+> 2                                                                            
+>      1.080185
+                     _cons |   3.012708   .3652205     9.10   0.000     2.37557
+> 5                                                                            
+>      3.820722
+---------------------------+---------------------------------------------------
+-------------
+pracid                     |
+                 var(_cons)|   .5169683   .0496873                      .428205
+> 7                                                                            
+>      .6241304
+-------------------------------------------------------------------------------
+-------------
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 2492.57     Prob >= chibar2 = 0.0000
+
+. estimates store smoking
+
+. estat icc
+
+Residual intraclass correlation
+
+------------------------------------------------------------------------------
+                       Level |        ICC   Std. err.     [95% conf. interval]
+-----------------------------+------------------------------------------------
+                      pracid |      .1358   .0112796      .1151687    .1594611
+------------------------------------------------------------------------------
+
+. 
+. 
+. //iii) Treatment
+. tab flu_vaccine country2, col chi
+
++-------------------+
+| Key               |
+|-------------------|
+|     frequency     |
+| column percentage |
++-------------------+
+
+flu_vaccin |                  country2
+         e |     Wales    England   Scotland  Northern  |     Total
+-----------+--------------------------------------------+----------
+         0 |     3,642      5,958      3,654        965 |    14,219 
+           |     26.81      23.19      26.64      25.59 |     25.05 
+-----------+--------------------------------------------+----------
+         1 |     9,945     19,731     10,063      2,806 |    42,545 
+           |     73.19      76.81      73.36      74.41 |     74.95 
+-----------+--------------------------------------------+----------
+     Total |    13,587     25,689     13,717      3,771 |    56,764 
+           |    100.00     100.00     100.00     100.00 |    100.00 
+
+          Pearson chi2(3) =  88.5061   Pr = 0.000
+
+. melogit flu_vaccine i.country2 || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood =  -31977.17  
+Iteration 1:   log likelihood = -31906.821  
+Iteration 2:   log likelihood = -31906.751  
+Iteration 3:   log likelihood = -31906.751  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -31837.034
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -31837.034  (not concave)
+Iteration 1:   log likelihood = -31726.338  (not concave)
+Iteration 2:   log likelihood = -31682.926  
+Iteration 3:   log likelihood = -31662.337  
+Iteration 4:   log likelihood = -31658.881  
+Iteration 5:   log likelihood =  -31658.86  
+Iteration 6:   log likelihood =  -31658.86  
+
+Mixed-effects logistic regression               Number of obs     =     56,764
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          7
+                                                              avg =      186.1
+                                                              max =        864
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(3)      =      19.68
+Log likelihood = -31658.86                      Prob > chi2       =     0.0002
+-------------------------------------------------------------------------------
+----
+      flu_vaccine | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   1.227886   .0631639     3.99   0.000     1.110123    1.35
+> 8141
+        Scotland  |    1.04118   .0612931     0.69   0.493     .9277194    1.16
+> 8517
+Northern Ireland  |   1.108538   .0977068     1.17   0.242     .9326642    1.31
+> 7576
+                  |
+            _cons |   2.817264   .1171327    24.91   0.000     2.596793    3.05
+> 6453
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   .0885362   .0104354                      .0702738    .111
+> 5446
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 495.78      Prob >= chibar2 = 0.0000
+
+. melogit flu_vaccine i.country2 i.agebands i.gender || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -30448.781  
+Iteration 1:   log likelihood = -30418.851  
+Iteration 2:   log likelihood = -30418.837  
+Iteration 3:   log likelihood = -30418.837  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -30382.333
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -30382.333  (not concave)
+Iteration 1:   log likelihood = -30278.556  (not concave)
+Iteration 2:   log likelihood = -30205.606  
+Iteration 3:   log likelihood = -30203.708  
+Iteration 4:   log likelihood = -30203.669  
+Iteration 5:   log likelihood = -30203.669  
+
+Mixed-effects logistic regression               Number of obs     =     56,764
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          7
+                                                              avg =      186.1
+                                                              max =        864
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(9)      =    2884.47
+Log likelihood = -30203.669                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+----
+      flu_vaccine | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   1.252727   .0644172     4.38   0.000     1.132626    1.38
+> 5564
+        Scotland  |   1.114295   .0656133     1.84   0.066     .9928383    1.25
+> 0609
+Northern Ireland  |   1.227232   .1082448     2.32   0.020     1.032402     1.4
+> 5883
+                  |
+         agebands |
+           35-44  |          1  (base)
+           45-54  |   1.604865   .1114452     6.81   0.000     1.400649    1.83
+> 8856
+           55-64  |   2.760687    .184247    15.22   0.000     2.422191    3.14
+> 6488
+           65-74  |   5.393702   .3584177    25.36   0.000      4.73504    6.14
+> 3987
+           75-84  |   7.089824   .4822394    28.80   0.000     6.204945    8.10
+> 0894
+             85+  |   6.321181   .4740973    24.58   0.000     5.457038    7.32
+> 2165
+                  |
+           gender |
+            Male  |          1  (base)
+          Female  |   .8904749   .0179929    -5.74   0.000     .8558985     .92
+> 6448
+                  |
+            _cons |   .6909917    .052918    -4.83   0.000      .594683    .802
+> 8976
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   .0867109   .0104207                      .0685138    .109
+> 7412
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 430.34      Prob >= chibar2 = 0.0000
+
+. melogit flu_vaccine i.country2 i.agebands i.gender ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin ||
+>  pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -30082.126  
+Iteration 1:   log likelihood = -30044.621  
+Iteration 2:   log likelihood = -30044.607  
+Iteration 3:   log likelihood = -30044.607  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -30004.462
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -30004.462  (not concave)
+Iteration 1:   log likelihood = -29902.621  (not concave)
+Iteration 2:   log likelihood = -29827.593  
+Iteration 3:   log likelihood = -29826.059  
+Iteration 4:   log likelihood = -29826.045  
+Iteration 5:   log likelihood = -29826.045  
+
+Mixed-effects logistic regression               Number of obs     =     56,764
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          7
+                                                              avg =      186.1
+                                                              max =        864
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(22)     =    3479.99
+Log likelihood = -29826.045                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+-------------
+               flu_vaccine | Odds ratio   Std. err.      z    P>|z|     [95% co
+> n                                                                            
+>  f. interval]
+---------------------------+---------------------------------------------------
+-------------
+                  country2 |
+                    Wales  |          1  (base)
+                  England  |   1.283407   .0666076     4.81   0.000     1.15927
+> 9                                                                            
+>      1.420826
+                 Scotland  |   1.181341   .0702468     2.80   0.005      1.0513
+> 8                                                                            
+>      1.327366
+         Northern Ireland  |    1.23089   .1095723     2.33   0.020     1.03382
+> 4                                                                            
+>      1.465522
+                           |
+                  agebands |
+                    35-44  |          1  (base)
+                    45-54  |   1.572634   .1100712     6.47   0.000     1.37104
+> 2                                                                            
+>      1.803868
+                    55-64  |   2.570543   .1737442    13.97   0.000     2.25160
+> 2                                                                            
+>      2.934661
+                    65-74  |   4.822724   .3274675    23.17   0.000     4.22177
+> 4                                                                            
+>      5.509216
+                    75-84  |    6.02367    .422786    25.58   0.000     5.24949
+> 5                                                                            
+>      6.912017
+                      85+  |   5.333309   .4136304    21.58   0.000     4.58121
+> 8                                                                            
+>      6.208871
+                           |
+                    gender |
+                     Male  |          1  (base)
+                   Female  |   .8653838     .01846    -6.78   0.000     .829948
+> 7                                                                            
+>      .9023317
+                           |
+               anxiety_bin |   1.026239   .0254777     1.04   0.297     .977498
+> 6                                                                            
+>      1.077409
+                asthma_bin |   1.288993   .0288264    11.35   0.000     1.23371
+> 5                                                                            
+>      1.346748
+        bronchiectasis_bin |    1.45059   .0771046     7.00   0.000     1.30707
+> 3                                                                            
+>      1.609865
+coronary_heart_disease_bin |   1.126577   .0241892     5.55   0.000     1.08015
+> 1                                                                            
+>      1.174999
+            depression_bin |   1.025639   .0256481     1.01   0.311     .976581
+> 4                                                                            
+>      1.077161
+              diabetes_bin |   1.430586   .0430169    11.91   0.000     1.34871
+> 1                                                                            
+>      1.517432
+         heart_failure_bin |   1.068619   .0479291     1.48   0.139       .9786
+> 9                                                                            
+>      1.166811
+                      pain |   1.301412   .0354476     9.67   0.000     1.23375
+> 8                                                                            
+>      1.372776
+          hypertension_bin |   1.270234   .0281087    10.81   0.000      1.2163
+> 2                                                                            
+>      1.326538
+           lung_cancer_bin |   .9833659   .0793616    -0.21   0.835     .839498
+> 2                                                                            
+>      1.151889
+          osteoporosis_bin |   1.099691   .0371707     2.81   0.005     1.02919
+> 8                                                                            
+>      1.175011
+             psychosis_bin |   .9318752   .0347609    -1.89   0.059      .86617
+> 6                                                                            
+>      1.002558
+                stroke_bin |   1.006935    .037136     0.19   0.851     .936718
+> 1                                                                            
+>      1.082415
+                     _cons |   .5116381   .0403978    -8.49   0.000     .438282
+> 3                                                                            
+>      .5972716
+---------------------------+---------------------------------------------------
+-------------
+pracid                     |
+                 var(_cons)|   .0882946   .0105684                      .069831
+> 3                                                                            
+>      .1116395
+-------------------------------------------------------------------------------
+-------------
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 437.12      Prob >= chibar2 = 0.0000
+
+. estimates store fluvax
+
+. estat icc
+
+Residual intraclass correlation
+
+------------------------------------------------------------------------------
+                       Level |        ICC   Std. err.     [95% conf. interval]
+-----------------------------+------------------------------------------------
+                      pracid |   .0261369   .0030467       .020785    .0328206
+------------------------------------------------------------------------------
+
+. 
+. tab behavanddrug country2, col chi
+
++-------------------+
+| Key               |
+|-------------------|
+|     frequency     |
+| column percentage |
++-------------------+
+
+behavanddr |                  country2
+        ug |     Wales    England   Scotland  Northern  |     Total
+-----------+--------------------------------------------+----------
+         0 |     4,981      9,998      6,218      1,454 |    22,651 
+           |     84.64      86.10      89.48      79.06 |     86.17 
+-----------+--------------------------------------------+----------
+         1 |       904      1,614        731        385 |     3,634 
+           |     15.36      13.90      10.52      20.94 |     13.83 
+-----------+--------------------------------------------+----------
+     Total |     5,885     11,612      6,949      1,839 |    26,285 
+           |    100.00     100.00     100.00     100.00 |    100.00 
+
+          Pearson chi2(3) = 153.4757   Pr = 0.000
+
+. melogit behavanddrug i.country2 || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -10507.627  
+Iteration 1:   log likelihood = -10486.351  
+Iteration 2:   log likelihood = -10486.271  
+Iteration 3:   log likelihood = -10486.271  
+
+Refining starting values:
+
+Grid node 0:   log likelihood =  -10204.31
+
+Fitting full model:
+
+Iteration 0:   log likelihood =  -10204.31  (not concave)
+Iteration 1:   log likelihood = -10180.058  
+Iteration 2:   log likelihood = -10174.066  
+Iteration 3:   log likelihood =  -10173.97  
+Iteration 4:   log likelihood =  -10173.97  
+
+Mixed-effects logistic regression               Number of obs     =     26,285
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          1
+                                                              avg =       86.2
+                                                              max =        391
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(3)      =      35.12
+Log likelihood = -10173.97                      Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+----
+     behavanddrug | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   .9010391   .0962126    -0.98   0.329     .7308911    1.11
+> 0797
+        Scotland  |   .6207277   .0770805    -3.84   0.000     .4866323    .791
+> 7742
+Northern Ireland  |   1.668314   .2927072     2.92   0.004     1.182861       2
+> .353
+                  |
+            _cons |    .173715   .0150311   -20.23   0.000     .1466173    .205
+> 8209
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   .3989881   .0467774                      .3170772    .502
+> 0591
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 624.60      Prob >= chibar2 = 0.0000
+
+. melogit behavanddrug i.country2 i.agebands i.gender || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood =  -10373.67  
+Iteration 1:   log likelihood = -10304.797  
+Iteration 2:   log likelihood = -10304.017  
+Iteration 3:   log likelihood = -10304.014  
+Iteration 4:   log likelihood = -10304.014  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -10022.161
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -10022.161  (not concave)
+Iteration 1:   log likelihood = -9998.6288  
+Iteration 2:   log likelihood =  -9993.089  
+Iteration 3:   log likelihood = -9992.9477  
+Iteration 4:   log likelihood = -9992.9477  
+
+Mixed-effects logistic regression               Number of obs     =     26,285
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          1
+                                                              avg =       86.2
+                                                              max =        391
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(9)      =     348.22
+Log likelihood = -9992.9477                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+----
+     behavanddrug | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   .9119176   .0985028    -0.85   0.393     .7379233    1.12
+> 6938
+        Scotland  |   .6135994   .0770683    -3.89   0.000     .4797045     .78
+> 4867
+Northern Ireland  |   1.608806   .2855983     2.68   0.007     1.136049    2.27
+> 8299
+                  |
+         agebands |
+           35-44  |          1  (base)
+           45-54  |   .8430547   .0974262    -1.48   0.140     .6721839    1.05
+> 7361
+           55-64  |   .7823178   .0871112    -2.20   0.027     .6289292    .973
+> 1159
+           65-74  |   .6176229   .0687727    -4.33   0.000     .4965256    .768
+> 2546
+           75-84  |   .3349608   .0404627    -9.05   0.000     .2643445    .424
+> 4415
+             85+  |   .1800992   .0358565    -8.61   0.000     .1219112    .266
+> 0602
+                  |
+           gender |
+            Male  |          1  (base)
+          Female  |   1.275983   .0478037     6.51   0.000     1.185647    1.37
+> 3203
+                  |
+            _cons |   .2407106   .0333306   -10.29   0.000      .183498    .315
+> 7613
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   .4089525   .0479443                      .3249981    .514
+> 5943
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 622.13      Prob >= chibar2 = 0.0000
+
+. melogit behavanddrug i.country2 i.agebands i.gender ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin ||
+>  pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood =  -10329.71  
+Iteration 1:   log likelihood = -10249.682  
+Iteration 2:   log likelihood = -10248.793  
+Iteration 3:   log likelihood = -10248.789  
+Iteration 4:   log likelihood = -10248.789  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -9966.7157
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -9966.7157  (not concave)
+Iteration 1:   log likelihood = -9943.3174  
+Iteration 2:   log likelihood = -9936.4005  
+Iteration 3:   log likelihood =  -9935.771  
+Iteration 4:   log likelihood =  -9935.771  
+
+Mixed-effects logistic regression               Number of obs     =     26,285
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          1
+                                                              avg =       86.2
+                                                              max =        391
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(22)     =     457.70
+Log likelihood = -9935.771                      Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+-------------
+              behavanddrug | Odds ratio   Std. err.      z    P>|z|     [95% co
+> n                                                                            
+>  f. interval]
+---------------------------+---------------------------------------------------
+-------------
+                  country2 |
+                    Wales  |          1  (base)
+                  England  |   .9229944   .1001102    -0.74   0.460     .746235
+> 1                                                                            
+>      1.141622
+                 Scotland  |   .6048681   .0763186    -3.98   0.000     .472347
+> 1                                                                            
+>      .7745691
+         Northern Ireland  |   1.532529   .2733538     2.39   0.017     1.08039
+> 3                                                                            
+>       2.17388
+                           |
+                  agebands |
+                    35-44  |          1  (base)
+                    45-54  |   .8410736    .097525    -1.49   0.136     .670092
+> 2                                                                            
+>      1.055683
+                    55-64  |   .7733855   .0869118    -2.29   0.022     .620496
+> 6                                                                            
+>      .9639459
+                    65-74  |   .6163679   .0701403    -4.25   0.000     .493147
+> 2                                                                            
+>      .7703773
+                    75-84  |   .3305003   .0411844    -8.88   0.000      .25888
+> 2                                                                            
+>      .4219315
+                      85+  |   .1819498   .0368552    -8.41   0.000     .122330
+> 5                                                                            
+>      .2706254
+                           |
+                    gender |
+                     Male  |          1  (base)
+                   Female  |   1.219589   .0479405     5.05   0.000     1.12915
+> 6                                                                            
+>      1.317265
+                           |
+               anxiety_bin |   1.053888   .0459935     1.20   0.229     .967490
+> 2                                                                            
+>      1.148001
+                asthma_bin |   .9278622   .0388876    -1.79   0.074     .854690
+> 3                                                                            
+>      1.007298
+        bronchiectasis_bin |    .792678   .0977259    -1.88   0.059     .622523
+> 5                                                                            
+>      1.009341
+coronary_heart_disease_bin |   1.183491   .0460382     4.33   0.000     1.09661
+> 2                                                                            
+>      1.277253
+            depression_bin |   1.132181   .0495509     2.84   0.005     1.03911
+> 2                                                                            
+>      1.233586
+              diabetes_bin |   .9343119   .0501951    -1.26   0.206     .840933
+> 8                                                                            
+>      1.038059
+         heart_failure_bin |   1.159456   .1019951     1.68   0.093     .975833
+> 5                                                                            
+>      1.377631
+                      pain |    1.20662   .0543907     4.17   0.000      1.1045
+> 9                                                                            
+>      1.318074
+          hypertension_bin |   .9530864    .039031    -1.17   0.241     .879576
+> 6                                                                            
+>       1.03274
+           lung_cancer_bin |   1.756212   .2294891     4.31   0.000     1.35940
+> 2                                                                            
+>       2.26885
+          osteoporosis_bin |   1.068292   .0665868     1.06   0.289     .945441
+> 2                                                                            
+>      1.207106
+             psychosis_bin |   1.119262   .0668867     1.89   0.059     .995552
+> 9                                                                            
+>      1.258344
+                stroke_bin |   1.229331   .0798714     3.18   0.001     1.08234
+> 3                                                                            
+>       1.39628
+                     _cons |   .2075587    .029507   -11.06   0.000     .157084
+> 1                                                                            
+>      .2742519
+---------------------------+---------------------------------------------------
+-------------
+pracid                     |
+                 var(_cons)|   .4120933   .0482817                       .32754
+> 2                                                                            
+>      .5184705
+-------------------------------------------------------------------------------
+-------------
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 626.04      Prob >= chibar2 = 0.0000
+
+. estimates store smokcess
+
+. estat icc
+
+Residual intraclass correlation
+
+------------------------------------------------------------------------------
+                       Level |        ICC   Std. err.     [95% conf. interval]
+-----------------------------+------------------------------------------------
+                      pracid |   .1113175   .0115904       .090546    .1361409
+------------------------------------------------------------------------------
+
+. 
+. tab mrc3plus_pr3yrs country2, col chi
+
++-------------------+
+| Key               |
+|-------------------|
+|     frequency     |
+| column percentage |
++-------------------+
+
+mrc3plus_p |                  country2
+     r3yrs |     Wales    England   Scotland  Northern  |     Total
+-----------+--------------------------------------------+----------
+         0 |       610      7,127      3,372      1,028 |    12,137 
+           |     30.05      80.76      77.73      65.64 |     72.42 
+-----------+--------------------------------------------+----------
+         1 |     1,420      1,698        966        538 |     4,622 
+           |     69.95      19.24      22.27      34.36 |     27.58 
+-----------+--------------------------------------------+----------
+     Total |     2,030      8,825      4,338      1,566 |    16,759 
+           |    100.00     100.00     100.00     100.00 |    100.00 
+
+          Pearson chi2(3) =  2.2e+03   Pr = 0.000
+
+. melogit mrc3plus_pr3yrs i.country2 || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -8882.0505  
+Iteration 1:   log likelihood = -8870.3468  
+Iteration 2:   log likelihood = -8870.3392  
+Iteration 3:   log likelihood = -8870.3392  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -7044.8937
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -7044.8937  
+Iteration 1:   log likelihood = -6992.5946  
+Iteration 2:   log likelihood = -6986.1306  
+Iteration 3:   log likelihood =  -6985.959  
+Iteration 4:   log likelihood =  -6985.959  
+
+Mixed-effects logistic regression               Number of obs     =     16,759
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          1
+                                                              avg =       54.9
+                                                              max =        207
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(3)      =     159.17
+Log likelihood = -6985.959                      Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+----
+  mrc3plus_pr3yrs | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   .0543296     .01304   -12.14   0.000     .0339418    .086
+> 9638
+        Scotland  |   .0662404    .018139    -9.91   0.000     .0387288    .113
+> 2955
+Northern Ireland  |   .1313796   .0521841    -5.11   0.000     .0603157    .286
+> 1712
+                  |
+            _cons |   2.400406   .4689644     4.48   0.000     1.636766    3.52
+> 0326
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   2.337651   .2396225                       1.91217    2.85
+> 7805
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 3768.76     Prob >= chibar2 = 0.0000
+
+. melogit mrc3plus_pr3yrs i.country2 i.agebands i.gender || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -8808.7737  
+Iteration 1:   log likelihood = -8795.1616  
+Iteration 2:   log likelihood =  -8795.153  
+Iteration 3:   log likelihood =  -8795.153  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -6966.6307
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -6966.6307  
+Iteration 1:   log likelihood = -6911.8889  
+Iteration 2:   log likelihood = -6903.3811  
+Iteration 3:   log likelihood = -6902.8489  
+Iteration 4:   log likelihood = -6902.8472  
+Iteration 5:   log likelihood = -6902.8472  
+
+Mixed-effects logistic regression               Number of obs     =     16,759
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          1
+                                                              avg =       54.9
+                                                              max =        207
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(9)      =     309.86
+Log likelihood = -6902.8472                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+----
+  mrc3plus_pr3yrs | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   .0545864   .0132112   -12.02   0.000     .0339683    .087
+> 7192
+        Scotland  |   .0659842   .0182164    -9.85   0.000     .0384102     .11
+> 3353
+Northern Ireland  |   .1278442   .0511989    -5.14   0.000     .0583167    .280
+> 2651
+                  |
+         agebands |
+           35-44  |          1  (base)
+           45-54  |   .9634998   .2176141    -0.16   0.869     .6188721    1.50
+> 0038
+           55-64  |   1.067242   .2306089     0.30   0.763     .6987724    1.63
+> 0009
+           65-74  |   1.195611   .2558574     0.83   0.404     .7860232    1.81
+> 8632
+           75-84  |   .8240182   .1773934    -0.90   0.369     .5403702    1.25
+> 6557
+             85+  |   .4646726   .1049183    -3.39   0.001     .2985069    .723
+> 3353
+                  |
+           gender |
+            Male  |          1  (base)
+          Female  |   .8068906   .0359667    -4.81   0.000     .7393887     .88
+> 0555
+                  |
+            _cons |   2.812919   .8115858     3.58   0.000     1.597967    4.95
+> 1613
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   2.376515   .2433707                      1.944338    2.90
+> 4752
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 3784.61     Prob >= chibar2 = 0.0000
+
+. melogit mrc3plus_pr3yrs i.country2 i.agebands i.gender ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin ||
+>  pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -8787.0528  
+Iteration 1:   log likelihood = -8773.1935  
+Iteration 2:   log likelihood = -8773.1848  
+Iteration 3:   log likelihood = -8773.1848  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -6955.7892
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -6955.7892  
+Iteration 1:   log likelihood =  -6896.078  
+Iteration 2:   log likelihood = -6884.9269  
+Iteration 3:   log likelihood = -6884.1585  
+Iteration 4:   log likelihood = -6884.1585  
+
+Mixed-effects logistic regression               Number of obs     =     16,759
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          1
+                                                              avg =       54.9
+                                                              max =        207
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(22)     =     343.47
+Log likelihood = -6884.1585                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+-------------
+           mrc3plus_pr3yrs | Odds ratio   Std. err.      z    P>|z|     [95% co
+> n                                                                            
+>  f. interval]
+---------------------------+---------------------------------------------------
+-------------
+                  country2 |
+                    Wales  |          1  (base)
+                  England  |   .0544454   .0132135   -11.99   0.000     .033836
+> 2                                                                            
+>      .0876075
+                 Scotland  |   .0661662   .0183225    -9.81   0.000     .038452
+> 6                                                                            
+>      .1138539
+         Northern Ireland  |   .1263624   .0507576    -5.15   0.000     .057504
+> 8                                                                            
+>      .2776714
+                           |
+                  agebands |
+                    35-44  |          1  (base)
+                    45-54  |   .9768359   .2210139    -0.10   0.917     .626950
+> 2                                                                            
+>      1.521984
+                    55-64  |   1.100267   .2388259     0.44   0.660     .719009
+> 7                                                                            
+>      1.683687
+                    65-74  |   1.238896   .2678498     0.99   0.322     .810970
+> 3                                                                            
+>      1.892627
+                    75-84  |   .8570593   .1874933    -0.71   0.481     .558211
+> 9                                                                            
+>      1.315899
+                      85+  |   .4814516   .1106538    -3.18   0.001     .306844
+> 2                                                                            
+>      .7554182
+                           |
+                    gender |
+                     Male  |          1  (base)
+                   Female  |   .7871159   .0369977    -5.09   0.000     .717841
+> 7                                                                            
+>      .8630754
+                           |
+               anxiety_bin |   .9752398    .051928    -0.47   0.638     .878593
+> 4                                                                            
+>      1.082517
+                asthma_bin |   1.032248   .0504564     0.65   0.516      .93794
+> 5                                                                            
+>      1.136033
+        bronchiectasis_bin |   1.133608   .1021935     1.39   0.164     .950010
+> 1                                                                            
+>      1.352689
+coronary_heart_disease_bin |   1.085631   .0502252     1.78   0.076     .991522
+> 5                                                                            
+>      1.188672
+            depression_bin |   1.022885    .054733     0.42   0.672     .921044
+> 2                                                                            
+>      1.135987
+              diabetes_bin |   .8345624   .0478624    -3.15   0.002     .745834
+> 1                                                                            
+>      .9338464
+         heart_failure_bin |   .9081887   .0726851    -1.20   0.229     .776339
+> 8                                                                            
+>       1.06243
+                      pain |   .8646463   .0470865    -2.67   0.008      .77711
+> 3                                                                            
+>      .9620393
+          hypertension_bin |   .9510989   .0459138    -1.04   0.299     .865235
+> 6                                                                            
+>      1.045483
+           lung_cancer_bin |   .9762035   .1468159    -0.16   0.873     .726982
+> 7                                                                            
+>      1.310861
+          osteoporosis_bin |   1.127137   .0728795     1.85   0.064     .992976
+> 8                                                                            
+>      1.279424
+             psychosis_bin |   .9037582   .0743793    -1.23   0.219     .769127
+> 6                                                                            
+>      1.061955
+                stroke_bin |   .8926336   .0640914    -1.58   0.114     .775455
+> 1                                                                            
+>      1.027519
+                     _cons |   2.888374   .8434856     3.63   0.000     1.62959
+> 2                                                                            
+>      5.119505
+---------------------------+---------------------------------------------------
+-------------
+pracid                     |
+                 var(_cons)|   2.389469   .2446428                      1.95502
+> 4                                                                            
+>      2.920456
+-------------------------------------------------------------------------------
+-------------
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 3778.05     Prob >= chibar2 = 0.0000
+
+. estimates store pr_ref
+
+. estat icc
+
+Residual intraclass correlation
+
+------------------------------------------------------------------------------
+                       Level |        ICC   Std. err.     [95% conf. interval]
+-----------------------------+------------------------------------------------
+                      pracid |   .4207303   .0249526      .3727482    .4702582
+------------------------------------------------------------------------------
+
+. 
+. tab mrc3plus_pr3yrs_nox country2, col chi
+
++-------------------+
+| Key               |
+|-------------------|
+|     frequency     |
+| column percentage |
++-------------------+
+
+mrc3plus_p |                  country2
+ r3yrs_nox |     Wales    England   Scotland  Northern  |     Total
+-----------+--------------------------------------------+----------
+         0 |     3,364      8,206      4,301      1,082 |    16,953 
+           |     64.66      82.04      80.59      66.63 |     76.48 
+-----------+--------------------------------------------+----------
+         1 |     1,839      1,797      1,036        542 |     5,214 
+           |     35.34      17.96      19.41      33.37 |     23.52 
+-----------+--------------------------------------------+----------
+     Total |     5,203     10,003      5,337      1,624 |    22,167 
+           |    100.00     100.00     100.00     100.00 |    100.00 
+
+          Pearson chi2(3) = 713.7968   Pr = 0.000
+
+. melogit mrc3plus_pr3yrs_nox i.country2 || pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -11762.579  
+Iteration 1:   log likelihood = -11750.319  
+Iteration 2:   log likelihood = -11750.315  
+Iteration 3:   log likelihood = -11750.315  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -9937.0067
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -9937.0067  
+Iteration 1:   log likelihood =  -9898.025  
+Iteration 2:   log likelihood = -9893.5866  
+Iteration 3:   log likelihood = -9893.5159  
+Iteration 4:   log likelihood = -9893.5156  
+
+Mixed-effects logistic regression               Number of obs     =     22,167
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          1
+                                                              avg =       72.7
+                                                              max =        266
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(3)      =      65.33
+Log likelihood = -9893.5156                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+----
+mrc3plus_pr3yrs~x | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   .2140469   .0436624    -7.56   0.000      .143508    .319
+> 2579
+        Scotland  |   .2374211   .0556451    -6.14   0.000     .1499756    .375
+> 8529
+Northern Ireland  |   .5765304   .1980643    -1.60   0.109     .2940329    1.13
+> 0443
+                  |
+            _cons |   .5347436   .0873067    -3.83   0.000     .3883035    .736
+> 4104
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   1.743425   .1787166                      1.426092    2.13
+> 1371
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 3713.60     Prob >= chibar2 = 0.0000
+
+. melogit mrc3plus_pr3yrs_nox i.country2 i.agebands i.gender || pracid:, base o
+> r
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -11653.098  
+Iteration 1:   log likelihood = -11637.162  
+Iteration 2:   log likelihood = -11637.154  
+Iteration 3:   log likelihood = -11637.154  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -9812.4098
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -9812.4098  
+Iteration 1:   log likelihood = -9769.7368  
+Iteration 2:   log likelihood = -9764.8991  
+Iteration 3:   log likelihood = -9764.7762  
+Iteration 4:   log likelihood = -9764.7761  
+
+Mixed-effects logistic regression               Number of obs     =     22,167
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          1
+                                                              avg =       72.7
+                                                              max =        266
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(9)      =     301.05
+Log likelihood = -9764.7761                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+----
+mrc3plus_pr3yrs~x | Odds ratio   Std. err.      z    P>|z|     [95% conf. inter
+> val]
+------------------+------------------------------------------------------------
+----
+         country2 |
+           Wales  |          1  (base)
+         England  |   .2130224   .0439575    -7.49   0.000     .1421604    .319
+> 2069
+        Scotland  |   .2309037   .0547471    -6.18   0.000     .1450814    .367
+> 4939
+Northern Ireland  |   .5492769   .1908891    -1.72   0.085     .2779553    1.08
+> 5445
+                  |
+         agebands |
+           35-44  |          1  (base)
+           45-54  |   .7716758   .1470137    -1.36   0.174     .5312152    1.12
+> 0984
+           55-64  |   .7768766   .1415604    -1.39   0.166     .5435612    1.11
+> 0339
+           65-74  |   .8220934   .1483891    -1.09   0.278     .5771357     1.1
+> 7102
+           75-84  |   .5521888   .1002302    -3.27   0.001     .3868853     .78
+> 8121
+             85+  |   .3099863   .0590807    -6.15   0.000      .213359    .450
+> 3749
+                  |
+           gender |
+            Male  |          1  (base)
+          Female  |   .8729573   .0320827    -3.70   0.000     .8122877    .938
+> 1583
+                  |
+            _cons |    .873139   .2123816    -0.56   0.577     .5420481    1.40
+> 6465
+------------------+------------------------------------------------------------
+----
+pracid            |
+        var(_cons)|   1.785455   .1827106                      1.460976       2
+> .182
+-------------------------------------------------------------------------------
+----
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 3744.76     Prob >= chibar2 = 0.0000
+
+. melogit mrc3plus_pr3yrs_nox i.country2 i.agebands i.gender ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin ||
+>  pracid:, base or
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood =  -11623.51  
+Iteration 1:   log likelihood = -11607.045  
+Iteration 2:   log likelihood = -11607.036  
+Iteration 3:   log likelihood = -11607.036  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -9792.4449
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -9792.4449  
+Iteration 1:   log likelihood = -9743.3724  
+Iteration 2:   log likelihood = -9737.8149  
+Iteration 3:   log likelihood = -9737.5874  
+Iteration 4:   log likelihood = -9737.5872  
+
+Mixed-effects logistic regression               Number of obs     =     22,167
+Group variable: pracid                          Number of groups  =        305
+
+                                                Obs per group:
+                                                              min =          1
+                                                              avg =       72.7
+                                                              max =        266
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(22)     =     351.74
+Log likelihood = -9737.5872                     Prob > chi2       =     0.0000
+-------------------------------------------------------------------------------
+-------------
+       mrc3plus_pr3yrs_nox | Odds ratio   Std. err.      z    P>|z|     [95% co
+> n                                                                            
+>  f. interval]
+---------------------------+---------------------------------------------------
+-------------
+                  country2 |
+                    Wales  |          1  (base)
+                  England  |   .2120644   .0439187    -7.49   0.000     .141313
+> 3                                                                            
+>      .3182382
+                 Scotland  |   .2330875   .0554732    -6.12   0.000     .146197
+> 2                                                                            
+>      .3716199
+         Northern Ireland  |   .5473447    .190941    -1.73   0.084      .27626
+> 1                                                                            
+>      1.084432
+                           |
+                  agebands |
+                    35-44  |          1  (base)
+                    45-54  |   .7753974   .1479495    -1.33   0.182     .533471
+> 3                                                                            
+>      1.127036
+                    55-64  |    .789172    .144388    -1.29   0.196     .551359
+> 2                                                                            
+>      1.129558
+                    65-74  |   .8318508   .1515372    -1.01   0.312     .582080
+> 6                                                                            
+>      1.188797
+                    75-84  |   .5581944     .10282    -3.17   0.002      .38903
+> 9                                                                            
+>       .800899
+                      85+  |   .3114247   .0603273    -6.02   0.000     .213041
+> 1                                                                            
+>      .4552425
+                           |
+                    gender |
+                     Male  |          1  (base)
+                   Female  |   .8573782   .0332538    -3.97   0.000     .794617
+> 7                                                                            
+>      .9250956
+                           |
+               anxiety_bin |    .966043   .0428641    -0.78   0.436     .885580
+> 3                                                                            
+>      1.053817
+                asthma_bin |   1.074795   .0431745     1.80   0.073     .993419
+> 8                                                                            
+>      1.162836
+        bronchiectasis_bin |   1.172833   .0877517     2.13   0.033     1.01285
+> 9                                                                            
+>      1.358074
+coronary_heart_disease_bin |   1.075447   .0411281     1.90   0.057     .997784
+> 1                                                                            
+>      1.159154
+            depression_bin |   1.030078   .0457395     0.67   0.505     .944220
+> 7                                                                            
+>      1.123743
+              diabetes_bin |   .8895695   .0416464    -2.50   0.012     .811577
+> 1                                                                            
+>       .975057
+         heart_failure_bin |   .9039814   .0581834    -1.57   0.117     .796843
+> 8                                                                            
+>      1.025524
+                      pain |   .8251069   .0371011    -4.28   0.000     .755502
+> 3                                                                            
+>      .9011241
+          hypertension_bin |    .974061   .0387421    -0.66   0.509     .901012
+> 1                                                                            
+>      1.053032
+           lung_cancer_bin |   1.027299   .1274724     0.22   0.828     .805518
+> 6                                                                            
+>      1.310142
+          osteoporosis_bin |   1.097305   .0584743     1.74   0.081     .988479
+> 6                                                                            
+>      1.218112
+             psychosis_bin |   .8835537   .0598511    -1.83   0.068     .773701
+> 3                                                                            
+>      1.009003
+                stroke_bin |    .888574   .0521076    -2.01   0.044     .792095
+> 6                                                                            
+>      .9968036
+                     _cons |   .8943694   .2200526    -0.45   0.650     .552186
+> 1                                                                            
+>        1.4486
+---------------------------+---------------------------------------------------
+-------------
+pracid                     |
+                 var(_cons)|   1.798713   .1840617                      1.47183
+> 4                                                                            
+>      2.198189
+-------------------------------------------------------------------------------
+-------------
+Note: Estimates are transformed only in the first equation to odds ratios.
+Note: _cons estimates baseline odds (conditional on zero random effects).
+LR test vs. logistic model: chibar2(01) = 3738.90     Prob >= chibar2 = 0.0000
+
+. estat icc
+
+Residual intraclass correlation
+
+------------------------------------------------------------------------------
+                       Level |        ICC   Std. err.     [95% conf. interval]
+-----------------------------+------------------------------------------------
+                      pracid |   .3534803   .0233856      .3090983    .4005405
+------------------------------------------------------------------------------
+
+. 
+. 
+. coefplot spirometry cxr mrc_grade smoking fluvax smokcess pr_ref ///
+>                  , graphregion(color(white)) bgcolor(white) ///
+>                  xlab(0.1 0.5(0.5)3, grid glcolor(gs15)) ylab(, glcolor(gs15)
+> ) ///
+>                  xtitle("Odds ratio") ///
+>                  eform xscale(log range(0.02 3)) ///
+>                  coeflabels(, wrap(12)) ciopts(recast(rcap)) ///
+>                  xline(1, lcolor(black) lwidth(thin) lpattern(dash)) ///
+>                  drop(_cons *.agebands *.gender ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin) /
+> //
+>                  legend(order(2 "Confirmation of airway obstruction" 4 "Chest
+>  X-ray" 6 "Record of MRC grade in the past year" 8 "Record of smoking status 
+> in the past year" 10 "Receipt of seasonal influenza immunisation" 12 "Smoking
+>  cessation treatment" 14 "Referred to pulmonary rehabilitation"))
+
+. graph save graphs/all_outcomes, replace
+file graphs/all_outcomes.gph saved
+
+. 
+. 
+. coefplot (spirometry, color(blue) ciopts(lc(blue) recast(rcap))) ///
+>                  (cxr, color(orange) ciopts(lc(orange) recast(rcap))) ///
+>                  , graphregion(color(white)) bgcolor(white) ///
+>                  xlab(0.1 0.5(0.5)3, grid glcolor(gs15)) ylab(, glcolor(gs15)
+> ) ///
+>                  xtitle("Odds ratio") ///
+>                  eform xscale(log range(0.02 3)) ///
+>                  coeflabels(, wrap(12)) ///
+>                  xline(1, lcolor(black) lwidth(thin) lpattern(dash)) ///
+>                  drop(_cons *.agebands *.gender ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin) /
+> //
+>                  title("Diagnosis", color(black)) ///
+>                  legend(region(lcolor(white)) col(1) ///
+>                  order(2 "Confirmation of airway obstruction" 4 "Chest X-ray"
+>  6 ""))
+
+. graph save graphs/spirometry_cxr, replace
+file graphs/spirometry_cxr.gph saved
+
+.                  
+. coefplot (mrc_grade, color(gray) ciopts(lc(gray) recast(rcap))) ///
+>                  (smoking, color(gold) ciopts(lc(gold) recast(rcap))) ///
+>                  , graphregion(color(white)) bgcolor(white) ///
+>                  xlab(0.1 0.5(0.5)3, grid glcolor(gs15)) ylab(, glcolor(gs15)
+> ) ///
+>                  xtitle("Odds ratio") ///
+>                  eform xscale(log range(0.02 3)) yscale(off) ///
+>                  coeflabels(, wrap(12)) ///
+>                  xline(1, lcolor(black) lwidth(thin) lpattern(dash)) ///
+>                  drop(_cons *.agebands *.gender ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin) /
+> //
+>                  title("Assessment", color(black)) ///
+>                  legend(region(lcolor(white)) col(1) ///
+>                  order(2 "Record of MRC grade in the past year" 4 "Record of 
+> smoking status in the past year" 6 ""))
+
+. graph save graphs/mrc_smoking, replace
+file graphs/mrc_smoking.gph saved
+
+. 
+. coefplot (fluvax, color(midblue) ciopts(lc(midblue) recast(rcap))) ///
+>                  (smokcess, color(green) ciopts(lc(green) recast(rcap))) ///
+>                  (pr_ref, color(dknavy) ciopts(lc(dknavy) recast(rcap))) ///
+>                  , graphregion(color(white)) bgcolor(white) ///
+>                  xlabel(0.1 0.5(0.5)3, grid glcolor(gs15)) ylabel(, glcolor(g
+> s15)) ///
+>                  xtitle("Odds ratio") ///
+>                  eform xscale(log range(0.02 3)) yscale(off) ///
+>                  coeflabels(, wrap(12)) ///
+>                  xline(1, lcolor(black) lwidth(thin) lpattern(dash)) ///
+>                  drop(_cons *.agebands *.gender ///
+>                  anxiety_bin asthma_bin bronchiectasis_bin coronary_heart_dis
+> ease_bin ///
+>                  depression_bin diabetes_bin heart_failure_bin pain hypertens
+> ion_bin ///
+>                  lung_cancer_bin osteoporosis_bin psychosis_bin stroke_bin) /
+> //
+>                  title("High-value care", color(black)) ///
+>                  legend(region(lcolor(white)) col(1) ///
+>                  order(2 "Receipt of seasonal influenza immunisation" 4 "Smok
+> ing cessation treatment" 6 "Referred to pulmonary rehabilitation"))
+
+. graph save graphs/fluvax_smokcess_pr, replace
+file graphs/fluvax_smokcess_pr.gph saved
+
+. 
+. 
+. graph combine graphs/spirometry_cxr.gph /// 
+>                           graphs/mrc_smoking.gph ///
+>                           graphs/fluvax_smokcess_pr.gph ///
+>                           , graphregion(color(white)) scale(0.95) cols(3) xsi
+> ze(30) ysize(10)
+
+. graph save graphs/combined_three, replace
+file graphs/combined_three.gph saved
+
+. graph export graphs/combined_three.svg, replace
+file graphs/combined_three.svg saved as SVG format
+
+. graph export graphs/combined_three.pdf, replace
+file graphs/combined_three.pdf saved as PDF format
+
+. graph export graphs/combined_three.eps, replace
+file graphs/combined_three.eps saved as EPS format
+
+. 
+. 
+. log close
+      name:  <unnamed>
+       log:  C:\Users\pstone\OneDrive - Imperial College London\PhD\Objective 2
+>  & 3 - CPRD NCAP Primary Care Audit Replication\CPRD GOLD Analysis\analysis_l
+> ogs/CountryRegressionAnalysis_RE_v2.smcl
+  log type:  smcl
+ closed on:  14 Sep 2022, 21:02:14
+-------------------------------------------------------------------------------
